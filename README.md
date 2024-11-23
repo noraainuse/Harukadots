@@ -8,3 +8,15 @@
 </div>
 
 # Contents 📚:
+### **☘ Don't copy all setup , Use at your own risk :3**
+### Overview 🎑
+
+- [🌳 Windows Manager]:
+  - [🍚 HyprLand](https://hyprland.org/)
+- [🔳 Terminal]:
+  - [Kitty 🐈‍⬛](https://sw.kovidgoyal.net/kitty/)
+  - [Alacritty 🗻](https://alacritty.org/)
+- [🌌 Shell](#shell): 
+    - [Oh My Zsh](https://ohmyz.sh/#install)
+    - **Plugin Manager**: [Zap](https://www.zapzsh.org/)
+    - **🤖 Prompt**: [Powerlevel10k Prompt (˶˃ ᵕ ˂˶)](https://github.com/romkatv/powerlevel10k)

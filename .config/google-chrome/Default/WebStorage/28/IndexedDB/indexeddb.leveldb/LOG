@@ -1,6 +1,0 @@
-2024/11/23-11:32:43.757 d56 Creating DB /home/noraa/.config/google-chrome/Default/WebStorage/28/IndexedDB/indexeddb.leveldb since it was missing.
-2024/11/23-11:32:43.769 d56 Reusing MANIFEST /home/noraa/.config/google-chrome/Default/WebStorage/28/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/11/23-11:45:43.018 d4e Level-0 table #5: started
-2024/11/23-11:45:43.021 d4e Level-0 table #5: 24524 bytes OK
-2024/11/23-11:45:43.023 d4e Delete type=0 #3
-2024/11/23-11:45:43.023 d4e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

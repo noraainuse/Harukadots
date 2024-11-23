@@ -1,6 +1,0 @@
-2024/11/23-15:58:13.193 10f2 Creating DB /home/noraa/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2024/11/23-15:58:13.198 10f2 Reusing MANIFEST /home/noraa/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/23-18:04:09.415 10f3 Level-0 table #5: started
-2024/11/23-18:04:09.418 10f3 Level-0 table #5: 2158 bytes OK
-2024/11/23-18:04:09.421 10f3 Delete type=0 #3
-2024/11/23-18:04:09.422 10f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

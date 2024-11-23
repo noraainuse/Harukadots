@@ -5,5 +5,6 @@
     <h3>🔮 noraainuse Dot Files 🔮</h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=300&lines=Love+To+Elaina-sann+%3A3"
 </div>
+</div>
 
 # Contents 📚:

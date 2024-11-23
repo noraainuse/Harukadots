@@ -1,6 +1,0 @@
-2024/11/22-23:03:51.871 fa3 Reusing MANIFEST /home/noraa/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/11/22-23:03:51.901 fa3 Recovering log #10
-2024/11/22-23:03:51.902 fa3 Reusing old log /home/noraa/.config/vesktop/sessionData/Local Storage/leveldb/000010.log 
-2024/11/22-23:05:52.362 fa4 Level-0 table #14: started
-2024/11/22-23:05:52.366 fa4 Level-0 table #14: 48321 bytes OK
-2024/11/22-23:05:52.370 fa4 Delete type=0 #10

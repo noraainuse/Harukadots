@@ -61,12 +61,12 @@ yay -S waybar-hyprland rofi dunst kitty swaybg swaylock-fancy-git swayidle pamix
   ```
   yay -S ttf-font-awesome
   ```
-  Then run this command for your system to detect the newly installed fonts.
+  Once you download them and unpack them, place them into `~/.fonts` or `~/.local/share/fonts.`
+Then run this command for your system to detect the newly installed fonts.
 
 ```
 fc-cache -fv
 ```
-  Once you download them and unpack them, place them into `~/.fonts` or `~/.local/share/fonts.`
 ### Clone Dotfiles 🌙:
 ```
 git clone https://github.com/noraainuse/dotfiles

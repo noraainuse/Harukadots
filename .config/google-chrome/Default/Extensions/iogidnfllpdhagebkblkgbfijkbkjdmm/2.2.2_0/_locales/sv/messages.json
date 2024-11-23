@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Fångar... ]"
+   },
+   "action_button_enable": {
+      "message": "Ström hittad\n[ Klicka för att ladda ner ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Förmodligen nedladdningsbar\n[ Klicka för att försöka ]"
+   },
+   "action_button_loader": {
+      "message": "Laddar..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klicka för att försöka fånga videon ]"
+   },
+   "audio": {
+      "message": "Ljud"
+   },
+   "capture_reason_1": {
+      "message": "Vill du växla till videofångstläge?"
+   },
+   "capture_reason_2": {
+      "message": "Inget videoindex hittades.\u003Cbr>Vill du växla till videofångstläge?"
+   },
+   "capture_reason_3": {
+      "message": "Vill du använda fångstläge som tidigare?"
+   },
+   "disableAdblockMessage": {
+      "message": "Nedladdningsfel kan också orsakas av ad-blocker!\u003Cbr>Skulle du kunna inaktivera din ad-blocker för att stödja oss i ytterligare utveckling av vår tjänst?"
+   },
+   "drm_detected": {
+      "message": "Videon kan vara skyddad av DRM-tekniker."
+   },
+   "error_403": {
+      "message": "Åtkomst nekad."
+   },
+   "error_404": {
+      "message": "Filen hittades inte."
+   },
+   "error_408": {
+      "message": "Timeout."
+   },
+   "error_fetch": {
+      "message": "Misslyckades med att hämta filen."
+   },
+   "error_label": {
+      "message": "Fel."
+   },
+   "error_no_audio": {
+      "message": "Inget ljud."
+   },
+   "error_no_downloadable": {
+      "message": "En nedladdningsbar video hittades inte i indexfilen."
+   },
+   "error_no_index": {
+      "message": "Ett fel inträffade vid hämtning av indexfilen."
+   },
+   "error_no_video": {
+      "message": "Ingen video."
+   },
+   "error_quality_select": {
+      "message": "Ett fel inträffade vid kontroll av videokvaliteten."
+   },
+   "error_try_capture": {
+      "message": "Försök \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Fångstläge\u003C/a> om nödvändigt."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Du kan ladda ner och spara live streamingvideo i HLS / m3u8-format."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Avbruten"
+   },
+   "message_completed": {
+      "message": "Slutförd"
+   },
+   "message_error_network": {
+      "message": "Nätverksfel"
+   },
+   "message_failed": {
+      "message": "Nedladdning misslyckades"
+   },
+   "message_fatal": {
+      "message": "Allvarligt fel. Tyvärr kan nedladdningen inte återupptas. Försök igen."
+   },
+   "message_resume": {
+      "message": "Återupptog nedladdning"
+   },
+   "quality": {
+      "message": "Kvalitet"
+   },
+   "quality_custom": {
+      "message": "Anpassad"
+   },
+   "quality_high": {
+      "message": "Hög"
+   },
+   "quality_low": {
+      "message": "Låg"
+   },
+   "refer_troubleshoot": {
+      "message": "Vänligen se \u003Ca href=\"#troubleshoot\">Felsökning\u003C/a> för detaljer."
+   },
+   "subtitle": {
+      "message": "Undertext"
+   },
+   "title_completed": {
+      "message": "Avslutad"
+   },
+   "title_loading": {
+      "message": "Laddar"
+   },
+   "title_recording": {
+      "message": "Spelar in"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Kapitlet i strömmen har ändrats, men inspelningen fortsätter."
+   },
+   "warn_chunksize_excess": {
+      "message": "Antalet fragment i strömmen är över NUM_CHUNKS. Spara omedelbart denna video och försök att spela in igen, eftersom den kanske inte kan bearbetas vidare."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "En del av strömmen saknas, men inspelningen fortsätter."
+   },
+   "webm_detected": {
+      "message": "WebM stöds för närvarande inte."
+   }
+}

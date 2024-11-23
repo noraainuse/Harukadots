@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ در حال ضبط... ]"
+   },
+   "action_button_enable": {
+      "message": "جریان یافت شد\n[ برای دانلود کلیک کنید ]"
+   },
+   "action_button_enable_weak": {
+      "message": "احتمالا قابل دانلود\n[ برای تلاش کلیک کنید ]"
+   },
+   "action_button_loader": {
+      "message": "در حال بارگذاری..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ برای تلاش در ضبط ویدئو کلیک کنید ]"
+   },
+   "audio": {
+      "message": "صدا"
+   },
+   "capture_reason_1": {
+      "message": "آیا می‌خواهید به حالت ضبط ویدیو تغییر دهید؟"
+   },
+   "capture_reason_2": {
+      "message": "فهرست ویدیو یافت نشد.\u003Cbr>آیا می‌خواهید به حالت ضبط ویدیو تغییر دهید؟"
+   },
+   "capture_reason_3": {
+      "message": "آیا می‌خواهید مانند قبل از حالت ضبط استفاده کنید؟"
+   },
+   "disableAdblockMessage": {
+      "message": "خطاهای دانلود ممکن است به دلیل فعال بودن بلاک‌کننده تبلیغات باشد!\u003Cbr>لطفاً برای حمایت از ما در توسعه بیشتر سرویس، بلاک‌کننده تبلیغات خود را غیرفعال کنید."
+   },
+   "drm_detected": {
+      "message": "ممکن است ویدیو توسط فناوری‌های DRM (مدیریت حقوق دیجیتال) محافظت شده باشد."
+   },
+   "error_403": {
+      "message": "دسترسی رد شد."
+   },
+   "error_404": {
+      "message": "فایل یافت نشد."
+   },
+   "error_408": {
+      "message": "وقت‌سپری."
+   },
+   "error_fetch": {
+      "message": "خطا در دریافت فایل."
+   },
+   "error_label": {
+      "message": "خطا."
+   },
+   "error_no_audio": {
+      "message": "صدا وجود ندارد."
+   },
+   "error_no_downloadable": {
+      "message": "ویدئوی قابل دانلودی در فایل فهرست یافت نشد."
+   },
+   "error_no_index": {
+      "message": "خطا در هنگام دریافت فایل فهرست."
+   },
+   "error_no_video": {
+      "message": "ویدئو وجود ندارد."
+   },
+   "error_quality_select": {
+      "message": "خطا در هنگام بررسی کیفیت ویدئو رخ داد."
+   },
+   "error_try_capture": {
+      "message": "در صورت نیاز، \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">حالت ضبط\u003C/a> را امتحان کنید."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "شما می‌توانید ویدیوهای زنده استریم شده را در فرمت HLS / m3u8 دانلود و ذخیره کنید."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "لغو شد"
+   },
+   "message_completed": {
+      "message": "تکمیل شد"
+   },
+   "message_error_network": {
+      "message": "خطای شبکه"
+   },
+   "message_failed": {
+      "message": "دانلود ناموفق بود"
+   },
+   "message_fatal": {
+      "message": "خطای مهلک. متاسفانه دانلود قابل از سرگیری نیست. لطفاً دوباره تلاش کنید."
+   },
+   "message_resume": {
+      "message": "دانلود از سر گرفته شد"
+   },
+   "quality": {
+      "message": "کیفیت"
+   },
+   "quality_custom": {
+      "message": "سفارشی"
+   },
+   "quality_high": {
+      "message": "بالا"
+   },
+   "quality_low": {
+      "message": "پایین"
+   },
+   "refer_troubleshoot": {
+      "message": "لطفاً برای جزئیات بیشتر به \u003Ca href=\"#troubleshoot\">عیب‌یابی\u003C/a> مراجعه کنید."
+   },
+   "subtitle": {
+      "message": "زیرنویس"
+   },
+   "title_completed": {
+      "message": "تکمیل شده"
+   },
+   "title_loading": {
+      "message": "در حال بارگذاری"
+   },
+   "title_recording": {
+      "message": "در حال ضبط"
+   },
+   "warn_chapter_has_changed": {
+      "message": "فصل جریان تغییر کرده است، اما ضبط ادامه دارد."
+   },
+   "warn_chunksize_excess": {
+      "message": "تعداد قطعات در جریان بیش از NUM_CHUNKS است. لطفاً فوراً این ویدئو را ذخیره کرده و دوباره تلاش به ضبط کنید، زیرا ممکن است دیگر قابل پردازش نباشد."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "بخشی از جریان گم شده است، اما ضبط ادامه دارد."
+   },
+   "webm_detected": {
+      "message": "فرمت WebM در حال حاضر پشتیبانی نمی‌شود."
+   }
+}

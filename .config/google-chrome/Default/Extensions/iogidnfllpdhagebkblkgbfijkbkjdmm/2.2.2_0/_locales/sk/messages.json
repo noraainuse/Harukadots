@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Zachytáva sa... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream nájdený\n[ Kliknite na stiahnutie ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Pravdepodobne stiahnuteľné\n[ Kliknite a skúste ]"
+   },
+   "action_button_loader": {
+      "message": "Načítava sa..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Kliknite pre skúšku zachytenia videa ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Chcete prepnúť do režimu zachytávania videa?"
+   },
+   "capture_reason_2": {
+      "message": "Nenašiel sa index videa.\u003Cbr>Chcete prepnúť do režimu zachytávania videa?"
+   },
+   "capture_reason_3": {
+      "message": "Chcete použiť režim zachytávania ako predtým?"
+   },
+   "disableAdblockMessage": {
+      "message": "Chyby pri sťahovaní môžu byť spôsobené aj blokovaním reklám!\u003Cbr>Prosím, vypnite váš blokátor reklám, aby ste nás podporili v ďalšom vývoji našej služby."
+   },
+   "drm_detected": {
+      "message": "Video môže byť chránené technológiami DRM (Digital Rights Management)."
+   },
+   "error_403": {
+      "message": "Prístup zamietnutý."
+   },
+   "error_404": {
+      "message": "Súbor nenájdený."
+   },
+   "error_408": {
+      "message": "Časový limit vypršal."
+   },
+   "error_fetch": {
+      "message": "Zlyhalo načítanie súboru."
+   },
+   "error_label": {
+      "message": "Chyba."
+   },
+   "error_no_audio": {
+      "message": "Žiadne audio."
+   },
+   "error_no_downloadable": {
+      "message": "V indexovom súbore sa nenašlo stiahnuteľné video."
+   },
+   "error_no_index": {
+      "message": "Pri načítaní indexového súboru došlo k chybe."
+   },
+   "error_no_video": {
+      "message": "Žiadne video."
+   },
+   "error_quality_select": {
+      "message": "Pri kontrole kvality videa došlo k chybe."
+   },
+   "error_try_capture": {
+      "message": "Skúste \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Režim zachytávania\u003C/a> ak je to potrebné."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Môžete sťahovať a ukladať živé streamované video vo formáte HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Zrušené"
+   },
+   "message_completed": {
+      "message": "Dokončené"
+   },
+   "message_error_network": {
+      "message": "Chyba siete"
+   },
+   "message_failed": {
+      "message": "Sťahovanie zlyhalo"
+   },
+   "message_fatal": {
+      "message": "Fatálna chyba. Bohužiaľ sťahovanie nie je možné obnoviť. Skúste to prosím znova."
+   },
+   "message_resume": {
+      "message": "Sťahovanie pokračuje"
+   },
+   "quality": {
+      "message": "Kvalita"
+   },
+   "quality_custom": {
+      "message": "Vlastná"
+   },
+   "quality_high": {
+      "message": "Vysoká"
+   },
+   "quality_low": {
+      "message": "Nízka"
+   },
+   "refer_troubleshoot": {
+      "message": "Pre viac informácií sa prosím odkážte na \u003Ca href=\"#troubleshoot\">Riešenie problémov\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Titulky"
+   },
+   "title_completed": {
+      "message": "Dokončené"
+   },
+   "title_loading": {
+      "message": "Načítava sa"
+   },
+   "title_recording": {
+      "message": "Nahráva sa"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Kapitola streamu sa zmenila, ale nahrávanie pokračuje."
+   },
+   "warn_chunksize_excess": {
+      "message": "Počet fragmentov v streame je viac ako NUM_CHUNKS. Prosím, okamžite uložte toto video a skúste nahrávanie znova, pretože už nemusí byť možné ho ďalej spracovať."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Časť streamu chýba, ale nahrávanie pokračuje."
+   },
+   "webm_detected": {
+      "message": "WebM momentálne nie je podporovaný."
+   }
+}

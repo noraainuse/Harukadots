@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "ธีมเคลื่อนไหว"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "ธีมเคลื่อนไหวมีให้สำหรับสมาชิกเท่านั้น"
+   },
+   "Background": {
+      "message": "พื้นหลัง"
+   },
+   "ChangeProfileTheme": {
+      "message": "เปลี่ยนธีมโปรไฟล์"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "เลือกพื้นหลังด้านล่าง"
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "คลิกรายการเพื่อถอดอุปกรณ์"
+   },
+   "CloseOffer": {
+      "message": "ปิดข้อเสนอพิเศษ"
+   },
+   "CloseProfileThemes": {
+      "message": "ปิดธีมโปรไฟล์"
+   },
+   "Comments": {
+      "message": "ความคิดเห็น"
+   },
+   "CreateOffer": {
+      "message": "สร้างข้อเสนอ"
+   },
+   "CurrentlyWearing": {
+      "message": "กำลังสวมอยู่"
+   },
+   "CustomThemes": {
+      "message": "ธีมที่กำหนดเอง"
+   },
+   "FastestServers": {
+      "message": "เซิร์ฟเวอร์ที่เร็วที่สุด"
+   },
+   "MaxPlayers": {
+      "message": "ผู้เล่นสูงสุด"
+   },
+   "MoreFilters": {
+      "message": "ตัวกรองเพิ่มเติม"
+   },
+   "MyOutfits": {
+      "message": "ชุดของฉัน"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "ตั้งชื่อและบันทึกชุดของคุณ"
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "ยังไม่มีความคิดเห็น ... เขียนเป็นคนแรกสิ!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "ไม่มีข้อเสนอทางการค้าสำหรับสินค้านี้ ... เป็นคนแรกที่โพสต์!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "ผู้ใช้ RoPro คนอื่น ๆ จะเห็นธีมของคุณเมื่อพวกเขาเยี่ยมชมโปรไฟล์ของคุณ"
+   },
+   "OutfitCost": {
+      "message": "ค่าเครื่องแต่งกาย:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "โปรดพิจารณาให้เราตรวจสอบ!"
+   },
+   "PostComment": {
+      "message": "เขียนความคิดเห็น"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "กดปุ่ม Enter เพื่อส่งชื่อเครื่องแต่งกาย"
+   },
+   "RandomGame": {
+      "message": "เกมสุ่ม"
+   },
+   "RemoveTheme": {
+      "message": "ลบธีม"
+   },
+   "Reputation": {
+      "message": "ชื่อเสียง"
+   },
+   "Review": {
+      "message": "ทบทวน"
+   },
+   "RoProProfileThemes": {
+      "message": "ธีมโปรไฟล์ RoPro"
+   },
+   "SaveTheme": {
+      "message": "บันทึกธีม"
+   },
+   "SeeMore": {
+      "message": "ดูเพิ่มเติม"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "สร้างชุดสำเร็จแล้ว"
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "ในการส่งธีมที่กำหนดเองเพื่อขออนุมัติเข้าร่วมเซิร์ฟเวอร์ RoPro discord:"
+   },
+   "TradeOffers": {
+      "message": "ข้อเสนอการค้า"
+   },
+   "Upgrade": {
+      "message": "อัพเกรด"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "อัปเกรดเพื่อบันทึกชุดของคุณ!"
+   },
+   "WriteAComment": {
+      "message": "เขียนความคิดเห็น!"
+   },
+   "accountSecurityFeatures": {
+      "message": "คุณสมบัติความปลอดภัยของบัญชี"
+   },
+   "activateSubscription": {
+      "message": "เปิดใช้งานการสมัครสมาชิก"
+   },
+   "dealsNotifier": {
+      "message": "ตัวแจ้งข้อเสนอ"
+   },
+   "description": {
+      "message": "เครื่องมือที่สมบูรณ์แบบสำหรับผู้เล่นและผู้ค้า RoPro เพิ่มคุณสมบัติที่มีประโยชน์มากมายให้กับ Roblox"
+   },
+   "disclaimer1": {
+      "message": "RoPro ไม่มีส่วนเกี่ยวข้องกับ Roblox.com หรือ Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "ทำโดย Diceติดต่อฉัน: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "คุณสมบัติทั่วไป"
+   },
+   "groupFeatures": {
+      "message": "คุณสมบัติกลุ่ม"
+   },
+   "help": {
+      "message": "ช่วยด้วย"
+   },
+   "manageSubscription": {
+      "message": "จัดการการสมัครสมาชิก"
+   },
+   "name": {
+      "message": "RoPro - ปรับปรุงประสบการณ์ Roblox ของคุณ"
+   },
+   "privacyPolicy": {
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "subscription": {
+      "message": "การสมัครสมาชิก"
+   },
+   "support": {
+      "message": "สนับสนุน"
+   },
+   "termsOfService": {
+      "message": "เงื่อนไขการให้บริการ"
+   },
+   "tradingFeatures": {
+      "message": "คุณสมบัติการซื้อขาย"
+   }
+}

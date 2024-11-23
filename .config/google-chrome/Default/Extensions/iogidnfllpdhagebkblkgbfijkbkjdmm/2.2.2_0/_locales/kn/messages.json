@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ ಕ್ಯಾಪ್ಚರಿಂಗ್... ]"
+   },
+   "action_button_enable": {
+      "message": "ಸ್ಟ್ರೀಮ್ ಕಂಡುಬಂದಿದೆ\n[ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ ]"
+   },
+   "action_button_enable_weak": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದಾದ ಸಾಧ್ಯತೆ ಇದೆ\n[ ಪ್ರಯತ್ನಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ ]"
+   },
+   "action_button_loader": {
+      "message": "ಲೋಡಿಂಗ್..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ ವೀಡಿಯೊ ಕ್ಯಾಪ್ಚರ್ ಮೋಡ್‌ಗೆ ಪ್ರಯತ್ನಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ ]"
+   },
+   "audio": {
+      "message": "ಆಡಿಯೋ"
+   },
+   "capture_reason_1": {
+      "message": "ನೀವು ವೀಡಿಯೊ ಕ್ಯಾಪ್ಚರ್ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಬೇಕೆಂದು ಬಯಸುತ್ತೀರಾ?"
+   },
+   "capture_reason_2": {
+      "message": "ವೀಡಿಯೊ ಇಂಡೆಕ್ಸ್ ಕಂಡುಬಂದಿಲ್ಲ.\u003Cbr>ನೀವು ವೀಡಿಯೊ ಕ್ಯಾಪ್ಚರ್ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಬೇಕೆಂದು ಬಯಸುತ್ತೀರಾ?"
+   },
+   "capture_reason_3": {
+      "message": "ನೀವು ಹಿಂದಿನಂತೆ ಕ್ಯಾಪ್ಚರ್ ಮೋಡ್ ಬಳಸಬೇಕೆಂದು ಬಯಸುತ್ತೀರಾ?"
+   },
+   "disableAdblockMessage": {
+      "message": "ಜಾಹೀರಾತು ನಿರೋಧಕವು ಡೌನ್ಲೋಡ್ ದೋಷಗಳನ್ನು ಕೂಡ ಉಂಟುಮಾಡಬಹುದು!\u003Cbr>ನಮ್ಮ ಸೇವೆಯನ್ನು ಮುಂದಿನ ಅಭಿವೃದ್ಧಿಗೆ ಬೆಂಬಲಿಸಲು ನಿಮ್ಮ ಜಾಹೀರಾತು ನಿರೋಧಕವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದು ದಯವಿಟ್ಟು."
+   },
+   "drm_detected": {
+      "message": "ವೀಡಿಯೊ DRM (ಡಿಜಿಟಲ್ ರೈಟ್ಸ್ ಮ್ಯಾನೇಜ್ಮೆಂಟ್) ತಂತ್ರಜ್ಞಾನಗಳಿಂದ ರಕ್ಷಿತವಾಗಿರಬಹುದು."
+   },
+   "error_403": {
+      "message": "ಪ್ರವೇಶ ನಿರಾಕರಿಸಲಾಗಿದೆ."
+   },
+   "error_404": {
+      "message": "ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ."
+   },
+   "error_408": {
+      "message": "ಸಮಯ ಮೀರಿತು."
+   },
+   "error_fetch": {
+      "message": "ಫೈಲ್ ಪಡೆಯುವಾಗ ವಿಫಲವಾಗಿದೆ."
+   },
+   "error_label": {
+      "message": "ದೋಷ."
+   },
+   "error_no_audio": {
+      "message": "ಆಡಿಯೋ ಇಲ್ಲ."
+   },
+   "error_no_downloadable": {
+      "message": "ಇಂಡೆಕ್ಸ್ ಫೈಲ್‌ನಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದಾದ ವೀಡಿಯೊ ಕಂಡುಬಂದಿಲ್ಲ."
+   },
+   "error_no_index": {
+      "message": "ಇಂಡೆಕ್ಸ್ ಫೈಲ್ ಪಡೆಯುವಾಗ ದೋಷ ಸಂಭವಿಸಿದೆ."
+   },
+   "error_no_video": {
+      "message": "ವೀಡಿಯೊ ಇಲ್ಲ."
+   },
+   "error_quality_select": {
+      "message": "ವೀಡಿಯೊ ಗುಣಮಟ್ಟ ಪರಿಶೀಲಿಸುವಾಗ ದೋಷ ಸಂಭವಿಸಿದೆ."
+   },
+   "error_try_capture": {
+      "message": "ಅಗತ್ಯವಿದ್ದಲ್ಲಿ \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">ಕ್ಯಾಪ್ಚರ್ ಮೋಡ್\u003C/a> ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "ನೀವು HLS / m3u8 ಸ್ವರೂಪದಲ್ಲಿ ನೇರ ಪ್ರಸಾರ ವೀಡಿಯೊವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮತ್ತು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿದೆ."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "ರದ್ದುಗೊಂಡಿದೆ"
+   },
+   "message_completed": {
+      "message": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+   },
+   "message_error_network": {
+      "message": "ನೆಟ್ವರ್ಕ್ ದೋಷ"
+   },
+   "message_failed": {
+      "message": "ಡೌನ್ಲೋಡ್ ವಿಫಲವಾಗಿದೆ"
+   },
+   "message_fatal": {
+      "message": "ಗಂಭೀರ ದೋಷ. ದುರದೃಷ್ಟವಶಾತ್ ಡೌನ್ಲೋಡ್ ಮರುಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "message_resume": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಮರುಪ್ರಾರಂಭವಾಯಿತು"
+   },
+   "quality": {
+      "message": "ಗುಣಮಟ್ಟ"
+   },
+   "quality_custom": {
+      "message": "ಕಸ್ಟಮ್"
+   },
+   "quality_high": {
+      "message": "ಉನ್ನತ"
+   },
+   "quality_low": {
+      "message": "ಕನಿಷ್ಠ"
+   },
+   "refer_troubleshoot": {
+      "message": "\u003Ca href=\"#troubleshoot\">ತೊಂದರೆಗಳ ನಿವಾರಣೆ\u003C/a>ಗೆ ವಿವರವಾಗಿ ಉಲ್ಲೇಖಿಸಿ."
+   },
+   "subtitle": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ"
+   },
+   "title_completed": {
+      "message": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+   },
+   "title_loading": {
+      "message": "ಲೋಡಿಂಗ್"
+   },
+   "title_recording": {
+      "message": "ರೆಕಾರ್ಡಿಂಗ್"
+   },
+   "warn_chapter_has_changed": {
+      "message": "ಸ್ಟ್ರೀಮ್‌ನ ಅಧ್ಯಾಯ ಬದಲಾಗಿದೆ, ಆದರೆ ರೆಕಾರ್ಡಿಂಗ್ ಮುಂದುವರಿಯುತ್ತಿದೆ."
+   },
+   "warn_chunksize_excess": {
+      "message": "ಸ್ಟ್ರೀಮ್‌ನಲ್ಲಿ ಫ್ರಾಗ್ಮೆಂಟ್‌ಗಳ ಸಂಖ್ಯೆ NUM_CHUNKS ಅನ್ನು ಮೀರಿದೆ. ಇನ್ನು ಮುಂದೆ ಸಂಸ್ಕರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ ಸಂಭವನೀಯತೆಯಿದ್ದು, ದಯವಿಟ್ಟು ಈ ವೀಡಿಯೊವನ್ನು ತಕ್ಷಣವೇ ಉಳಿಸಿ ಮತ್ತು ಮರುಬಾರಿ ರೆಕಾರ್ಡಿಂಗ್ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "ಸ್ಟ್ರೀಮ್‌ನ ಭಾಗವೊಂದು ಕಾಣೆಯಾಗಿದೆ, ಆದರೆ ರೆಕಾರ್ಡಿಂಗ್ ಮುಂದುವರಿಯುತ್ತಿದೆ."
+   },
+   "webm_detected": {
+      "message": "WebM ಪ್ರಸ್ತುತವಾಗಿ ಬೆಂಬಲಿಸಲಾಗಿಲ್ಲ."
+   }
+}

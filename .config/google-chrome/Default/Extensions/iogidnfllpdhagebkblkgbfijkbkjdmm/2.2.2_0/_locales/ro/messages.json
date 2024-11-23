@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Capturare... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream găsit\n[ Faceți clic pentru a descărca ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Probabil descărcabil\n[ Faceți clic pentru a încerca ]"
+   },
+   "action_button_loader": {
+      "message": "Se încarcă..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Faceți clic pentru a încerca capturarea videoclipului ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Doriți să treceți la modul de captură video?"
+   },
+   "capture_reason_2": {
+      "message": "Nu s-a găsit un index video.\u003Cbr>Doriți să treceți la modul de captură video?"
+   },
+   "capture_reason_3": {
+      "message": "Doriți să utilizați modul de captură ca înainte?"
+   },
+   "disableAdblockMessage": {
+      "message": "Erorile de descărcare pot fi cauzate și de ad-blocker!\u003Cbr>Vă rugăm să dezactivați ad-blocker-ul pentru a ne sprijini în dezvoltarea continuă a serviciului nostru."
+   },
+   "drm_detected": {
+      "message": "Videoclipul poate fi protejat de tehnologiile DRM."
+   },
+   "error_403": {
+      "message": "Acces refuzat."
+   },
+   "error_404": {
+      "message": "Fișierul nu a fost găsit."
+   },
+   "error_408": {
+      "message": "Timeout."
+   },
+   "error_fetch": {
+      "message": "Eșec la preluarea fișierului."
+   },
+   "error_label": {
+      "message": "Eroare."
+   },
+   "error_no_audio": {
+      "message": "Fără audio."
+   },
+   "error_no_downloadable": {
+      "message": "Nu s-a găsit un videoclip descărcabil în fișierul index."
+   },
+   "error_no_index": {
+      "message": "A apărut o eroare în timpul preluării fișierului index."
+   },
+   "error_no_video": {
+      "message": "Fără video."
+   },
+   "error_quality_select": {
+      "message": "A apărut o eroare la verificarea calității videoclipului."
+   },
+   "error_try_capture": {
+      "message": "Încercați \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Modul de Captură\u003C/a> dacă este necesar."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Puteți descărca și salva videoclipuri live în format HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Anulat"
+   },
+   "message_completed": {
+      "message": "Completat"
+   },
+   "message_error_network": {
+      "message": "Eroare de rețea"
+   },
+   "message_failed": {
+      "message": "Descărcarea a eșuat"
+   },
+   "message_fatal": {
+      "message": "Eroare fatală. Din păcate, descărcarea nu poate fi reluată. Vă rugăm să încercați din nou."
+   },
+   "message_resume": {
+      "message": "Descărcarea a fost reluată"
+   },
+   "quality": {
+      "message": "Calitate"
+   },
+   "quality_custom": {
+      "message": "Personalizată"
+   },
+   "quality_high": {
+      "message": "Înaltă"
+   },
+   "quality_low": {
+      "message": "Scăzută"
+   },
+   "refer_troubleshoot": {
+      "message": "Vă rugăm să consultați \u003Ca href=\"#troubleshoot\">Depanarea\u003C/a> în detaliu."
+   },
+   "subtitle": {
+      "message": "Subtitrare"
+   },
+   "title_completed": {
+      "message": "Completat"
+   },
+   "title_loading": {
+      "message": "Se încarcă"
+   },
+   "title_recording": {
+      "message": "Se înregistrează"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Capitolul stream-ului s-a schimbat, dar înregistrarea continuă."
+   },
+   "warn_chunksize_excess": {
+      "message": "Numărul de fragmente din stream este peste NUM_CHUNKS. Vă rugăm să salvați imediat acest videoclip și să încercați să înregistrați din nou, deoarece este posibil să nu poată fi procesat mai departe."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "O parte din stream lipsește, dar înregistrarea continuă."
+   },
+   "webm_detected": {
+      "message": "Formatul WebM nu este suportat în prezent."
+   }
+}

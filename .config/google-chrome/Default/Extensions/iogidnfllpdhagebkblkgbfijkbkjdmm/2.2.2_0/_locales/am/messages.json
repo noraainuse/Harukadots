@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ በመይዛት ላይ ነው ]"
+   },
+   "action_button_enable": {
+      "message": "ስትሪም ተገኝቷል\n[ ለማውረድ ይጫኑ ]"
+   },
+   "action_button_enable_weak": {
+      "message": "ምናልባት ሊወርድ ይችላል\n[ ለመሞከር ይጫኑ ]"
+   },
+   "action_button_loader": {
+      "message": "በመጫን ላይ ነው..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ ቪዲዮን ለመይዝ ይጫኑ ]"
+   },
+   "audio": {
+      "message": "ድምፅ"
+   },
+   "capture_reason_1": {
+      "message": "ወደ ቪዲዮ እርምጃ ሞድ መቀየር ይፈልጋሉ?"
+   },
+   "capture_reason_2": {
+      "message": "ቪዲዮ ኢንዴክስ አልተገኘም።\u003Cbr>ወደ ቪዲዮ እርምጃ ሞድ መቀየር ይፈልጋሉ?"
+   },
+   "capture_reason_3": {
+      "message": "እንደ ቀደም እርምጃ ሞድን ማጠቃለያ ይፈልጋሉ?"
+   },
+   "disableAdblockMessage": {
+      "message": "አድ-ብሎኬር በመንቀት የመክፈቻ ስህተቶች ሊፈጠሩ ይችላሉ!\u003Cbr>እባክዎ አድ-ብሎኬርዎን በመንቀት እኛን በተጨማሪ አገልግሎታችንን ለመስራት እንዲረዳን ይህንን እንጠይቃለን።"
+   },
+   "drm_detected": {
+      "message": "ቪዲዮው በDRM (ዲጂታል መብት አስተዳደር) ተከናውኖ ይሆን ይችላል።"
+   },
+   "error_403": {
+      "message": "መዳረሻ ተከልክሏል።"
+   },
+   "error_404": {
+      "message": "ፋይል አልተገኘም።"
+   },
+   "error_408": {
+      "message": "ጊዜ አልፎአል።"
+   },
+   "error_fetch": {
+      "message": "ፋይልን በመውሰድ ላይ ስህተት ተፈጥሯል።"
+   },
+   "error_label": {
+      "message": "ስህተት ተፈጥሯል።"
+   },
+   "error_no_audio": {
+      "message": "ድምፅ የለም።"
+   },
+   "error_no_downloadable": {
+      "message": "በኢንዴክስ ፋይል ውስጥ ሊወርድ የሚችል ቪዲዮ አልተገኘም።"
+   },
+   "error_no_index": {
+      "message": "ኢንዴክስ ፋይልን በመውሰድ ላይ ስህተት ተፈጥሯል።"
+   },
+   "error_no_video": {
+      "message": "ቪዲዮ የለም።"
+   },
+   "error_quality_select": {
+      "message": "ቪዲዮውን ጥራት ሲመረመር ላይ ስህተት ተፈጥሯል።"
+   },
+   "error_try_capture": {
+      "message": "\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">እርምጃ ሞድ\u003C/a> እንደሚያስፈልግ ይሞክሩ።"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "HLS / m3u8 በመጠቀም ሕይወታዊ የሚሰሩ ቪዲዮዎችን ማውጣት እና ማስቀመጥ ይችላሉ።"
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "ተሰርዟል"
+   },
+   "message_completed": {
+      "message": "ተጠናቋል"
+   },
+   "message_error_network": {
+      "message": "የኔትወርክ ስህተት"
+   },
+   "message_failed": {
+      "message": "መክፈቻ አልተሳካም"
+   },
+   "message_fatal": {
+      "message": "ከፍተኛ ስህተት። እንደገና መክፈቻው አይቀጥልም። እባክዎ እንደገና ይሞክሩ።"
+   },
+   "message_resume": {
+      "message": "እየቀጠለ ነው"
+   },
+   "quality": {
+      "message": "ጥራት"
+   },
+   "quality_custom": {
+      "message": "ብጁ"
+   },
+   "quality_high": {
+      "message": "ከፍተኛ"
+   },
+   "quality_low": {
+      "message": "ዝቅተኛ"
+   },
+   "refer_troubleshoot": {
+      "message": "እባኮትን ችግሮችን በዝርዝር \u003Ca href=\"#troubleshoot\">መፍትሄ\u003C/a> ይመክሩ።"
+   },
+   "subtitle": {
+      "message": "ንዑስ ጽሑፍ"
+   },
+   "title_completed": {
+      "message": "ተጠናቋል"
+   },
+   "title_loading": {
+      "message": "በመጫን ላይ ነው"
+   },
+   "title_recording": {
+      "message": "በመቅዳት ላይ ነው"
+   },
+   "warn_chapter_has_changed": {
+      "message": "የስትሪም ምዕራፍ ተለውጦል፣ ሆኖም ቅዳቱ ይቀጥላል።"
+   },
+   "warn_chunksize_excess": {
+      "message": "በስትሪም ውስጥ የተገኘው ፍርግርግ ቁጥር NUM_CHUNKS ከላይ ነው። እባኮትን ይህንን ቪዲዮ በፍጥነት ያስቀምጡ እና እንደ ገና ለመቅዳት ይሞክሩ፣ ምናልባት በተጨማሪ ሊሰራ አይችልም።"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "የስትሪም ክፍል እንዳጣ ተገኝቷል፣ ሆኖም ቅዳቱ ይቀጥላል።"
+   },
+   "webm_detected": {
+      "message": "WebM በአሁኑ ጊዜ አይደገፍም።"
+   }
+}

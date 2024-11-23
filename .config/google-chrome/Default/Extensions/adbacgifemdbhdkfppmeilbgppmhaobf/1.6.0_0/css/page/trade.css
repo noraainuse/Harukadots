@@ -1,0 +1,293 @@
+*,:after,:before{-webkit-box-sizing:inherit;-moz-box-sizing:inherit;box-sizing:inherit;}
+*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);background-repeat:no-repeat;background-size:32px auto;width:16px;height:16px;display:inline-block;vertical-align:middle;}
+.dark-theme .icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);}
+.icon-rolimons-16x16{background-position:0 -64px;}
+.icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);background-repeat:no-repeat;background-size:auto auto;width:20px;height:20px;display:inline-block;vertical-align:middle;}
+.dark-theme .icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);}
+.icon-rolimons-16x16{background-position:-20px -20px;}
+.item-card-caption .icon-rolimons-16x16{background-position:0 -20px;margin-bottom:3px;margin-right:-3px;}
+.item-card-container .icon-rolimons-16x16{background-position:0 -20px;margin-bottom:2px;margin-right:-2px;}
+.light-theme .demand-tooltip-text {
+    color: #393b3d!important;
+}
+.light-theme .hide-button{
+    background-color:#424141;
+}
+.text-blur{
+    color: transparent!important;
+    text-shadow: 0 0 15px rgba(255,255,255,0.5)!important;
+}
+
+.light-theme .text-blur{
+    color: transparent!important;
+    text-shadow: 0 0 15px rgba(0,0,0,0.5)!important;
+}
+
+.trade-flag-info {
+    display:none!important;
+}
+
+.trade-flag-div:hover .trade-flag-info{
+    display:block!important;
+}
+
+/* Tooltip container */
+.buttontooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.highlighted-trade {
+  background-color: rgb(48, 173, 255, 0.5)!important;
+}
+
+.highlighted-trade.selected {
+  box-shadow: 4px 0 0 0 #00a2ff inset!important;
+}
+
+.highlighted-trade:not(.selected):hover {
+  box-shadow: 4px 0 0 0 #0081CB inset!important;
+}
+  
+  /* Tooltip text */
+  .buttontooltip .tooltiptext {
+    visibility: hidden;
+    width: 260px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+   
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .buttontooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  .item-card-thumb-container:hover .infocardbutton {
+      z-index: 10000;
+  }
+
+  .light-theme .infocardbutton .infocardicon {
+    filter:invert(0.4)!important;
+  }
+
+  .dark-theme .infocardbutton .infocardicon {
+    filter:invert(0.7)!important;
+  }
+
+  .light-theme .infocardbutton:hover .infocardicon {
+    filter:invert(0.2)!important;
+  }
+
+  .light-theme .tradeinfocard .arrow {
+    display:none;
+  }
+
+  .dark-theme .infocardbutton:hover .infocardicon {
+    filter:invert(1)!important;
+  }
+
+  /* The Modal (background) */
+.upgrade-modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .upgrade-modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .upgrade-modal-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .upgrade-modal-close:hover,
+  .upgrade-modal-close:focus {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+/* Modal Header */
+.upgrade-modal-header {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+  }
+  
+  /* Modal Body */
+  .upgrade-modal-body {padding: 2px 16px;}
+  
+  /* Modal Footer */
+  .upgrade-modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+  }
+  
+  /* Modal Content */
+  .upgrade-modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+  }
+
+  /* Modal Content */
+  .secondary-modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    left: 2000px;
+    transition: left 0.4s;
+  }
+
+  /* Modal Content */
+  .secondary-modal-content-active {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    display:block!important;
+    transition: left 0.4s;
+  }
+
+  /* Add Animation */
+  @keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: calc(50% - 400px); opacity: 1}
+  }
+
+    /* Modal Content */
+  .upgrade-modal-content-secondary {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    left: -1000px!important;
+    transition: left 0.4s;
+  }
+
+  /* Modal Content */
+  .upgrade-modal-content-tertiary {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    left: initial;
+    transition: left 0.4s;
+  }
+
+  #myGlower {
+    background-color: #ccc;
+    border: 2px solid transparent;    
+    -webkit-transition: border 0.1s linear, box-shadow 0.1s linear;
+       -moz-transition: border 0.1s linear, box-shadow 0.1s linear;
+            transition: border 0.1s linear, box-shadow 0.1s linear;
+}
+
+.recent-sale-more-info {
+  display: none;
+}
+
+.recent-sale-card:hover {
+  cursor: pointer;
+}
+
+.recent-sale-card:hover .recent-sale-more-info {
+  display: block;
+}
+
+.item-search-element:hover {
+  cursor:pointer;
+  background-color: #656768!important;
+}
+
+.panel-button:hover .panel-button-info {
+  display:block!important;
+}
+
+.item-search-element:first-child {
+  background-color: #656768!important;
+}
+
+.ropro-trade-search-button.disabled {
+  filter:opacity(0.5);
+}
+
+.dark-theme .ropro-trade-search-button.disabled .input-dropdown-btn:hover {
+  border-color: #bdbebe;
+}
+
+.dark-theme .ropro-trade-search-button.disabled .input-dropdown-btn:focus {
+  border-color: #bdbebe;
+}
+
+.ropro-advanced-dropdown-item {
+  cursor: pointer;
+}
+
+.ropro-advanced-dropdown-item:hover {
+  background-color: #343638;
+}
+
+.ropro-advanced-trade-search-dropdown::-webkit-scrollbar {
+  width: 12px;
+}
+
+.ropro-advanced-trade-search-dropdown::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 1); 
+  border-radius: 10px;
+}
+
+.ropro-advanced-trade-search-dropdown::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5); 
+  background-color: rgba(101, 102, 104, 0.5);
+}
+
+.light-theme .ropro-trade-search-button .icon-search {
+  filter:brightness(0.6);
+}

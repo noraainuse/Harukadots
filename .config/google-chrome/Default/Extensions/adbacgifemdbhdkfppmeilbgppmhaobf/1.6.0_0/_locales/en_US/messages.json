@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animated Themes"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animated themes are available for subscribers only."
+   },
+   "Background": {
+      "message": "Background"
+   },
+   "ChangeProfileTheme": {
+      "message": "Change Profile Theme"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Choose a background below."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Click an item to unequip it."
+   },
+   "CloseOffer": {
+      "message": "Close Offers"
+   },
+   "CloseProfileThemes": {
+      "message": "Close Profile Themes"
+   },
+   "Comments": {
+      "message": "Comments"
+   },
+   "CreateOffer": {
+      "message": "Create Offer"
+   },
+   "CurrentlyWearing": {
+      "message": "Currently Wearing"
+   },
+   "CustomThemes": {
+      "message": "Custom Themes"
+   },
+   "FastestServers": {
+      "message": "Fastest Servers"
+   },
+   "MaxPlayers": {
+      "message": "Max Players"
+   },
+   "MoreFilters": {
+      "message": "More Filters"
+   },
+   "MyOutfits": {
+      "message": "My Outfits"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Name and save your outfit."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "No comments yet... Be the first to write one!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "No trade offers for this item... Be the first to post one!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Other RoPro users will see your theme when they visit your profile."
+   },
+   "OutfitCost": {
+      "message": "Outfit Cost:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Please consider leaving us a review!"
+   },
+   "PostComment": {
+      "message": "Post Comment"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Press the enter key to submit outfit name."
+   },
+   "RandomGame": {
+      "message": "Random Experience"
+   },
+   "RemoveTheme": {
+      "message": "Remove Theme"
+   },
+   "Reputation": {
+      "message": "Reputation"
+   },
+   "Review": {
+      "message": "Review"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro Profile Themes"
+   },
+   "SaveTheme": {
+      "message": "Save Theme"
+   },
+   "SeeMore": {
+      "message": "See More"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Successfully created outfit."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "To submit a custom theme for approval, join the RoPro discord server:"
+   },
+   "TradeOffers": {
+      "message": "Trade Offers"
+   },
+   "Upgrade": {
+      "message": "Upgrade"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Upgrade to save your outfits!"
+   },
+   "WriteAComment": {
+      "message": "Write a comment!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Account Security Features"
+   },
+   "activateSubscription": {
+      "message": "Activate Subscription"
+   },
+   "dealsNotifier": {
+      "message": "Deals Notifier"
+   },
+   "description": {
+      "message": "The perfect tool for players & traders. RoPro adds dozens of useful features to Roblox."
+   },
+   "disclaimer1": {
+      "message": "RoPro is not affiliated with Roblox.com or Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Made by Dice. Contact me: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "General Features"
+   },
+   "groupFeatures": {
+      "message": "Group Features"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "manageSubscription": {
+      "message": "Manage Subscription"
+   },
+   "name": {
+      "message": "RoPro - Enhance Your Roblox Experience"
+   },
+   "privacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "subscription": {
+      "message": "Subscription"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "termsOfService": {
+      "message": "Terms of Service"
+   },
+   "tradingFeatures": {
+      "message": "Trading Features"
+   }
+}

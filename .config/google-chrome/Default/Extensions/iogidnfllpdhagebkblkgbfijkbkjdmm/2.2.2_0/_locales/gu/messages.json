@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ કેપ્ચરિંગ... ]"
+   },
+   "action_button_enable": {
+      "message": "સ્ટ્રીમ મળી\n[ ડાઉનલોડ માટે ક્લિક કરો ]"
+   },
+   "action_button_enable_weak": {
+      "message": "કદાચ ડાઉનલોડ કરી શકાય\n[ પ્રયાસ માટે ક્લિક કરો ]"
+   },
+   "action_button_loader": {
+      "message": "લોડિંગ..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ વિડિઓ કેપ્ચરિંગ મોડ માટે ક્લિક કરો ]"
+   },
+   "audio": {
+      "message": "ઓડિયો"
+   },
+   "capture_reason_1": {
+      "message": "શું તમે વિડિઓ કેપ્ચર મોડ પર સ્વિચ કરવા માંગો છો?"
+   },
+   "capture_reason_2": {
+      "message": "વિડિઓ ઇન્ડેક્સ મળ્યો નથી.\u003Cbr>શું તમે વિડિઓ કેપ્ચર મોડ પર સ્વિચ કરવા માંગો છો?"
+   },
+   "capture_reason_3": {
+      "message": "શું તમે પહેલાં જેમ કેપ્ચર મોડનો ઉપયોગ કરવા માંગો છો?"
+   },
+   "disableAdblockMessage": {
+      "message": "એડ-બ્લોકર દ્વારા પણ ડાઉનલોડ ભૂલો સર્જાઈ શકે છે!\u003Cbr>અમારી સેવાના વધુ વિકાસમાં સહાય માટે કૃપા કરીને તમારા એડ-બ્લોકરને નિષ્ક્રિય કરશો?"
+   },
+   "drm_detected": {
+      "message": "વિડિઓ DRM (ડિજિટલ અધિકાર મેનેજમેન્ટ) ટેકનોલોજીસ દ્વારા સુરક્ષિત હોઈ શકે છે."
+   },
+   "error_403": {
+      "message": "ઍક્સેસ નકારવામાં આવ્યો છે."
+   },
+   "error_404": {
+      "message": "ફાઇલ મળી નથી."
+   },
+   "error_408": {
+      "message": "સમય સમાપ્ત."
+   },
+   "error_fetch": {
+      "message": "ફાઇલ મેળવવામાં ભૂલ થઈ."
+   },
+   "error_label": {
+      "message": "ભૂલ."
+   },
+   "error_no_audio": {
+      "message": "ઓડિયો નથી."
+   },
+   "error_no_downloadable": {
+      "message": "ઇન્ડેક્સ ફાઇલમાં ડાઉનલોડ કરી શકાય તેવો વિડિઓ મળ્યો નથી."
+   },
+   "error_no_index": {
+      "message": "ઇન્ડેક્સ ફાઇલ મેળવવામાં ભૂલ થઈ."
+   },
+   "error_no_video": {
+      "message": "વિડિઓ નથી."
+   },
+   "error_quality_select": {
+      "message": "વિડિઓ ગુણવત્તા તપાસવામાં ભૂલ થઈ."
+   },
+   "error_try_capture": {
+      "message": "\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">કેપ્ચર મોડ\u003C/a> જરૂરી હોય તો અજમાવો."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "તમે HLS / m3u8 ફોર્મેટમાં જીવંત સ્ટ્રીમિંગ વિડિઓ ડાઉનલોડ અને સાચવી શકો છો."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "રદ કરવામાં આવ્યું"
+   },
+   "message_completed": {
+      "message": "પૂર્ણ થયું"
+   },
+   "message_error_network": {
+      "message": "નેટવર્ક ભૂલ"
+   },
+   "message_failed": {
+      "message": "ડાઉનલોડ નિષ્ફળ ગયું"
+   },
+   "message_fatal": {
+      "message": "ગંભીર ભૂલ. દુર્ભાગ્યવશ ડાઉનલોડ ફરીથી શરૂ કરી શકાતું નથી. કૃપા કરીને ફરીથી પ્રયાસ કરો."
+   },
+   "message_resume": {
+      "message": "ડાઉનલોડ ફરીથી શરૂ કરવામાં આવ્યું"
+   },
+   "quality": {
+      "message": "ગુણવત્તા"
+   },
+   "quality_custom": {
+      "message": "કસ્ટમ"
+   },
+   "quality_high": {
+      "message": "ઉચ્ચ"
+   },
+   "quality_low": {
+      "message": "નીચું"
+   },
+   "refer_troubleshoot": {
+      "message": "\u003Ca href=\"#troubleshoot\">ટ્રબલશૂટિંગ\u003C/a> વિગતવાર જુઓ."
+   },
+   "subtitle": {
+      "message": "ઉપશીર્ષક"
+   },
+   "title_completed": {
+      "message": "પૂર્ણ"
+   },
+   "title_loading": {
+      "message": "લોડિંગ"
+   },
+   "title_recording": {
+      "message": "રેકોર્ડિંગ"
+   },
+   "warn_chapter_has_changed": {
+      "message": "સ્ટ્રીમનું અધ્યાય બદલાઈ ગયું છે, પરંતુ રેકોર્ડિંગ ચાલુ છે."
+   },
+   "warn_chunksize_excess": {
+      "message": "સ્ટ્રીમમાં ફ્રેગમેન્ટ્સની સંખ્યા NUM_CHUNKS કરતાં વધારે છે. કૃપા કરીને તરત જ આ વિડિઓને સેવ કરો અને ફરીથી રેકોર્ડિંગનો પ્રયાસ કરો, કારણ કે તે આગળ પ્રોસેસ કરી શકાય તેમ નથી."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "સ્ટ્રીમનો એક ભાગ ગુમ છે, પરંતુ રેકોર્ડિંગ ચાલુ છે."
+   },
+   "webm_detected": {
+      "message": "WebM હાલમાં સપોર્ટેડ નથી."
+   }
+}

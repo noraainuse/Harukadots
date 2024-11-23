@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Анимированные темы"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Анимированные темы доступны только подписчикам."
+   },
+   "Background": {
+      "message": "Фон"
+   },
+   "ChangeProfileTheme": {
+      "message": "Изменить тему профиля"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Выберите фон ниже."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Щелкните элемент, чтобы снять его."
+   },
+   "CloseOffer": {
+      "message": "Закрыть предложения"
+   },
+   "CloseProfileThemes": {
+      "message": "Закрыть темы профиля"
+   },
+   "Comments": {
+      "message": "Комментарии"
+   },
+   "CreateOffer": {
+      "message": "Создать предложение"
+   },
+   "CurrentlyWearing": {
+      "message": "Носит в настоящее время"
+   },
+   "CustomThemes": {
+      "message": "Пользовательские темы"
+   },
+   "FastestServers": {
+      "message": "Самые быстрые серверы"
+   },
+   "MaxPlayers": {
+      "message": "Максимум игроков"
+   },
+   "MoreFilters": {
+      "message": "Больше фильтров"
+   },
+   "MyOutfits": {
+      "message": "Мои наряды"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Назовите и сохраните свой наряд."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Комментариев пока нет ... Напишите первым!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Нет предложений обмена на этот товар ... Разместите его первым!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Другие пользователи RoPro увидят вашу тему при посещении вашего профиля."
+   },
+   "OutfitCost": {
+      "message": "Стоимость экипировки:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Пожалуйста, оставьте нам отзыв!"
+   },
+   "PostComment": {
+      "message": "Оставьте комментарий"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Нажмите клавишу ввода, чтобы указать название наряда."
+   },
+   "RandomGame": {
+      "message": "Случайная игра"
+   },
+   "RemoveTheme": {
+      "message": "Удалить тему"
+   },
+   "Reputation": {
+      "message": "Репутация"
+   },
+   "Review": {
+      "message": "Рассмотрение"
+   },
+   "RoProProfileThemes": {
+      "message": "Темы профиля RoPro"
+   },
+   "SaveTheme": {
+      "message": "Сохранить тему"
+   },
+   "SeeMore": {
+      "message": "Узнать больше"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Удачно созданный наряд."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Чтобы отправить настраиваемую тему на утверждение, присоединяйтесь к серверу Discord RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Предложения обмена"
+   },
+   "Upgrade": {
+      "message": "Обновление"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Обновите, чтобы сохранить свои наряды!"
+   },
+   "WriteAComment": {
+      "message": "Написать комментарий!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Функции безопасности учетной записи"
+   },
+   "activateSubscription": {
+      "message": "Активировать подписку"
+   },
+   "dealsNotifier": {
+      "message": "Уведомление о сделках"
+   },
+   "description": {
+      "message": "Идеальный инструмент для игроков и трейдеров. RoPro добавляет в Roblox десятки полезных функций."
+   },
+   "disclaimer1": {
+      "message": "RoPro не связан с Roblox.com или Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Сделано Dice.Свяжитесь со мной: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Общие особенности"
+   },
+   "groupFeatures": {
+      "message": "Возможности группы"
+   },
+   "help": {
+      "message": "Помощь"
+   },
+   "manageSubscription": {
+      "message": "Управление подпиской"
+   },
+   "name": {
+      "message": "RoPro - улучшите свой опыт работы с Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Политика конфиденциальности"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "subscription": {
+      "message": "Подписка"
+   },
+   "support": {
+      "message": "Поддерживать"
+   },
+   "termsOfService": {
+      "message": "Условия использования"
+   },
+   "tradingFeatures": {
+      "message": "Торговые особенности"
+   }
+}

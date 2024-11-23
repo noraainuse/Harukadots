@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Mandhari Uhuishaji"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Mandhari za uhuishaji zinapatikana kwa wanachama tu."
+   },
+   "Background": {
+      "message": "Usuli"
+   },
+   "ChangeProfileTheme": {
+      "message": "Badilisha Mandhari ya Profaili"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Chagua chini chini."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Bonyeza kipengee ili kukifanya kisichofaa."
+   },
+   "CloseOffer": {
+      "message": "Funga Ofa"
+   },
+   "CloseProfileThemes": {
+      "message": "Funga Mada za Profaili"
+   },
+   "Comments": {
+      "message": "Maoni"
+   },
+   "CreateOffer": {
+      "message": "Unda Ofa"
+   },
+   "CurrentlyWearing": {
+      "message": "Amevaa Hivi Sasa"
+   },
+   "CustomThemes": {
+      "message": "Mandhari Maalum"
+   },
+   "FastestServers": {
+      "message": "Seva za haraka zaidi"
+   },
+   "MaxPlayers": {
+      "message": "Wacheza Max"
+   },
+   "MoreFilters": {
+      "message": "Vichungi zaidi"
+   },
+   "MyOutfits": {
+      "message": "Mavazi yangu"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Taja na uhifadhi mavazi yako."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Hakuna maoni bado ... Kuwa wa kwanza kuandika moja!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Hakuna matoleo ya biashara ya bidhaa hii ... Kuwa wa kwanza kutuma moja!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Watumiaji wengine wa RoPro wataona mada yako wanapotembelea wasifu wako."
+   },
+   "OutfitCost": {
+      "message": "Gharama ya mavazi:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Tafadhali fikiria kutuachia hakiki!"
+   },
+   "PostComment": {
+      "message": "Tuma Maoni"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Bonyeza kitufe cha kuingia ili kuwasilisha jina la mavazi."
+   },
+   "RandomGame": {
+      "message": "Mchezo bila mpangilio"
+   },
+   "RemoveTheme": {
+      "message": "Ondoa Mandhari"
+   },
+   "Reputation": {
+      "message": "Sifa"
+   },
+   "Review": {
+      "message": "Pitia"
+   },
+   "RoProProfileThemes": {
+      "message": "Mada za Profaili za RoPro"
+   },
+   "SaveTheme": {
+      "message": "Hifadhi Mandhari"
+   },
+   "SeeMore": {
+      "message": "Ona zaidi"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Imeunda mavazi."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Ili kuwasilisha mandhari maalum ya idhini, jiunge na seva ya kutatanisha ya RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Ofa za Biashara"
+   },
+   "Upgrade": {
+      "message": "Boresha"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Boresha ili kuokoa mavazi yako!"
+   },
+   "WriteAComment": {
+      "message": "Andika maoni!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Vipengele vya Usalama wa Akaunti"
+   },
+   "activateSubscription": {
+      "message": "Washa Usajili"
+   },
+   "dealsNotifier": {
+      "message": "Arifa za Mikataba"
+   },
+   "description": {
+      "message": "Zana kamili kwa wachezaji na wafanyabiashara. RoPro inaongeza kadhaa ya vitu muhimu kwa Roblox."
+   },
+   "disclaimer1": {
+      "message": "RoPro haihusiani na Roblox.com au Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Iliyotengenezwa na Kete.Wasiliana nami: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Makala ya Jumla"
+   },
+   "groupFeatures": {
+      "message": "Makala ya Kikundi"
+   },
+   "help": {
+      "message": "Msaada"
+   },
+   "manageSubscription": {
+      "message": "Dhibiti Usajili"
+   },
+   "name": {
+      "message": "RoPro - Boresha Uzoefu wako wa Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Sera ya faragha"
+   },
+   "settings": {
+      "message": "Mipangilio"
+   },
+   "subscription": {
+      "message": "Usajili"
+   },
+   "support": {
+      "message": "Msaada"
+   },
+   "termsOfService": {
+      "message": "Masharti ya Huduma"
+   },
+   "tradingFeatures": {
+      "message": "Makala ya Biashara"
+   }
+}

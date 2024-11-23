@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Захоплення... ]"
+   },
+   "action_button_enable": {
+      "message": "Потік знайдено\n[ Натисніть, щоб завантажити ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Ймовірно, можна завантажити\n[ Натисніть, щоб спробувати ]"
+   },
+   "action_button_loader": {
+      "message": "Завантаження..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Натисніть, щоб спробувати захоплення відео ]"
+   },
+   "audio": {
+      "message": "Аудіо"
+   },
+   "capture_reason_1": {
+      "message": "Ви хочете перейти до режиму захоплення відео?"
+   },
+   "capture_reason_2": {
+      "message": "Індекс відео не знайдено.\u003Cbr>Ви хочете перейти до режиму захоплення відео?"
+   },
+   "capture_reason_3": {
+      "message": "Ви хочете використовувати режим захоплення як раніше?"
+   },
+   "disableAdblockMessage": {
+      "message": "Помилки завантаження також можуть бути спричинені блокувальником реклами!\u003Cbr>Будь ласка, вимкніть ваш блокувальник реклами, щоб підтримати нас у подальшій розробці нашого сервісу."
+   },
+   "drm_detected": {
+      "message": "Відео може бути захищене технологіями DRM (Управління цифровими правами)."
+   },
+   "error_403": {
+      "message": "Доступ заборонено."
+   },
+   "error_404": {
+      "message": "Файл не знайдено."
+   },
+   "error_408": {
+      "message": "Час очікування вийшов."
+   },
+   "error_fetch": {
+      "message": "Помилка завантаження файлу."
+   },
+   "error_label": {
+      "message": "Помилка."
+   },
+   "error_no_audio": {
+      "message": "Аудіо відсутнє."
+   },
+   "error_no_downloadable": {
+      "message": "У індексному файлі не знайдено завантажуваного відео."
+   },
+   "error_no_index": {
+      "message": "Помилка під час отримання індексного файлу."
+   },
+   "error_no_video": {
+      "message": "Відео відсутнє."
+   },
+   "error_quality_select": {
+      "message": "Помилка під час перевірки якості відео."
+   },
+   "error_try_capture": {
+      "message": "Спробуйте \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Режим захоплення\u003C/a>, якщо це необхідно."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Ви можете завантажити та зберегти відео з живої трансляції у форматі HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Скасовано"
+   },
+   "message_completed": {
+      "message": "Завершено"
+   },
+   "message_error_network": {
+      "message": "Помилка мережі"
+   },
+   "message_failed": {
+      "message": "Завантаження не вдалося"
+   },
+   "message_fatal": {
+      "message": "Критична помилка. На жаль, завантаження не може бути відновлено. Будь ласка, спробуйте знову."
+   },
+   "message_resume": {
+      "message": "Завантаження відновлено"
+   },
+   "quality": {
+      "message": "Якість"
+   },
+   "quality_custom": {
+      "message": "Користувацька"
+   },
+   "quality_high": {
+      "message": "Висока"
+   },
+   "quality_low": {
+      "message": "Низька"
+   },
+   "refer_troubleshoot": {
+      "message": "Будь ласка, детальніше дивіться в \u003Ca href=\"#troubleshoot\">Пошук і усунення несправностей\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Субтитри"
+   },
+   "title_completed": {
+      "message": "Завершено"
+   },
+   "title_loading": {
+      "message": "Завантаження"
+   },
+   "title_recording": {
+      "message": "Запис"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Розділ потоку змінився, але запис продовжується."
+   },
+   "warn_chunksize_excess": {
+      "message": "Кількість фрагментів у потоці перевищує NUM_CHUNKS. Будь ласка, негайно збережіть це відео та спробуйте записати знову, оскільки його може бути неможливо обробити далі."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Частина потоку відсутня, але запис продовжується."
+   },
+   "webm_detected": {
+      "message": "Наразі формат WebM не підтримується."
+   }
+}

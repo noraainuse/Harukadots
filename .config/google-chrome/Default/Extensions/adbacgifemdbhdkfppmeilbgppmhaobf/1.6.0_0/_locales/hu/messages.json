@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animált témák"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Az animált témák csak az előfizetők számára érhetők el."
+   },
+   "Background": {
+      "message": "Háttér"
+   },
+   "ChangeProfileTheme": {
+      "message": "Profiltéma módosítása"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Válasszon egy hátteret alább."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Kattintson egy elemre annak feloldásához."
+   },
+   "CloseOffer": {
+      "message": "Bezárja az Ajánlatokat"
+   },
+   "CloseProfileThemes": {
+      "message": "Bezárja a Profiltémákat"
+   },
+   "Comments": {
+      "message": "Hozzászólások"
+   },
+   "CreateOffer": {
+      "message": "Ajánlat létrehozása"
+   },
+   "CurrentlyWearing": {
+      "message": "Jelenleg visel"
+   },
+   "CustomThemes": {
+      "message": "Egyéni témák"
+   },
+   "FastestServers": {
+      "message": "A leggyorsabb szerverek"
+   },
+   "MaxPlayers": {
+      "message": "Maximum játékosok"
+   },
+   "MoreFilters": {
+      "message": "További szűrők"
+   },
+   "MyOutfits": {
+      "message": "Outfitjeim"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Nevezze el és mentse el a ruháját."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Még nincsenek hozzászólások ... Legyél te az első!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Nincs kereskedelmi ajánlat ehhez a cikkhez ... Legyen Ön az első!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "A többi RoPro-felhasználó látni fogja a témáját, amikor meglátogatja profilját."
+   },
+   "OutfitCost": {
+      "message": "Ruházat költsége:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Kérjük, fontolja meg, hogy véleményt hagyjon nekünk!"
+   },
+   "PostComment": {
+      "message": "Üzenet elküldése"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Nyomja meg az Enter billentyűt a ruházat nevének elküldéséhez."
+   },
+   "RandomGame": {
+      "message": "Véletlenszerű játék"
+   },
+   "RemoveTheme": {
+      "message": "Téma eltávolítása"
+   },
+   "Reputation": {
+      "message": "Hírnév"
+   },
+   "Review": {
+      "message": "Felülvizsgálat"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro profil témák"
+   },
+   "SaveTheme": {
+      "message": "Téma mentése"
+   },
+   "SeeMore": {
+      "message": "Többet látni"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Sikeresen létrehozott ruha."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Ha egyéni témát szeretne jóváhagyásra benyújtani, csatlakozzon az RoPro diszkord kiszolgálóhoz:"
+   },
+   "TradeOffers": {
+      "message": "Kereskedelmi ajánlatok"
+   },
+   "Upgrade": {
+      "message": "Frissítés"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Frissítsen, hogy megmentse ruháit!"
+   },
+   "WriteAComment": {
+      "message": "Írj hozzászólást!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Fiókbiztonsági jellemzők"
+   },
+   "activateSubscription": {
+      "message": "Aktiválja az Előfizetést"
+   },
+   "dealsNotifier": {
+      "message": "Ügyletek értesítője"
+   },
+   "description": {
+      "message": "Tökéletes eszköz játékosok és kereskedők számára.Az RoPro több tucat hasznos funkcióval egészíti ki a Robloxot."
+   },
+   "disclaimer1": {
+      "message": "Az RoPro nem áll kapcsolatban a Roblox.com-tal vagy a Rolimons.com-szal"
+   },
+   "disclaimer2": {
+      "message": "Készítette: Dice.Lépjen kapcsolatba velem: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Általános jellemzők"
+   },
+   "groupFeatures": {
+      "message": "Csoport jellemzői"
+   },
+   "help": {
+      "message": "Segítség"
+   },
+   "manageSubscription": {
+      "message": "Feliratkozás kezelése"
+   },
+   "name": {
+      "message": "RoPro - Növelje Roblox élményét"
+   },
+   "privacyPolicy": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "subscription": {
+      "message": "Feliratkozás"
+   },
+   "support": {
+      "message": "Támogatás"
+   },
+   "termsOfService": {
+      "message": "Szolgáltatás feltételei"
+   },
+   "tradingFeatures": {
+      "message": "Kereskedési jellemzők"
+   }
+}

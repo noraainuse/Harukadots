@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Rögzítés... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream találva\n[ Kattintson a letöltéshez ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Valószínűleg letölthető\n[ Kattintson a kipróbáláshoz ]"
+   },
+   "action_button_loader": {
+      "message": "Töltés..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Kattintson a videó rögzítésének kipróbálásához ]"
+   },
+   "audio": {
+      "message": "Audió"
+   },
+   "capture_reason_1": {
+      "message": "Szeretne átváltani a videó rögzítési módra?"
+   },
+   "capture_reason_2": {
+      "message": "Nem található videóindex.\u003Cbr>Szeretne átváltani a videó rögzítési módra?"
+   },
+   "capture_reason_3": {
+      "message": "Szeretné ugyanúgy használni a rögzítési módot, mint előzőleg?"
+   },
+   "disableAdblockMessage": {
+      "message": "A letöltési hibákat az ad-blocker is okozhatja!\u003Cbr>Kérjük, kapcsolja ki az ad-blockert, hogy támogassa további szolgáltatásaink fejlesztését."
+   },
+   "drm_detected": {
+      "message": "Lehet, hogy a videót DRM (Digitális Jogkezelés) technológiák védik."
+   },
+   "error_403": {
+      "message": "Hozzáférés megtagadva."
+   },
+   "error_404": {
+      "message": "Fájl nem található."
+   },
+   "error_408": {
+      "message": "Időtúllépés."
+   },
+   "error_fetch": {
+      "message": "A fájl lekérése sikertelen."
+   },
+   "error_label": {
+      "message": "Hiba."
+   },
+   "error_no_audio": {
+      "message": "Nincs audio."
+   },
+   "error_no_downloadable": {
+      "message": "Nem található letölthető videó az indexfájlban."
+   },
+   "error_no_index": {
+      "message": "Hiba történt az indexfájl lekérésekor."
+   },
+   "error_no_video": {
+      "message": "Nincs videó."
+   },
+   "error_quality_select": {
+      "message": "Hiba történt a videó minőségének ellenőrzésekor."
+   },
+   "error_try_capture": {
+      "message": "Szükség esetén próbálja ki a \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Rögzítési módot\u003C/a>."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "HLS / m3u8 formátumban élő közvetítési videót tölthet le és menthet el."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Megszakítva"
+   },
+   "message_completed": {
+      "message": "Befejezve"
+   },
+   "message_error_network": {
+      "message": "Hálózati hiba"
+   },
+   "message_failed": {
+      "message": "A letöltés sikertelen"
+   },
+   "message_fatal": {
+      "message": "Végzetes hiba. Sajnos a letöltést nem lehet folytatni. Kérjük, próbálja újra."
+   },
+   "message_resume": {
+      "message": "Letöltés folytatva"
+   },
+   "quality": {
+      "message": "Minőség"
+   },
+   "quality_custom": {
+      "message": "Egyéni"
+   },
+   "quality_high": {
+      "message": "Magas"
+   },
+   "quality_low": {
+      "message": "Alacsony"
+   },
+   "refer_troubleshoot": {
+      "message": "Kérjük, tekintse meg a \u003Ca href=\"#troubleshoot\">Hibaelhárítást\u003C/a> részletesen."
+   },
+   "subtitle": {
+      "message": "Felirat"
+   },
+   "title_completed": {
+      "message": "Befejezve"
+   },
+   "title_loading": {
+      "message": "Töltés"
+   },
+   "title_recording": {
+      "message": "Felvétel"
+   },
+   "warn_chapter_has_changed": {
+      "message": "A stream fejezete megváltozott, de a felvétel folytatódik."
+   },
+   "warn_chunksize_excess": {
+      "message": "A streamben lévő fragmentumok száma meghaladja a NUM_CHUNKS értéket. Kérjük, azonnal mentse el ezt a videót és próbálkozzon újra a felvétellel, mivel lehet, hogy tovább már nem lehet feldolgozni."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "A stream egy része hiányzik, de a felvétel folytatódik."
+   },
+   "webm_detected": {
+      "message": "A WebM jelenleg nem támogatott."
+   }
+}

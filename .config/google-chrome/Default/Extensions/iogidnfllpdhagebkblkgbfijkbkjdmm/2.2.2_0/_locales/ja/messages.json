@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "ストレコ\n[ キャプチャ中です ]"
+   },
+   "action_button_enable": {
+      "message": "ストリームを検出しました\n[ クリックでダウンロード ]"
+   },
+   "action_button_enable_weak": {
+      "message": "ストリームの可能性が少しだけあります\n[ クリックで試してみる ]"
+   },
+   "action_button_loader": {
+      "message": "ロード中です"
+   },
+   "action_button_off": {
+      "message": "ストレコ\n[ クリックでビデオキャプチャモードへ ]"
+   },
+   "audio": {
+      "message": "音声"
+   },
+   "capture_reason_1": {
+      "message": "キャプチャモードに移行しますか？"
+   },
+   "capture_reason_2": {
+      "message": "動画インデックスがありません。\u003Cbr>キャプチャモードに移行しますか？"
+   },
+   "capture_reason_3": {
+      "message": "前回同様にキャプチャモードを利用しますか？"
+   },
+   "disableAdblockMessage": {
+      "message": "アドブロックを有効にしているとダウンロードエラーが起きることがあります。\u003Cbr>継続的な開発のためにも、アドブロックを無効にすることをお願いしています。"
+   },
+   "drm_detected": {
+      "message": "DRMで保護されている動画の可能性があります。"
+   },
+   "error_403": {
+      "message": "アクセスを拒否されました。"
+   },
+   "error_404": {
+      "message": "ファイルが存在しないようです。"
+   },
+   "error_408": {
+      "message": "タイムアウトしました。"
+   },
+   "error_fetch": {
+      "message": "ファイル取得時のエラーです。"
+   },
+   "error_label": {
+      "message": "エラーが起きました。"
+   },
+   "error_no_audio": {
+      "message": "音声がありません。"
+   },
+   "error_no_downloadable": {
+      "message": "インデックスファイルにダウンロード可能な動画がみつかりませんでした。"
+   },
+   "error_no_index": {
+      "message": "インデックスファイルの取得中にエラーが起きました。"
+   },
+   "error_no_video": {
+      "message": "映像がありません。"
+   },
+   "error_quality_select": {
+      "message": "画質の確認時にエラーが発生しました。"
+   },
+   "error_try_capture": {
+      "message": "必要であれば\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">キャプチャーモード\u003C/a>をお試し下さい。"
+   },
+   "manifest_browser_action": {
+      "message": "ストレコ"
+   },
+   "manifest_description": {
+      "message": "HLS / m3u8 によるライブストリーミング動画をダウンロードし保存できます。"
+   },
+   "manifest_name": {
+      "message": "ストリームレコーダー / HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "キャンセルされました"
+   },
+   "message_completed": {
+      "message": "完了しました"
+   },
+   "message_error_network": {
+      "message": "ネットワークエラー"
+   },
+   "message_failed": {
+      "message": "ダウンロードに失敗しました"
+   },
+   "message_fatal": {
+      "message": "深刻なエラーが発生しました。大変申し訳ありませんが再開はできません。最初からやり直してください。"
+   },
+   "message_resume": {
+      "message": "ダウンロードを再開しました"
+   },
+   "quality": {
+      "message": "品質"
+   },
+   "quality_custom": {
+      "message": "カスタム"
+   },
+   "quality_high": {
+      "message": "最高"
+   },
+   "quality_low": {
+      "message": "最低"
+   },
+   "refer_troubleshoot": {
+      "message": "詳しくは \u003Ca href=\"#troubleshoot\">考えられる要因\u003C/a> を参照してください。"
+   },
+   "subtitle": {
+      "message": "字幕"
+   },
+   "title_completed": {
+      "message": "完了"
+   },
+   "title_loading": {
+      "message": "ロード中"
+   },
+   "title_recording": {
+      "message": "録画中"
+   },
+   "warn_chapter_has_changed": {
+      "message": "チャプターが変更されましたが継続して記録しています。"
+   },
+   "warn_chunksize_excess": {
+      "message": "ストリームの断片数がNUM_CHUNKSを超えています。これ以上処理できない可能性があるため、この動画を保存して再度録画を試みてください。"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "ストリームの一部が欠損しましたが継続して記録しています。"
+   },
+   "webm_detected": {
+      "message": "WebMフォーマットはサポートしていません。"
+   }
+}

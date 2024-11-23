@@ -1,0 +1,31 @@
+#toggle-wishlist #wishlistActive {
+    display: none;
+}
+
+#toggle-wishlist #wishlistInactive {
+    display: block;
+}
+
+#toggle-wishlist:hover #wishlistActive {
+    display: block;
+}
+
+#toggle-wishlist:hover #wishlistInactive {
+    display: none;
+}
+
+#toggle-wishlist #wishlistTooltip {
+    display: none;
+}
+
+#toggle-wishlist:hover #wishlistTooltip {
+    display: block;
+}
+
+#toggle-wishlist.wishlist-active #wishlistActive {
+    display: block;
+}
+
+#toggle-wishlist.wishlist-active #wishlistInactive {
+    display: none;
+}

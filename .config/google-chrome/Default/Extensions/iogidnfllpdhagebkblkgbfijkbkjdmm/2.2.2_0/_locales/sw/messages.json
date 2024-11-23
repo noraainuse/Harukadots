@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Kunaswa... ]"
+   },
+   "action_button_enable": {
+      "message": "Mkondo umepatikana\n[ Bofya kupakua ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Inawezekana kupakuliwa\n[ Bofya kujaribu ]"
+   },
+   "action_button_loader": {
+      "message": "Inapakia..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Bofya kujaribu kunasa video ]"
+   },
+   "audio": {
+      "message": "Sauti"
+   },
+   "capture_reason_1": {
+      "message": "Je, unataka kubadili kwenye hali ya kunasa video?"
+   },
+   "capture_reason_2": {
+      "message": "Hakuna kielekezi cha video kilichopatikana.\u003Cbr>Je, unataka kubadili kwenye hali ya kunasa video?"
+   },
+   "capture_reason_3": {
+      "message": "Je, unataka kutumia hali ya kunasa kama awali?"
+   },
+   "disableAdblockMessage": {
+      "message": "Makosa ya upakuaji yanaweza kusababishwa pia na kizuia matangazo!\u003Cbr>Tafadhali zima kizuia matangazo chako ili kutusaidia kuendeleza huduma yetu zaidi."
+   },
+   "drm_detected": {
+      "message": "Video huenda ikalindwa na teknolojia za DRM."
+   },
+   "error_403": {
+      "message": "Ufikiaji umekataliwa."
+   },
+   "error_404": {
+      "message": "Faili haikupatikana."
+   },
+   "error_408": {
+      "message": "Muda umekwisha."
+   },
+   "error_fetch": {
+      "message": "Imeshindwa kupata faili."
+   },
+   "error_label": {
+      "message": "Kosa."
+   },
+   "error_no_audio": {
+      "message": "Hakuna sauti."
+   },
+   "error_no_downloadable": {
+      "message": "Video inayoweza kupakuliwa haikupatikana katika faili ya kielekezi."
+   },
+   "error_no_index": {
+      "message": "Kosa limetokea wakati wa kupata faili ya kielekezi."
+   },
+   "error_no_video": {
+      "message": "Hakuna video."
+   },
+   "error_quality_select": {
+      "message": "Kosa limetokea wakati wa kukagua ubora wa video."
+   },
+   "error_try_capture": {
+      "message": "Jaribu \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Hali ya Kunasa\u003C/a> ikiwa ni lazima."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Unaweza kupakua na kuhifadhi video za mtandaoni za moja kwa moja katika muundo wa HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Imeghairiwa"
+   },
+   "message_completed": {
+      "message": "Imekamilika"
+   },
+   "message_error_network": {
+      "message": "Kosa la mtandao"
+   },
+   "message_failed": {
+      "message": "Upakuaji umeshindikana"
+   },
+   "message_fatal": {
+      "message": "Kosa kubwa. Kwa bahati mbaya upakuaji hauwezi kuendelea. Tafadhali jaribu tena."
+   },
+   "message_resume": {
+      "message": "Upakuaji umeanza tena"
+   },
+   "quality": {
+      "message": "Ubora"
+   },
+   "quality_custom": {
+      "message": "Maalum"
+   },
+   "quality_high": {
+      "message": "Juu"
+   },
+   "quality_low": {
+      "message": "Chini"
+   },
+   "refer_troubleshoot": {
+      "message": "Tafadhali rejelea \u003Ca href=\"#troubleshoot\">Utafutaji wa Shida\u003C/a> kwa undani."
+   },
+   "subtitle": {
+      "message": "Kichwa kidogo"
+   },
+   "title_completed": {
+      "message": "Imekamilika"
+   },
+   "title_loading": {
+      "message": "Inapakia"
+   },
+   "title_recording": {
+      "message": "Inarekodi"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Sura ya mkondo imebadilika, lakini uchukuaji unaendelea."
+   },
+   "warn_chunksize_excess": {
+      "message": "Idadi ya vipande katika mkondo imezidi NUM_CHUNKS. Tafadhali hifadhi video hii mara moja na ujaribu kurekodi tena, kwani inaweza isiweze kuchakatwa zaidi."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Sehemu ya mkondo imepotea, lakini uchukuaji unaendelea."
+   },
+   "webm_detected": {
+      "message": "WebM kwa sasa haisaidiwi."
+   }
+}

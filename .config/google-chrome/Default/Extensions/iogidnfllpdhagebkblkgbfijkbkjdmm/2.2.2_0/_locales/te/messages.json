@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ క్యాప్చరింగ్... ]"
+   },
+   "action_button_enable": {
+      "message": "స్ట్రీమ్ కనుగొనబడింది\n[ డౌన్‌లోడ్ చేయడానికి క్లిక్ చేయండి ]"
+   },
+   "action_button_enable_weak": {
+      "message": "బహుశా డౌన్‌లోడ్ చేయవచ్చు\n[ ప్రయత్నించడానికి క్లిక్ చేయండి ]"
+   },
+   "action_button_loader": {
+      "message": "లోడింగ్..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ వీడియో క్యాప్చరింగ్ మోడ్‌ను ప్రయత్నించడానికి క్లిక్ చేయండి ]"
+   },
+   "audio": {
+      "message": "ఆడియో"
+   },
+   "capture_reason_1": {
+      "message": "మీరు వీడియో క్యాప్చర్ మోడ్‌కు మారాలనుకుంటున్నారా?"
+   },
+   "capture_reason_2": {
+      "message": "వీడియో ఇండెక్స్ కనుగొనబడలేదు.\u003Cbr>మీరు వీడియో క్యాప్చర్ మోడ్‌కు మారాలనుకుంటున్నారా?"
+   },
+   "capture_reason_3": {
+      "message": "మునుపటిలాగే మీరు క్యాప్చర్ మోడ్‌ను ఉపయోగించాలనుకుంటున్నారా?"
+   },
+   "disableAdblockMessage": {
+      "message": "యాడ్-బ్లాకర్ వలన కూడా డౌన్‌లోడ్ లోపాలు సంభవించవచ్చు!\u003Cbr>మా సేవలను మరింత అభివృద్ధి చేయడానికి మీ యాడ్-బ్లాకర్‌ను డిసేబుల్ చేయమని మీరు దయచేసి కోరుతున్నాము."
+   },
+   "drm_detected": {
+      "message": "వీడియో DRM (డిజిటల్ హక్కుల నిర్వహణ) సంరక్షణలో ఉండవచ్చు."
+   },
+   "error_403": {
+      "message": "ప్రాప్యత నిరాకరించబడింది."
+   },
+   "error_404": {
+      "message": "ఫైలు కనుగొనబడలేదు."
+   },
+   "error_408": {
+      "message": "సమయం ముగిసింది."
+   },
+   "error_fetch": {
+      "message": "ఫైలు పొందుటలో విఫలం."
+   },
+   "error_label": {
+      "message": "లోపం."
+   },
+   "error_no_audio": {
+      "message": "ఆడియో లేదు."
+   },
+   "error_no_downloadable": {
+      "message": "ఇండెక్స్ ఫైల్లో డౌన్‌లోడ్ చేయగల వీడియో కనుగొనబడలేదు."
+   },
+   "error_no_index": {
+      "message": "ఇండెక్స్ ఫైల్ పొందుటలో లోపం సంభవించింది."
+   },
+   "error_no_video": {
+      "message": "వీడియో లేదు."
+   },
+   "error_quality_select": {
+      "message": "వీడియో నాణ్యత తనిఖీ సమయంలో లోపం సంభవించింది."
+   },
+   "error_try_capture": {
+      "message": "\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">క్యాప్చర్ మోడ్\u003C/a> ప్రయత్నించండి అవసరమైతే."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "మీరు HLS / m3u8 ఫార్మాట్‌లో ప్రత్యక్ష స్ట్రీమింగ్ వీడియోను డౌన్‌లోడ్ చేసి సేవ్ చేయవచ్చు."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "రద్దు చేయబడింది"
+   },
+   "message_completed": {
+      "message": "పూర్తయింది"
+   },
+   "message_error_network": {
+      "message": "నెట్‌వర్క్ లోపం"
+   },
+   "message_failed": {
+      "message": "డౌన్‌లోడ్ విఫలమైంది"
+   },
+   "message_fatal": {
+      "message": "తీవ్రమైన లోపం. దురదృష్టవశాత్తు డౌన్‌లోడ్ ను పునఃప్రారంభించలేము. దయచేసి మళ్ళీ ప్రయత్నించండి."
+   },
+   "message_resume": {
+      "message": "డౌన్‌లోడ్ పునఃప్రారంభించింది"
+   },
+   "quality": {
+      "message": "నాణ్యత"
+   },
+   "quality_custom": {
+      "message": "కస్టమ్"
+   },
+   "quality_high": {
+      "message": "అధిక"
+   },
+   "quality_low": {
+      "message": "తక్కువ"
+   },
+   "refer_troubleshoot": {
+      "message": "\u003Ca href=\"#troubleshoot\">సమస్యానివారణ\u003C/a>ను వివరంగా చూడండి."
+   },
+   "subtitle": {
+      "message": "ఉపశీర్షిక"
+   },
+   "title_completed": {
+      "message": "పూర్తియైంది"
+   },
+   "title_loading": {
+      "message": "లోడింగ్"
+   },
+   "title_recording": {
+      "message": "రికార్డింగ్"
+   },
+   "warn_chapter_has_changed": {
+      "message": "స్ట్రీమ్ అధ్యాయం మారింది, కానీ రికార్డింగ్ కొనసాగుతుంది."
+   },
+   "warn_chunksize_excess": {
+      "message": "స్ట్రీమ్‌లో ఫ్రాగ్మెంట్ల సంఖ్య NUM_CHUNKS ను దాటింది. ఇది మరింత ప్రాసెస్ చేయలేకపోవచ్చు కాబట్టి, దయచేసి ఈ వీడియోను వెంటనే సేవ్ చేసి, మళ్లీ రికార్డింగ్ ప్రయత్నించండి."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "స్ట్రీమ్ యొక్క భాగం కొల్పోయింది, కానీ రికార్డింగ్ కొనసాగుతుంది."
+   },
+   "webm_detected": {
+      "message": "WebM ప్రస్తుతం మద్దతు ఇవ్వబడదు."
+   }
+}

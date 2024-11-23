@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Kaapataan... ]"
+   },
+   "action_button_enable": {
+      "message": "Virta löydetty\n[ Klikkaa ladataksesi ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Todennäköisesti ladattavissa\n[ Klikkaa kokeillaksesi ]"
+   },
+   "action_button_loader": {
+      "message": "Ladataan..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klikkaa kokeillaksesi videon kaappausta ]"
+   },
+   "audio": {
+      "message": "Ääni"
+   },
+   "capture_reason_1": {
+      "message": "Haluatko vaihtaa videon kaappaustilaan?"
+   },
+   "capture_reason_2": {
+      "message": "Videon indeksiä ei löydy.\u003Cbr>Haluatko vaihtaa videon kaappaustilaan?"
+   },
+   "capture_reason_3": {
+      "message": "Haluatko käyttää kaappaustilaa kuten aiemmin?"
+   },
+   "disableAdblockMessage": {
+      "message": "Mainosten estäjä voi myös aiheuttaa latausvirheitä!\u003Cbr>Voisitko poistaa mainosten estäjän käytöstä tukeaksesi palvelumme jatkokehitystä?"
+   },
+   "drm_detected": {
+      "message": "Videota voidaan suojata DRM:llä (Digitaalinen oikeuksien hallinta)."
+   },
+   "error_403": {
+      "message": "Pääsy kielletty."
+   },
+   "error_404": {
+      "message": "Tiedostoa ei löydy."
+   },
+   "error_408": {
+      "message": "Aikakatkaisu."
+   },
+   "error_fetch": {
+      "message": "Tiedoston nouto epäonnistui."
+   },
+   "error_label": {
+      "message": "Virhe."
+   },
+   "error_no_audio": {
+      "message": "Ei ääntä."
+   },
+   "error_no_downloadable": {
+      "message": "Ladattavaa videota ei löytynyt indeksitiedostosta."
+   },
+   "error_no_index": {
+      "message": "Virhe noudettaessa indeksitiedostoa."
+   },
+   "error_no_video": {
+      "message": "Ei videota."
+   },
+   "error_quality_select": {
+      "message": "Virhe tarkistettaessa videon laatua."
+   },
+   "error_try_capture": {
+      "message": "Kokeile \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Kaappaustilaa\u003C/a> tarvittaessa."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Voit ladata ja tallentaa live-striimivideota HLS / m3u8-muodossa."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Peruutettu"
+   },
+   "message_completed": {
+      "message": "Valmis"
+   },
+   "message_error_network": {
+      "message": "Verkkovirhe"
+   },
+   "message_failed": {
+      "message": "Lataus epäonnistui"
+   },
+   "message_fatal": {
+      "message": "Kohtalokas virhe. Valitettavasti latausta ei voida jatkaa. Yritä uudelleen."
+   },
+   "message_resume": {
+      "message": "Lataus jatkui"
+   },
+   "quality": {
+      "message": "Laatu"
+   },
+   "quality_custom": {
+      "message": "Mukautettu"
+   },
+   "quality_high": {
+      "message": "Korkea"
+   },
+   "quality_low": {
+      "message": "Matala"
+   },
+   "refer_troubleshoot": {
+      "message": "Katso tarkemmin \u003Ca href=\"#troubleshoot\">Vianmääritys\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Tekstitys"
+   },
+   "title_completed": {
+      "message": "Valmis"
+   },
+   "title_loading": {
+      "message": "Ladataan"
+   },
+   "title_recording": {
+      "message": "Tallennetaan"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Suoratoiston luku on vaihtunut, mutta tallennus jatkuu."
+   },
+   "warn_chunksize_excess": {
+      "message": "Suoratoiston fragmenttien määrä on yli NUM_CHUNKS. Tallenna tämä video välittömästi ja yritä tallentamista uudelleen, koska sitä ei ehkä voida käsitellä enempää."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Osa suoratoistosta puuttuu, mutta tallennus jatkuu."
+   },
+   "webm_detected": {
+      "message": "WebM-formaattia ei tällä hetkellä tueta."
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Fiksavimas... ]"
+   },
+   "action_button_enable": {
+      "message": "Srautas aptiktas\n[ Spustelėkite norėdami atsisiųsti ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Tikriausiai galima atsisiųsti\n[ Spustelėkite, kad pabandytumėte ]"
+   },
+   "action_button_loader": {
+      "message": "Kraunama..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Spustelėkite, kad pabandytumėte užfiksuoti vaizdo įrašą ]"
+   },
+   "audio": {
+      "message": "Garso"
+   },
+   "capture_reason_1": {
+      "message": "Ar norite pereiti prie vaizdo įrašymo režimo?"
+   },
+   "capture_reason_2": {
+      "message": "Vaizdo indeksas nerastas.\u003Cbr>Ar norite pereiti prie vaizdo įrašymo režimo?"
+   },
+   "capture_reason_3": {
+      "message": "Ar norite naudoti įrašymo režimą kaip anksčiau?"
+   },
+   "disableAdblockMessage": {
+      "message": "Atsisiuntimo klaidas taip pat gali sukelti reklamos blokavimo įrankis!\u003Cbr>Ar galėtumėte išjungti savo reklamos blokavimo įrankį, kad paremtumėte mūsų paslaugos tolesnę plėtrą?"
+   },
+   "drm_detected": {
+      "message": "Vaizdo įrašas gali būti apsaugotas DRM (Skaitmeninių Teisių Valdymo) technologijomis."
+   },
+   "error_403": {
+      "message": "Prieiga uždrausta."
+   },
+   "error_404": {
+      "message": "Failas nerastas."
+   },
+   "error_408": {
+      "message": "Laiko limitas."
+   },
+   "error_fetch": {
+      "message": "Nepavyko gauti failo."
+   },
+   "error_label": {
+      "message": "Klaida."
+   },
+   "error_no_audio": {
+      "message": "Nėra garso."
+   },
+   "error_no_downloadable": {
+      "message": "Indekso faile nerastas atsisiunčiamas vaizdo įrašas."
+   },
+   "error_no_index": {
+      "message": "Įvyko klaida gaunant indekso failą."
+   },
+   "error_no_video": {
+      "message": "Nėra vaizdo."
+   },
+   "error_quality_select": {
+      "message": "Įvyko klaida tikrinant vaizdo kokybę."
+   },
+   "error_try_capture": {
+      "message": "Bandykite \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Įrašymo režimą\u003C/a>, jei būtina."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Galite atsisiųsti ir išsaugoti tiesioginį transliacijos vaizdo įrašą HLS / m3u8 formatu."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Atšaukta"
+   },
+   "message_completed": {
+      "message": "Baigta"
+   },
+   "message_error_network": {
+      "message": "Tinklo klaida"
+   },
+   "message_failed": {
+      "message": "Atsisiuntimas nepavyko"
+   },
+   "message_fatal": {
+      "message": "Kritinė klaida. Deja, atsisiuntimas negali būti tęsiamas. Bandykite iš naujo."
+   },
+   "message_resume": {
+      "message": "Atsisiuntimas atnaujintas"
+   },
+   "quality": {
+      "message": "Kokybė"
+   },
+   "quality_custom": {
+      "message": "Pasirinktinė"
+   },
+   "quality_high": {
+      "message": "Aukšta"
+   },
+   "quality_low": {
+      "message": "Žema"
+   },
+   "refer_troubleshoot": {
+      "message": "Daugiau informacijos rasite \u003Ca href=\"#troubleshoot\">Trikties šalinimo\u003C/a> skyriuje."
+   },
+   "subtitle": {
+      "message": "Subtitrai"
+   },
+   "title_completed": {
+      "message": "Baigta"
+   },
+   "title_loading": {
+      "message": "Kraunama"
+   },
+   "title_recording": {
+      "message": "Įrašoma"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Srauto skyrius pasikeitė, bet įrašymas tęsiasi."
+   },
+   "warn_chunksize_excess": {
+      "message": "Srauto fragmentų skaičius viršija NUM_CHUNKS. Prašome nedelsiant išsaugoti šį vaizdo įrašą ir bandyti įrašyti iš naujo, nes gali būti, kad toliau apdoroti neįmanoma."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Dalies srauto trūksta, bet įrašymas tęsiasi."
+   },
+   "webm_detected": {
+      "message": "WebM šiuo metu nepalaikomas."
+   }
+}

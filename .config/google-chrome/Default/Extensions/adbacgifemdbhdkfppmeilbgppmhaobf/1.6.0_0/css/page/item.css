@@ -1,0 +1,35 @@
+*,:after,:before{-webkit-box-sizing:inherit;-moz-box-sizing:inherit;box-sizing:inherit;}
+*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);background-repeat:no-repeat;background-size:32px auto;width:16px;height:16px;display:inline-block;vertical-align:middle;}
+.dark-theme .icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);}
+.icon-rolimons-16x16{background-position:0 -64px;}
+.icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);background-repeat:no-repeat;background-size:auto auto;width:20px;height:20px;display:inline-block;vertical-align:middle;}
+.dark-theme .icon-rolimons-16x16{background-image:url(chrome-extension://__MSG_@@extension_id__/images/icon_tiny.png);}
+.icon-rolimons-16x16{background-position:-20px -20px;}
+.item-card-caption .icon-rolimons-16x16{background-position:0 -20px;margin-bottom:3px;margin-right:-3px;}
+.item-card-container .icon-rolimons-16x16{background-position:0 -20px;margin-bottom:2px;margin-right:-2px;}
+.light-theme #roliLink { filter: invert(1)!important; }
+
+.action-button.play-test {
+    min-width: 180px!important;
+}
+
+.play-test-animated:hover {
+    position: absolute;
+    right: 9px;
+    max-width: 170px!important;
+    transition: max-width 0.2s;
+}
+
+.play-test-animated:hover .play-test-text {
+    display: inline-block!important;
+}
+
+@media (max-width: 767px) {
+    .play-test-animated:hover {
+        position: relative;
+        max-width: 170px!important;
+        margin-left:5px;
+        transition: max-width 0.2s;
+    }
+}

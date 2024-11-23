@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ कैप्चरिंग... ]"
+   },
+   "action_button_enable": {
+      "message": "स्ट्रीम मिली\n[ डाउनलोड करने के लिए क्लिक करें ]"
+   },
+   "action_button_enable_weak": {
+      "message": "संभवतः डाउनलोड किया जा सकता है\n[ प्रयास करने के लिए क्लिक करें ]"
+   },
+   "action_button_loader": {
+      "message": "लोड हो रहा है..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ वीडियो कैप्चर करने के लिए क्लिक करें ]"
+   },
+   "audio": {
+      "message": "ऑडियो"
+   },
+   "capture_reason_1": {
+      "message": "क्या आप वीडियो कैप्चर मोड में स्विच करना चाहते हैं?"
+   },
+   "capture_reason_2": {
+      "message": "कोई वीडियो इंडेक्स नहीं मिला।\u003Cbr>क्या आप वीडियो कैप्चर मोड में स्विच करना चाहते हैं?"
+   },
+   "capture_reason_3": {
+      "message": "क्या आप पहले की तरह कैप्चर मोड का उपयोग करना चाहते हैं?"
+   },
+   "disableAdblockMessage": {
+      "message": "विज्ञापन-अवरोधक के कारण डाउनलोड त्रुटियाँ भी हो सकती हैं!\u003Cbr>कृपया हमारी सेवा के आगे विकास में सहायता के लिए अपने विज्ञापन-अवरोधक को अक्षम करें?"
+   },
+   "drm_detected": {
+      "message": "वीडियो DRM (डिजिटल अधिकार प्रबंधन) तकनीकों द्वारा संरक्षित हो सकता है।"
+   },
+   "error_403": {
+      "message": "पहुँच अस्वीकृत।"
+   },
+   "error_404": {
+      "message": "फ़ाइल नहीं मिली।"
+   },
+   "error_408": {
+      "message": "समय समाप्त।"
+   },
+   "error_fetch": {
+      "message": "फ़ाइल प्राप्त करते समय विफल।"
+   },
+   "error_label": {
+      "message": "त्रुटि।"
+   },
+   "error_no_audio": {
+      "message": "कोई ऑडियो नहीं।"
+   },
+   "error_no_downloadable": {
+      "message": "इंडेक्स फ़ाइल में कोई डाउनलोड योग्य वीडियो नहीं मिला।"
+   },
+   "error_no_index": {
+      "message": "इंडेक्स फ़ाइल प्राप्त करते समय एक त्रुटि हुई।"
+   },
+   "error_no_video": {
+      "message": "कोई वीडियो नहीं।"
+   },
+   "error_quality_select": {
+      "message": "वीडियो की गुणवत्ता जांचते समय एक त्रुटि हुई।"
+   },
+   "error_try_capture": {
+      "message": "आवश्यकता होने पर \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">कैप्चर मोड\u003C/a> का प्रयास करें।"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "आप HLS / m3u8 प्रारूप में लाइव स्ट्रीमिंग वीडियो डाउनलोड और सहेज सकते हैं।"
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "रद्द कर दिया गया"
+   },
+   "message_completed": {
+      "message": "पूर्ण हुआ"
+   },
+   "message_error_network": {
+      "message": "नेटवर्क त्रुटि"
+   },
+   "message_failed": {
+      "message": "डाउनलोड विफल रहा"
+   },
+   "message_fatal": {
+      "message": "गंभीर त्रुटि। दुर्भाग्य से डाउनलोड को फिर से शुरू नहीं किया जा सकता। कृपया पुनः प्रयास करें।"
+   },
+   "message_resume": {
+      "message": "डाउनलोड फिर से शुरू"
+   },
+   "quality": {
+      "message": "गुणवत्ता"
+   },
+   "quality_custom": {
+      "message": "कस्टम"
+   },
+   "quality_high": {
+      "message": "उच्च"
+   },
+   "quality_low": {
+      "message": "निम्न"
+   },
+   "refer_troubleshoot": {
+      "message": "कृपया विस्तार से \u003Ca href=\"#troubleshoot\">समस्या निवारण\u003C/a> का संदर्भ लें।"
+   },
+   "subtitle": {
+      "message": "उपशीर्षक"
+   },
+   "title_completed": {
+      "message": "पूर्ण"
+   },
+   "title_loading": {
+      "message": "लोड हो रहा है"
+   },
+   "title_recording": {
+      "message": "रिकॉर्डिंग"
+   },
+   "warn_chapter_has_changed": {
+      "message": "स्ट्रीम का अध्याय बदल गया है, लेकिन रिकॉर्डिंग जारी है।"
+   },
+   "warn_chunksize_excess": {
+      "message": "स्ट्रीम में फ्रैगमेंट्स की संख्या NUM_CHUNKS से अधिक है। कृपया तुरंत इस वीडियो को सेव करें और फिर से रिकॉर्डिंग का प्रयास करें, क्योंकि इसे आगे प्रोसेस नहीं किया जा सकता।"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "स्ट्रीम का एक हिस्सा गायब है, लेकिन रिकॉर्डिंग जारी है।"
+   },
+   "webm_detected": {
+      "message": "WebM वर्तमान में समर्थित नहीं है।"
+   }
+}

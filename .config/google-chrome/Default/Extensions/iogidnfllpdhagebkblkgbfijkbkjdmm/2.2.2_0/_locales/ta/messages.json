@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ பிடிக்கப்படுகிறது... ]"
+   },
+   "action_button_enable": {
+      "message": "ஸ்ட்ரீம் கண்டுபிடிக்கப்பட்டது\n[ பதிவிறக்க கிளிக் செய்க ]"
+   },
+   "action_button_enable_weak": {
+      "message": "பதிவிறக்க முடியும் என்ற சாத்தியம் உள்ளது\n[ முயற்சிக்க கிளிக் செய்க ]"
+   },
+   "action_button_loader": {
+      "message": "ஏற்றுகிறது..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ வீடியோவை பிடிக்க கிளிக் செய்க ]"
+   },
+   "audio": {
+      "message": "ஆடியோ"
+   },
+   "capture_reason_1": {
+      "message": "நீங்கள் வீடியோ பிடிப்பு முறைக்கு மாற விரும்புகிறீர்களா?"
+   },
+   "capture_reason_2": {
+      "message": "காணொளி அட்டவணை காணப்படவில்லை.\u003Cbr>நீங்கள் வீடியோ பிடிப்பு முறைக்கு மாற விரும்புகிறீர்களா?"
+   },
+   "capture_reason_3": {
+      "message": "முந்தைய முறையைப் போல பிடிப்பு முறையை பயன்படுத்த விரும்புகிறீர்களா?"
+   },
+   "disableAdblockMessage": {
+      "message": "விளம்பர தடுப்பி காரணமாக பதிவிறக்க பிழைகள் ஏற்படலாம்!\u003Cbr>எங்கள் சேவையை மேலும் வளர்ச்சிபெற உதவுவதற்கு தயவுசெய்து உங்கள் விளம்பர தடுப்பியை முடக்குவீர்களா?"
+   },
+   "drm_detected": {
+      "message": "காணொளி DRM (டிஜிட்டல் உரிமை மேலாண்மை) தொழில்நுட்பங்களால் பாதுகாக்கப்பட்டிருக்கலாம்"
+   },
+   "error_403": {
+      "message": "அணுகல் மறுக்கப்பட்டது"
+   },
+   "error_404": {
+      "message": "கோப்பு காணப்படவில்லை"
+   },
+   "error_408": {
+      "message": "நேரம் முடிந்தது"
+   },
+   "error_fetch": {
+      "message": "கோப்பை பெறும்போது தோல்வி"
+   },
+   "error_label": {
+      "message": "பிழை."
+   },
+   "error_no_audio": {
+      "message": "ஒலி இல்லை"
+   },
+   "error_no_downloadable": {
+      "message": "அட்டவணை கோப்பில் பதிவிறக்கக்கூடிய காணொளி காணப்படவில்லை"
+   },
+   "error_no_index": {
+      "message": "அட்டவணை கோப்பை பெறும்போது ஒரு பிழை ஏற்பட்டது"
+   },
+   "error_no_video": {
+      "message": "காணொளி இல்லை"
+   },
+   "error_quality_select": {
+      "message": "காணொளி தரத்தை சரிபார்க்கும்போது ஒரு பிழை ஏற்பட்டது"
+   },
+   "error_try_capture": {
+      "message": "\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">பிடிப்பு முறையை\u003C/a> தேவைப்படும் போது முயற்சிக்கவும்"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "நீங்கள் HLS / m3u8 வடிவத்தில் நேரலை ஒளிபரப்பான வீடியோக்களை பதிவிறக்கம் செய்து சேமிக்கலாம்."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "ரத்து செய்யப்பட்டது"
+   },
+   "message_completed": {
+      "message": "முடிந்தது"
+   },
+   "message_error_network": {
+      "message": "நெட்வொர்க் பிழை"
+   },
+   "message_failed": {
+      "message": "பதிவிறக்கம் தோல்வியடைந்தது"
+   },
+   "message_fatal": {
+      "message": "மாரடைப்பு பிழை. துரதிஷ்டவசமாக பதிவிறக்கம் மீண்டும் தொடர முடியாது. தயவுசெய்து மீண்டும் முயற்சிக்கவும்."
+   },
+   "message_resume": {
+      "message": "பதிவிறக்கம் மீண்டும் தொடங்கப்பட்டது"
+   },
+   "quality": {
+      "message": "தரம்"
+   },
+   "quality_custom": {
+      "message": "தனிப்பயன்"
+   },
+   "quality_high": {
+      "message": "உயர்"
+   },
+   "quality_low": {
+      "message": "குறைவு"
+   },
+   "refer_troubleshoot": {
+      "message": "விவரமாக \u003Ca href=\"#troubleshoot\">சிக்கல்களைத் தீர்ப்பது\u003C/a> பற்றி குறிப்பிடவும்"
+   },
+   "subtitle": {
+      "message": "உபதலை"
+   },
+   "title_completed": {
+      "message": "முடிந்தது"
+   },
+   "title_loading": {
+      "message": "ஏற்றுகிறது"
+   },
+   "title_recording": {
+      "message": "பதிவுசெய்கிறது"
+   },
+   "warn_chapter_has_changed": {
+      "message": "ஸ்ட்ரீமின் அத்தியாயம் மாறிவிட்டது, ஆனால் பதிவு தொடர்கிறது."
+   },
+   "warn_chunksize_excess": {
+      "message": "ஸ்ட்ரீமில் உள்ள துண்டுகளின் எண்ணிக்கை NUM_CHUNKS ஐ மீறிவிட்டது. இனி செயலாக்க முடியாது என்பதால், உடனடியாக இந்த வீடியோவை சேமித்து மீண்டும் பதிவு செய்ய முயற்சிக்கவும்."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "ஸ்ட்ரீமின் ஒரு பகுதி காணாமல் போய்விட்டது, ஆனால் பதிவு தொடர்கிறது."
+   },
+   "webm_detected": {
+      "message": "WebM தற்போது ஆதரிக்கப்படவில்லை"
+   }
+}

@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animované motivy"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animované motivy jsou k dispozici pouze pro předplatitele."
+   },
+   "Background": {
+      "message": "Pozadí"
+   },
+   "ChangeProfileTheme": {
+      "message": "Změnit téma profilu"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Níže vyberte pozadí."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Kliknutím položku zrušíte."
+   },
+   "CloseOffer": {
+      "message": "Zavřít nabídky"
+   },
+   "CloseProfileThemes": {
+      "message": "Zavřít motivy profilu"
+   },
+   "Comments": {
+      "message": "Komentáře"
+   },
+   "CreateOffer": {
+      "message": "Vytvořit nabídku"
+   },
+   "CurrentlyWearing": {
+      "message": "Aktuálně na sobě"
+   },
+   "CustomThemes": {
+      "message": "Vlastní motivy"
+   },
+   "FastestServers": {
+      "message": "Nejrychlejší servery"
+   },
+   "MaxPlayers": {
+      "message": "Maximálně hráčů"
+   },
+   "MoreFilters": {
+      "message": "Více filtrů"
+   },
+   "MyOutfits": {
+      "message": "Moje oblečení"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Pojmenujte a uložte svůj outfit."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Zatím žádné komentáře ... Buďte první, kdo napíše jeden!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Žádné obchodní nabídky pro tuto položku ... Buďte první, kdo pošle jednu!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Ostatní uživatelé RoPro uvidí vaše téma při návštěvě vašeho profilu."
+   },
+   "OutfitCost": {
+      "message": "Náklady na oblečení:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Zvažte prosím zanechání kontroly!"
+   },
+   "PostComment": {
+      "message": "Přidat komentář"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Stisknutím klávesy Enter odešlete název oblečení."
+   },
+   "RandomGame": {
+      "message": "Náhodná hra"
+   },
+   "RemoveTheme": {
+      "message": "Odebrat motiv"
+   },
+   "Reputation": {
+      "message": "Pověst"
+   },
+   "Review": {
+      "message": "Posouzení"
+   },
+   "RoProProfileThemes": {
+      "message": "Profily profilu RoPro"
+   },
+   "SaveTheme": {
+      "message": "Uložit téma"
+   },
+   "SeeMore": {
+      "message": "Vidět víc"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Úspěšně vytvořený outfit."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Chcete-li odeslat vlastní motiv ke schválení, připojte se k serveru svolení RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Nabídky obchodu"
+   },
+   "Upgrade": {
+      "message": "Vylepšit"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Upgradujte a uložte si oblečení!"
+   },
+   "WriteAComment": {
+      "message": "Napsat komentář!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Funkce zabezpečení účtu"
+   },
+   "activateSubscription": {
+      "message": "Aktivovat předplatné"
+   },
+   "dealsNotifier": {
+      "message": "Oznámitel nabídek"
+   },
+   "description": {
+      "message": "Perfektní nástroj pro hráče a obchodníky.RoPro přidává Robloxu desítky užitečných funkcí."
+   },
+   "disclaimer1": {
+      "message": "RoPro není spojen s Roblox.com nebo Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Vyrobeno kostkami.Kontaktujte mě: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Obecné rysy"
+   },
+   "groupFeatures": {
+      "message": "Skupinové funkce"
+   },
+   "help": {
+      "message": "Pomoc"
+   },
+   "manageSubscription": {
+      "message": "Spravovat předplatné"
+   },
+   "name": {
+      "message": "RoPro - vylepšete svůj zážitek z Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Zásady ochrany osobních údajů"
+   },
+   "settings": {
+      "message": "Nastavení"
+   },
+   "subscription": {
+      "message": "Předplatné"
+   },
+   "support": {
+      "message": "Podpěra, podpora"
+   },
+   "termsOfService": {
+      "message": "Podmínky služby"
+   },
+   "tradingFeatures": {
+      "message": "Funkce obchodování"
+   }
+}

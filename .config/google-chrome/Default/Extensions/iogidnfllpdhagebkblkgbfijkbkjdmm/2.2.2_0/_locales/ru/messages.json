@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Захват... ]"
+   },
+   "action_button_enable": {
+      "message": "Поток найден\n[ Нажмите, чтобы скачать ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Вероятно, можно скачать\n[ Нажмите, чтобы попробовать ]"
+   },
+   "action_button_loader": {
+      "message": "Загрузка..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Нажмите, чтобы попробовать захват видео ]"
+   },
+   "audio": {
+      "message": "Аудио"
+   },
+   "capture_reason_1": {
+      "message": "Хотите переключиться в режим захвата видео?"
+   },
+   "capture_reason_2": {
+      "message": "Индекс видео не найден.\u003Cbr>Хотите переключиться в режим захвата видео?"
+   },
+   "capture_reason_3": {
+      "message": "Хотите использовать режим захвата, как раньше?"
+   },
+   "disableAdblockMessage": {
+      "message": "Ошибки загрузки также могут быть вызваны блокировщиком рекламы!\u003Cbr>Не могли бы вы отключить ваш блокировщик рекламы, чтобы поддержать нас в дальнейшей разработке нашего сервиса?"
+   },
+   "drm_detected": {
+      "message": "Возможно, видео защищено технологиями DRM."
+   },
+   "error_403": {
+      "message": "Доступ запрещен."
+   },
+   "error_404": {
+      "message": "Файл не найден."
+   },
+   "error_408": {
+      "message": "Тайм-аут."
+   },
+   "error_fetch": {
+      "message": "Ошибка при получении файла."
+   },
+   "error_label": {
+      "message": "Ошибка."
+   },
+   "error_no_audio": {
+      "message": "Аудио нет."
+   },
+   "error_no_downloadable": {
+      "message": "В индексном файле не найдено скачиваемых видео."
+   },
+   "error_no_index": {
+      "message": "Произошла ошибка при получении индексного файла."
+   },
+   "error_no_video": {
+      "message": "Видео нет."
+   },
+   "error_quality_select": {
+      "message": "Произошла ошибка при проверке качества видео."
+   },
+   "error_try_capture": {
+      "message": "Попробуйте \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Режим захвата\u003C/a>, если необходимо."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Вы можете скачать и сохранить видео в формате HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Отменено"
+   },
+   "message_completed": {
+      "message": "Завершено"
+   },
+   "message_error_network": {
+      "message": "Ошибка сети"
+   },
+   "message_failed": {
+      "message": "Ошибка загрузки"
+   },
+   "message_fatal": {
+      "message": "Критическая ошибка. К сожалению, возобновить загрузку невозможно. Пожалуйста, попробуйте снова."
+   },
+   "message_resume": {
+      "message": "Возобновление загрузки"
+   },
+   "quality": {
+      "message": "Качество"
+   },
+   "quality_custom": {
+      "message": "Пользовательское"
+   },
+   "quality_high": {
+      "message": "Высокое"
+   },
+   "quality_low": {
+      "message": "Низкое"
+   },
+   "refer_troubleshoot": {
+      "message": "Пожалуйста, обратитесь к \u003Ca href=\"#troubleshoot\">Устранению неполадок\u003C/a> для подробностей."
+   },
+   "subtitle": {
+      "message": "Субтитры"
+   },
+   "title_completed": {
+      "message": "Завершено"
+   },
+   "title_loading": {
+      "message": "Загрузка"
+   },
+   "title_recording": {
+      "message": "Запись"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Глава потока изменилась, но запись продолжается."
+   },
+   "warn_chunksize_excess": {
+      "message": "Количество фрагментов в потоке превышает NUM_CHUNKS. Пожалуйста, немедленно сохраните это видео и попробуйте запись заново, так как дальнейшая обработка может быть невозможна."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Часть потока отсутствует, но запись продолжается."
+   },
+   "webm_detected": {
+      "message": "Формат WebM в настоящее время не поддерживается."
+   }
+}

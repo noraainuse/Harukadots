@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Teme animate"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Temele animate sunt disponibile numai pentru abonați."
+   },
+   "Background": {
+      "message": "fundal"
+   },
+   "ChangeProfileTheme": {
+      "message": "Schimbați tema profilului"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Alegeți un fundal mai jos."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Faceți clic pe un element pentru al dezechipa."
+   },
+   "CloseOffer": {
+      "message": "Închideți ofertele"
+   },
+   "CloseProfileThemes": {
+      "message": "Închideți Teme de profil"
+   },
+   "Comments": {
+      "message": "Comentarii"
+   },
+   "CreateOffer": {
+      "message": "Creați ofertă"
+   },
+   "CurrentlyWearing": {
+      "message": "În prezent poartă"
+   },
+   "CustomThemes": {
+      "message": "Teme personalizate"
+   },
+   "FastestServers": {
+      "message": "Cele mai rapide servere"
+   },
+   "MaxPlayers": {
+      "message": "Jucatori maximi"
+   },
+   "MoreFilters": {
+      "message": "Mai multe filtre"
+   },
+   "MyOutfits": {
+      "message": "Tinutele mele"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Denumiți și salvați-vă ținuta."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Niciun comentariu încă ... Fii primul care scrie unul!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Nu există oferte comerciale pentru acest articol ... Fii primul care postează una!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Alți utilizatori RoPro vă vor vedea tema când vă vor vizita profilul."
+   },
+   "OutfitCost": {
+      "message": "Costul costumului:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Vă rugăm să ne gândiți să ne lăsați o recenzie!"
+   },
+   "PostComment": {
+      "message": "posteaza comentariu"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Apăsați tasta Enter pentru a trimite numele ținutei."
+   },
+   "RandomGame": {
+      "message": "Joc aleatoriu"
+   },
+   "RemoveTheme": {
+      "message": "Eliminați tema"
+   },
+   "Reputation": {
+      "message": "Reputatie"
+   },
+   "Review": {
+      "message": "Revizuire"
+   },
+   "RoProProfileThemes": {
+      "message": "Teme de profil RoPro"
+   },
+   "SaveTheme": {
+      "message": "Salvați tema"
+   },
+   "SeeMore": {
+      "message": "Vezi mai mult"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Ținută creată cu succes."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Pentru a trimite o temă personalizată spre aprobare, alăturați-vă serverului discord RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Oferte comerciale"
+   },
+   "Upgrade": {
+      "message": "Actualizare"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Faceți upgrade pentru a vă salva ținutele!"
+   },
+   "WriteAComment": {
+      "message": "Scrie un comentariu!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Caracteristici de securitate a contului"
+   },
+   "activateSubscription": {
+      "message": "Activați abonamentul"
+   },
+   "dealsNotifier": {
+      "message": "Notificator de oferte"
+   },
+   "description": {
+      "message": "Instrumentul perfect pentru jucători și comercianți. RoPro adaugă zeci de caracteristici utile Roblox."
+   },
+   "disclaimer1": {
+      "message": "RoPro nu este afiliat cu Roblox.com sau Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Realizat de Dice.Contactați-mă: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Caracteristici generale"
+   },
+   "groupFeatures": {
+      "message": "Caracteristici de grup"
+   },
+   "help": {
+      "message": "Ajutor"
+   },
+   "manageSubscription": {
+      "message": "Gestionați abonamentul"
+   },
+   "name": {
+      "message": "RoPro - Îmbunătățește-ți experiența Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Politica de Confidențialitate"
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "subscription": {
+      "message": "Abonament"
+   },
+   "support": {
+      "message": "A sustine"
+   },
+   "termsOfService": {
+      "message": "Termenii serviciului"
+   },
+   "tradingFeatures": {
+      "message": "Caracteristici de tranzacționare"
+   }
+}

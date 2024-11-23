@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ ക്യാപ്ചറിംഗ്... ]"
+   },
+   "action_button_enable": {
+      "message": "സ്ട്രീം കണ്ടെത്തി\n[ ഡൗൺലോഡ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക ]"
+   },
+   "action_button_enable_weak": {
+      "message": "ഡൗൺലോഡ് ചെയ്യാനാകും എന്ന് സാധ്യത\n[ ശ്രമിക്കാൻ ക്ലിക്ക് ചെയ്യുക ]"
+   },
+   "action_button_loader": {
+      "message": "ലോഡിംഗ്..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ വീഡിയോ ക്യാപ്ചറിംഗ് മോഡിലേക്ക് ശ്രമിക്കാൻ ക്ലിക്ക് ചെയ്യുക ]"
+   },
+   "audio": {
+      "message": "ഓഡിയോ"
+   },
+   "capture_reason_1": {
+      "message": "വീഡിയോ ക്യാപ്ചർ മോഡിലേക്ക് മാറണോ?"
+   },
+   "capture_reason_2": {
+      "message": "വീഡിയോ ഇൻഡെക്സ് കാണുന്നില്ല.\u003Cbr>വീഡിയോ ക്യാപ്ചർ മോഡിലേക്ക് മാറണോ?"
+   },
+   "capture_reason_3": {
+      "message": "മുമ്പ് പോലെ ക്യാപ്ചർ മോഡ് ഉപയോഗിക്കണോ?"
+   },
+   "disableAdblockMessage": {
+      "message": "ആഡ്-ബ്ലോക്കർ ഉപയോഗിച്ചാൽ ഡൗൺലോഡ് പിഴവുകൾ സംഭവിക്കാം!\u003Cbr>ഞങ്ങളുടെ സേവനത്തെ കൂടുതൽ വികസിപ്പിക്കാൻ ദയവായി നിങ്ങളുടെ ആഡ്-ബ്ലോക്കർ അപ്രാപ്തമാക്കാമോ?"
+   },
+   "drm_detected": {
+      "message": "വീഡിയോ DRM (ഡിജിറ്റൽ റൈറ്റ്സ് മാനേജ്മെന്റ്) സംരക്ഷണത്തിലാകാം."
+   },
+   "error_403": {
+      "message": "പ്രവേശനം നിരസിക്കപ്പെട്ടു."
+   },
+   "error_404": {
+      "message": "ഫയൽ കാണുന്നില്ല."
+   },
+   "error_408": {
+      "message": "സമയപരിധി കഴിഞ്ഞു."
+   },
+   "error_fetch": {
+      "message": "ഫയൽ നേടുന്നതിൽ പിഴവ്."
+   },
+   "error_label": {
+      "message": "പിശക്."
+   },
+   "error_no_audio": {
+      "message": "ഓഡിയോ ഇല്ല."
+   },
+   "error_no_downloadable": {
+      "message": "ഇൻഡെക്സ് ഫയലിൽ ഡൗൺലോഡ് ചെയ്യാവുന്ന വീഡിയോ കണ്ടെത്തിയില്ല."
+   },
+   "error_no_index": {
+      "message": "ഇൻഡെക്സ് ഫയൽ നേടുന്നതിൽ പിഴവ് സംഭവിച്ചു."
+   },
+   "error_no_video": {
+      "message": "വീഡിയോ ഇല്ല."
+   },
+   "error_quality_select": {
+      "message": "വീഡിയോ ഗുണനിലവാരം പരിശോധിക്കുന്നതിൽ പിഴവ് സംഭവിച്ചു."
+   },
+   "error_try_capture": {
+      "message": "\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">ക്യാപ്ചർ മോഡ്\u003C/a> ആവശ്യമെങ്കിൽ ശ്രമിക്കുക."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "നിങ്ങൾ HLS / m3u8 ഫോർമാറ്റിൽ ലൈവ് സ്ട്രീമിംഗ് വീഡിയോ ഡൗൺലോഡ് ചെയ്ത് സൂക്ഷിക്കാം."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "റദ്ദാക്കി"
+   },
+   "message_completed": {
+      "message": "പൂർത്തിയായി"
+   },
+   "message_error_network": {
+      "message": "നെറ്റ്വർക്ക് പിഴവ്"
+   },
+   "message_failed": {
+      "message": "ഡൗൺലോഡ് പരാജയപ്പെട്ടു"
+   },
+   "message_fatal": {
+      "message": "ഗുരുതരമായ പിഴവ്. ദുഃഖകരമായിട്ട് ഡൗൺലോഡ് തുടരാൻ കഴിയില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+   },
+   "message_resume": {
+      "message": "ഡൗൺലോഡ് വീണ്ടും തുടങ്ങി"
+   },
+   "quality": {
+      "message": "ഗുണനിലവാരം"
+   },
+   "quality_custom": {
+      "message": "ഇച്ഛാനുസൃതം"
+   },
+   "quality_high": {
+      "message": "ഉയർന്ന"
+   },
+   "quality_low": {
+      "message": "താഴ്ന്ന"
+   },
+   "refer_troubleshoot": {
+      "message": "\u003Ca href=\"#troubleshoot\">ട്രബിൾഷൂട്ടിംഗ്\u003C/a> വിശദമായി അവലംബിക്കുക."
+   },
+   "subtitle": {
+      "message": "ഉപശീർഷകം"
+   },
+   "title_completed": {
+      "message": "പൂർത്തിയായി"
+   },
+   "title_loading": {
+      "message": "ലോഡിംഗ്"
+   },
+   "title_recording": {
+      "message": "റെക്കോർഡിംഗ്"
+   },
+   "warn_chapter_has_changed": {
+      "message": "സ്ട്രീമിന്റെ അധ്യായം മാറി, എന്നാൽ റെക്കോർഡിംഗ് തുടരുന്നു."
+   },
+   "warn_chunksize_excess": {
+      "message": "സ്ട്രീമിലെ ഫ്രാഗ്മെന്റുകളുടെ എണ്ണം NUM_CHUNKS കവിഞ്ഞു. ഇനി പ്രോസസ് ചെയ്യാനാകാത്തതിനാൽ, ഈ വീഡിയോ ഉടൻ സേവ് ചെയ്ത് വീണ്ടും റെക്കോർഡിംഗ് ശ്രമിക്കുക."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "സ്ട്രീമിന്റെ ഭാഗം നഷ്ടപ്പെട്ടു, എന്നാൽ റെക്കോർഡിംഗ് തുടരുന്നു."
+   },
+   "webm_detected": {
+      "message": "WebM നിലവിൽ പിന്തുണയ്ക്കുന്നില്ല."
+   }
+}

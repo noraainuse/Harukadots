@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Улавяне... ]"
+   },
+   "action_button_enable": {
+      "message": "Открит е стрийм\n[ Кликнете за изтегляне ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Вероятно може да бъде изтеглено\n[ Кликнете за опит ]"
+   },
+   "action_button_loader": {
+      "message": "Зареждане..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Кликнете за опит за улавяне на видеото ]"
+   },
+   "audio": {
+      "message": "Аудио"
+   },
+   "capture_reason_1": {
+      "message": "Искате ли да преминете към режим на улавяне на видео?"
+   },
+   "capture_reason_2": {
+      "message": "Не е намерен индекс на видео.\u003Cbr>Искате ли да преминете към режим на улавяне на видео?"
+   },
+   "capture_reason_3": {
+      "message": "Искате ли да използвате режима на улавяне както преди?"
+   },
+   "disableAdblockMessage": {
+      "message": "Грешките при изтегляне могат също така да бъдат причинени от блокиране на реклами!\u003Cbr>Бихте ли деактивирали вашия блокирач на реклами, за да ни подкрепите в по-нататъшното развитие на нашата услуга?"
+   },
+   "drm_detected": {
+      "message": "Видеото може да бъде защитено от DRM (технологии за управление на цифрови права)."
+   },
+   "error_403": {
+      "message": "Достъпът е отказан."
+   },
+   "error_404": {
+      "message": "Файлът не е намерен."
+   },
+   "error_408": {
+      "message": "Изчакването е изтекло."
+   },
+   "error_fetch": {
+      "message": "Неуспешно изтегляне на файла."
+   },
+   "error_label": {
+      "message": "Грешка."
+   },
+   "error_no_audio": {
+      "message": "Няма аудио."
+   },
+   "error_no_downloadable": {
+      "message": "В индексния файл не е намерено изтегляемо видео."
+   },
+   "error_no_index": {
+      "message": "Възникна грешка при изтеглянето на индексния файл."
+   },
+   "error_no_video": {
+      "message": "Няма видео."
+   },
+   "error_quality_select": {
+      "message": "Възникна грешка при проверката на качеството на видеото."
+   },
+   "error_try_capture": {
+      "message": "Опитайте \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Режим на улавяне\u003C/a> ако е необходимо."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Можете да изтеглите и запазите видео на живо в HLS / m3u8 формат."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Отменено"
+   },
+   "message_completed": {
+      "message": "Завършено"
+   },
+   "message_error_network": {
+      "message": "Грешка в мрежата"
+   },
+   "message_failed": {
+      "message": "Изтеглянето не бе успешно"
+   },
+   "message_fatal": {
+      "message": "Фатална грешка. За съжаление изтеглянето не може да бъде възобновено. Моля, опитайте отново."
+   },
+   "message_resume": {
+      "message": "Възобновено изтегляне"
+   },
+   "quality": {
+      "message": "Качество"
+   },
+   "quality_custom": {
+      "message": "Персонализирано"
+   },
+   "quality_high": {
+      "message": "Високо"
+   },
+   "quality_low": {
+      "message": "Ниско"
+   },
+   "refer_troubleshoot": {
+      "message": "Моля, обърнете се към \u003Ca href=\"#troubleshoot\">Отстраняване на проблеми\u003C/a> за подробности."
+   },
+   "subtitle": {
+      "message": "Субтитри"
+   },
+   "title_completed": {
+      "message": "Завършено"
+   },
+   "title_loading": {
+      "message": "Зареждане"
+   },
+   "title_recording": {
+      "message": "Записване"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Главата на стрийма се е променила, но записът продължава."
+   },
+   "warn_chunksize_excess": {
+      "message": "Броят на фрагментите в стрийма е над NUM_CHUNKS. Моля, незабавно запазете това видео и опитайте отново да записвате, тъй като може да не бъде обработено повече."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Част от стрийма липсва, но записът продължава."
+   },
+   "webm_detected": {
+      "message": "WebM в момента не се поддържа."
+   }
+}

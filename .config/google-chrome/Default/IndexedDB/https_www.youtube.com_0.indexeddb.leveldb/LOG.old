@@ -1,0 +1,12 @@
+2024/11/23-18:54:08.184 497 Reusing MANIFEST /home/noraa/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-18:54:08.184 497 Recovering log #31
+2024/11/23-18:54:08.198 497 Reusing old log /home/noraa/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000031.log 
+2024/11/23-19:01:18.864 498 Level-0 table #36: started
+2024/11/23-19:01:18.891 498 Level-0 table #36: 1718652 bytes OK
+2024/11/23-19:01:18.895 498 Delete type=0 #31
+2024/11/23-19:07:55.425 499 Compacting 1@1 + 1@2 files
+2024/11/23-19:07:55.433 499 Generated table #37@1: 509 keys, 41483 bytes
+2024/11/23-19:07:55.433 499 Compacted 1@1 + 1@2 files => 41483 bytes
+2024/11/23-19:07:55.435 499 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-19:07:55.435 499 Delete type=2 #33
+2024/11/23-19:07:55.435 499 Delete type=2 #36

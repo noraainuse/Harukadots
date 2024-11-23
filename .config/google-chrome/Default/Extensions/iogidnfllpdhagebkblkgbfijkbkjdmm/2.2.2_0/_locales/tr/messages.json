@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Yakalanıyor... ]"
+   },
+   "action_button_enable": {
+      "message": "Akış bulundu\n[ İndirmek için tıklayın ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Muhtemelen indirilebilir\n[ Denemek için tıklayın ]"
+   },
+   "action_button_loader": {
+      "message": "Yükleniyor..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Videoyu yakalamak için tıklayın ]"
+   },
+   "audio": {
+      "message": "Ses"
+   },
+   "capture_reason_1": {
+      "message": "Video yakalama moduna geçmek ister misiniz?"
+   },
+   "capture_reason_2": {
+      "message": "Video indeksi bulunamadı.\u003Cbr>Video yakalama moduna geçmek ister misiniz?"
+   },
+   "capture_reason_3": {
+      "message": "Önceki gibi yakalama modunu kullanmak ister misiniz?"
+   },
+   "disableAdblockMessage": {
+      "message": "İndirme hataları reklam engelleyici tarafından da kaynaklanabilir!\u003Cbr>Lütfen bizi daha fazla geliştirmemize destek olmak için reklam engelleyicinizi devre dışı bırakır mısınız?"
+   },
+   "drm_detected": {
+      "message": "Video DRM (Dijital Hak Yönetimi) teknolojileri tarafından korunuyor olabilir."
+   },
+   "error_403": {
+      "message": "Erişim reddedildi."
+   },
+   "error_404": {
+      "message": "Dosya bulunamadı."
+   },
+   "error_408": {
+      "message": "Zaman aşımı."
+   },
+   "error_fetch": {
+      "message": "Dosya alınırken başarısız oldu."
+   },
+   "error_label": {
+      "message": "Hata."
+   },
+   "error_no_audio": {
+      "message": "Ses yok."
+   },
+   "error_no_downloadable": {
+      "message": "İndeks dosyasında indirilebilir bir video bulunamadı."
+   },
+   "error_no_index": {
+      "message": "İndeks dosyası alınırken bir hata oluştu."
+   },
+   "error_no_video": {
+      "message": "Video yok."
+   },
+   "error_quality_select": {
+      "message": "Video kalitesi kontrol edilirken bir hata oluştu."
+   },
+   "error_try_capture": {
+      "message": "Gerekirse \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Yakalama Modu\u003C/a>nu deneyin."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "HLS / m3u8 formatında canlı yayın videosunu indirebilir ve kaydedebilirsiniz."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "İptal Edildi"
+   },
+   "message_completed": {
+      "message": "Tamamlandı"
+   },
+   "message_error_network": {
+      "message": "Ağ hatası"
+   },
+   "message_failed": {
+      "message": "İndirme başarısız oldu"
+   },
+   "message_fatal": {
+      "message": "Önemli hata. Maalesef indirme devam ettirilemez. Lütfen yeniden deneyin."
+   },
+   "message_resume": {
+      "message": "İndirme devam ettirildi"
+   },
+   "quality": {
+      "message": "Kalite"
+   },
+   "quality_custom": {
+      "message": "Özel"
+   },
+   "quality_high": {
+      "message": "Yüksek"
+   },
+   "quality_low": {
+      "message": "Düşük"
+   },
+   "refer_troubleshoot": {
+      "message": "Lütfen \u003Ca href=\"#troubleshoot\">Sorun Giderme\u003C/a> bölümüne detaylı bir şekilde bakınız."
+   },
+   "subtitle": {
+      "message": "Altyazı"
+   },
+   "title_completed": {
+      "message": "Tamamlandı"
+   },
+   "title_loading": {
+      "message": "Yükleniyor"
+   },
+   "title_recording": {
+      "message": "Kaydediliyor"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Akışın bölümü değişti, ancak kayıt devam ediyor."
+   },
+   "warn_chunksize_excess": {
+      "message": "Akıştaki parça sayısı NUM_CHUNKS'ı aştı. Lütfen bu videoyu hemen kaydedin ve daha fazla işlenemeyebileceği için kaydı tekrar deneyin."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Akışın bir kısmı eksik, ancak kayıt devam ediyor."
+   },
+   "webm_detected": {
+      "message": "WebM şu anda desteklenmiyor."
+   }
+}

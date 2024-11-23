@@ -1,0 +1,140 @@
+.light-theme .sandbox-icon .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/sandbox_icon_lightmode_inactive.svg);
+}
+.light-theme .sandbox-icon:hover .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/sandbox_icon_lightmode_active.svg);
+}
+
+.light-theme .offers-icon .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/trade_offers_icon_lightmode_inactive.svg);
+}
+.light-theme .offers-icon:hover .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/trade_offers_icon_lightmode_active.svg);
+}
+.light-theme .themes-icon .new-menu-icon{
+	background-position: 1px 2px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/themes_icon_lightmode_inactive.svg);
+}
+
+.light-theme .themes-icon:hover .new-menu-icon{
+	background-position: 1px 2px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/themes_icon_lightmode_active.svg);
+}
+.dark-theme .sandbox-icon .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/sandbox_icon_darkmode_inactive.svg);
+}
+.dark-theme .sandbox-icon:hover .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/sandbox_icon_darkmode_active.svg);
+}
+.dark-theme .offers-icon .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/trade_offers_icon_darkmode_inactive.svg);
+}
+.dark-theme .offers-icon:hover .new-menu-icon{
+	background-position: 0px 0px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/trade_offers_icon_darkmode_active.svg);
+}
+.dark-theme .themes-icon .new-menu-icon{
+	background-position: 1px 2px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/themes_icon_darkmode_inactive.svg);
+}
+
+.dark-theme .themes-icon:hover .new-menu-icon{
+	background-position: 1px 2px;
+	background-image:url(chrome-extension://__MSG_@@extension_id__/images/themes_icon_darkmode_active.svg);
+}
+
+.ropro-icon {
+	margin-top:6px;
+	margin-left:0px;
+	width:30px;
+}
+
+.ropro-icon:hover {
+	cursor: pointer;
+}
+
+.dark-theme .ropro-icon:hover {
+    border:2px solid white;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+}
+
+.light-theme .ropro-icon:hover {
+    border:2px solid black;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+}
+
+  /* Tooltip text */
+  .buttontooltip .tooltiptext {
+    visibility: hidden;
+    width: 260px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+   
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .buttontooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  .alert-close:hover {
+    opacity: 1!important;
+  }
+  
+.ropro-cloud-play-activated .game-server-join-btn {
+  background-color:#0085DE!important;
+  color:white!important;
+  border:none;
+}
+
+.ropro-cloud-play-activated .create-server-link {
+  background-color:#0085DE!important;
+  color:white!important;
+  border:none;
+}
+
+.ropro-cloud-play-activated .create-server-invite-button {
+  background-color:#0085DE!important;
+  color:white!important;
+  border:none;
+}
+
+.ropro-cloud-play-activated .ropro-game-server-join {
+  background-color:#0085DE!important;
+  color:white!important;
+  border:none;
+}
+
+.ropro-cloud-play-activated .btn-common-play-game-lg {
+  background-color: #0085DE!important;
+}
+
+.ropro-cloud-play-activated .btn-growth-xs.btn-full-width {
+  background-color: #0085DE!important;
+  border: none;
+}
+
+.alert.ropro-hidden {
+  display: none;
+}
+
+.alert.ropro-hidden.on {
+  display: block;
+}

@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animirane teme"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animirane teme so na voljo samo naročnikom."
+   },
+   "Background": {
+      "message": "Ozadje"
+   },
+   "ChangeProfileTheme": {
+      "message": "Spremeni temo profila"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Spodaj izberite ozadje."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Kliknite element, da ga odstranite."
+   },
+   "CloseOffer": {
+      "message": "Zapri ponudbe"
+   },
+   "CloseProfileThemes": {
+      "message": "Zapri teme profila"
+   },
+   "Comments": {
+      "message": "Komentarji"
+   },
+   "CreateOffer": {
+      "message": "Ustvari ponudbo"
+   },
+   "CurrentlyWearing": {
+      "message": "Trenutno nosim"
+   },
+   "CustomThemes": {
+      "message": "Teme po meri"
+   },
+   "FastestServers": {
+      "message": "Najhitrejši strežniki"
+   },
+   "MaxPlayers": {
+      "message": "Največ igralcev"
+   },
+   "MoreFilters": {
+      "message": "Več filtrov"
+   },
+   "MyOutfits": {
+      "message": "Moje obleke"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Poimenujte in shranite svojo obleko."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Brez komentarjev še ... Bodite prvi, ki ga boste napisali!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Za ta izdelek ni nobenih ponudb ... Bodite prvi, ki ga objavite!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Drugi uporabniki RoPro bodo videli vašo temo, ko bodo obiskali vaš profil."
+   },
+   "OutfitCost": {
+      "message": "Stroški obleke:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Prosimo vas, da nam pustite pregled!"
+   },
+   "PostComment": {
+      "message": "Objavi komentar"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Pritisnite tipko Enter, da pošljete ime obleke."
+   },
+   "RandomGame": {
+      "message": "Naključna igra"
+   },
+   "RemoveTheme": {
+      "message": "Odstrani temo"
+   },
+   "Reputation": {
+      "message": "Ugled"
+   },
+   "Review": {
+      "message": "Pregled"
+   },
+   "RoProProfileThemes": {
+      "message": "Teme profila RoPro"
+   },
+   "SaveTheme": {
+      "message": "Shrani temo"
+   },
+   "SeeMore": {
+      "message": "Poglej več"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Uspešno ustvarjena obleka."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Če želite predložiti temo po meri v odobritev, se pridružite strežniku RoPro discord:"
+   },
+   "TradeOffers": {
+      "message": "Trgovinske ponudbe"
+   },
+   "Upgrade": {
+      "message": "Nadgradnja"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Nadgradite, da shranite svoje obleke!"
+   },
+   "WriteAComment": {
+      "message": "Napišite komentar!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Varnostne funkcije računa"
+   },
+   "activateSubscription": {
+      "message": "Aktivirajte naročnino"
+   },
+   "dealsNotifier": {
+      "message": "Notifier ponudb"
+   },
+   "description": {
+      "message": "Popolno orodje za igralce in trgovce.RoPro Robloxu doda na desetine uporabnih funkcij."
+   },
+   "disclaimer1": {
+      "message": "RoPro ni povezan z Roblox.com ali Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Izdelal Dice.Pišite mi: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Splošne značilnosti"
+   },
+   "groupFeatures": {
+      "message": "Skupinske značilnosti"
+   },
+   "help": {
+      "message": "Pomoč"
+   },
+   "manageSubscription": {
+      "message": "Upravljanje naročnine"
+   },
+   "name": {
+      "message": "RoPro - Izboljšajte svoje izkušnje z Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Politika zasebnosti"
+   },
+   "settings": {
+      "message": "Nastavitve"
+   },
+   "subscription": {
+      "message": "Naročnina"
+   },
+   "support": {
+      "message": "Podpora"
+   },
+   "termsOfService": {
+      "message": "Pogoji storitve"
+   },
+   "tradingFeatures": {
+      "message": "Značilnosti trgovanja"
+   }
+}

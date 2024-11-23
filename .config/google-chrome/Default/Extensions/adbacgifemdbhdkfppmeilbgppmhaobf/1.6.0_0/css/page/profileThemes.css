@@ -1,0 +1,92 @@
+.profile-selector-box .rbx-upgrade-now {
+		display:block!important;
+}
+
+.profile-selector-box .animated-themes-outer {
+	display:block!important;
+	border-radius:15px;
+	filter:brightness(0.3);
+}
+
+.profile-selector-box .import-decal-outer {
+	display:block!important;
+	border-radius:15px;
+	filter:brightness(0.3);
+}
+
+.profile-selector-box #animatedThemeCardBox {
+	filter:blur(3px);
+	pointer-events:none;
+}
+
+.profile-selector-box #customThemeBox {
+	filter:blur(4px);
+	pointer-events:none;
+}
+
+.profile-selector-box #yourImportedDecals {
+	display:none;
+}
+
+.dark-theme .profile-selector-box .animated-themes-outer {
+	background-color:#232527;
+}
+
+.dark-theme .profile-selector-box .import-decal-outer {
+	background-color:#232527;
+}
+
+.ropro-toggle.btn-toggle.on {
+	background-color:#0084dd!important;
+}
+
+.ropro-theme-element {
+	transform:
+	  perspective(800px)
+	  rotateY(25deg) scale(0.9)
+	  rotateX(10deg);
+	opacity: 1;
+	transition: 0.4s ease all;
+}
+.ropro-theme-element:hover {
+	transform:
+	  perspective(800px)
+	  rotateY(-15deg)
+	  translateY(-10px)
+	  rotateX(10deg)
+	  scale(1);
+	filter: blur(0);
+	opacity: 1;
+}
+
+.light-theme .ropro-theme-arrow {
+	filter: invert(0.5);
+	cursor: pointer;
+}
+
+.dark-theme .ropro-theme-arrow {
+	filter: invert(0.5);
+	cursor: pointer;
+}
+
+.light-theme .ropro-theme-arrow:hover {
+	filter: invert(1);
+}
+
+.dark-theme .ropro-theme-arrow:hover {
+	filter: invert(0);
+}
+
+#profileThemeCardBox {
+	transition: left 0.25s;
+}
+
+#foregroundOpacitySlider input[type=range]::-webkit-slider-thumb{
+	-webkit-appearance: none!important;
+	background:initial!important;
+	background-image: url(chrome-extension://__MSG_@@extension_id__/images/selector_icon.png)!important;
+	background-size: contain!important;
+	border: 0px!important;
+	transform:scale(0.9)!important;
+	margin-left:5px;
+}

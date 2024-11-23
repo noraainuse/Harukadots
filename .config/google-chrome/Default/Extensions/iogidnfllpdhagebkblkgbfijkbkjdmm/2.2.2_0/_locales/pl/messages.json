@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Przechwytywanie... ]"
+   },
+   "action_button_enable": {
+      "message": "Znaleziono strumień\n[ Kliknij, aby pobrać ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Prawdopodobnie do pobrania\n[ Kliknij, aby spróbować ]"
+   },
+   "action_button_loader": {
+      "message": "Ładowanie..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Kliknij, aby spróbować przechwycić wideo ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Czy chcesz przełączyć się na tryb przechwytywania wideo?"
+   },
+   "capture_reason_2": {
+      "message": "Nie znaleziono indeksu wideo.\u003Cbr>Czy chcesz przełączyć się na tryb przechwytywania wideo?"
+   },
+   "capture_reason_3": {
+      "message": "Czy chcesz użyć trybu przechwytywania jak poprzednio?"
+   },
+   "disableAdblockMessage": {
+      "message": "Błędy pobierania mogą być również spowodowane przez blokowanie reklam!\u003Cbr>Czy możesz wyłączyć blokowanie reklam, aby wesprzeć nas w dalszym rozwijaniu naszej usługi?"
+   },
+   "drm_detected": {
+      "message": "Wideo może być chronione przez technologie DRM (Zarządzanie Prawami Cyfrowymi)."
+   },
+   "error_403": {
+      "message": "Odmowa dostępu."
+   },
+   "error_404": {
+      "message": "Nie znaleziono pliku."
+   },
+   "error_408": {
+      "message": "Przekroczono czas oczekiwania."
+   },
+   "error_fetch": {
+      "message": "Nie udało się pobrać pliku."
+   },
+   "error_label": {
+      "message": "Błąd."
+   },
+   "error_no_audio": {
+      "message": "Brak audio."
+   },
+   "error_no_downloadable": {
+      "message": "Nie znaleziono pobieralnego wideo w pliku indeksowym."
+   },
+   "error_no_index": {
+      "message": "Wystąpił błąd podczas pobierania pliku indeksowego."
+   },
+   "error_no_video": {
+      "message": "Brak wideo."
+   },
+   "error_quality_select": {
+      "message": "Wystąpił błąd podczas sprawdzania jakości wideo."
+   },
+   "error_try_capture": {
+      "message": "Spróbuj \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Trybu Przechwytywania\u003C/a> w razie potrzeby."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Możesz pobierać i zapisywać wideo na żywo w formacie HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Anulowano"
+   },
+   "message_completed": {
+      "message": "Zakończono"
+   },
+   "message_error_network": {
+      "message": "Błąd sieci"
+   },
+   "message_failed": {
+      "message": "Pobieranie nie powiodło się"
+   },
+   "message_fatal": {
+      "message": "Wystąpił krytyczny błąd. Niestety pobieranie nie może być wznowione. Proszę spróbować ponownie."
+   },
+   "message_resume": {
+      "message": "Wznowiono pobieranie"
+   },
+   "quality": {
+      "message": "Jakość"
+   },
+   "quality_custom": {
+      "message": "Niestandardowa"
+   },
+   "quality_high": {
+      "message": "Wysoka"
+   },
+   "quality_low": {
+      "message": "Niska"
+   },
+   "refer_troubleshoot": {
+      "message": "Proszę zapoznać się ze szczegółami w \u003Ca href=\"#troubleshoot\">Rozwiązywaniu problemów\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Napisy"
+   },
+   "title_completed": {
+      "message": "Zakończono"
+   },
+   "title_loading": {
+      "message": "Ładowanie"
+   },
+   "title_recording": {
+      "message": "Nagrywanie"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Rozdział strumienia się zmienił, ale nagrywanie trwa."
+   },
+   "warn_chunksize_excess": {
+      "message": "Liczba fragmentów w strumieniu przekracza NUM_CHUNKS. Proszę natychmiast zapisać to wideo i spróbować nagrywać ponownie, ponieważ może nie być możliwe dalsze przetwarzanie."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Część strumienia jest brakująca, ale nagrywanie trwa."
+   },
+   "webm_detected": {
+      "message": "Format WebM obecnie nie jest obsługiwany."
+   }
+}

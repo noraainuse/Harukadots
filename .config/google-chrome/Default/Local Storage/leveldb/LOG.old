@@ -1,0 +1,24 @@
+2024/11/23-18:54:01.572 4 Reusing MANIFEST /home/noraa/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/23-18:54:01.572 4 Recovering log #97
+2024/11/23-18:54:01.574 4 Reusing old log /home/noraa/.config/google-chrome/Default/Local Storage/leveldb/000097.log 
+2024/11/23-18:54:27.170 5 Level-0 table #102: started
+2024/11/23-18:54:27.178 5 Level-0 table #102: 39970 bytes OK
+2024/11/23-18:54:27.181 5 Delete type=0 #97
+2024/11/23-19:11:13.659 5 Level-0 table #104: started
+2024/11/23-19:11:13.666 5 Level-0 table #104: 35995 bytes OK
+2024/11/23-19:11:13.670 5 Delete type=0 #101
+2024/11/23-19:11:25.379 5 Level-0 table #106: started
+2024/11/23-19:11:25.397 5 Level-0 table #106: 50753 bytes OK
+2024/11/23-19:11:25.403 5 Delete type=0 #103
+2024/11/23-19:21:30.546 5 Level-0 table #108: started
+2024/11/23-19:21:30.552 5 Level-0 table #108: 37097 bytes OK
+2024/11/23-19:21:30.562 5 Delete type=0 #105
+2024/11/23-19:21:30.563 5 Compacting 4@0 + 1@1 files
+2024/11/23-19:21:30.596 5 Generated table #109@0: 738 keys, 491609 bytes
+2024/11/23-19:21:30.596 5 Compacted 4@0 + 1@1 files => 491609 bytes
+2024/11/23-19:21:30.600 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/23-19:21:30.601 5 Delete type=2 #108
+2024/11/23-19:21:30.601 5 Delete type=2 #106
+2024/11/23-19:21:30.601 5 Delete type=2 #104
+2024/11/23-19:21:30.601 5 Delete type=2 #99
+2024/11/23-19:21:30.601 5 Delete type=2 #102

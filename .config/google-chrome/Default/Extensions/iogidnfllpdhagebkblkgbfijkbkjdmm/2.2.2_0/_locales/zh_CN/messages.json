@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ 正在捕获... ]"
+   },
+   "action_button_enable": {
+      "message": "已发现流\n[ 点击下载 ]"
+   },
+   "action_button_enable_weak": {
+      "message": "可能可以下载\n[ 点击尝试 ]"
+   },
+   "action_button_loader": {
+      "message": "正在加载..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ 点击尝试捕获视频 ]"
+   },
+   "audio": {
+      "message": "音频"
+   },
+   "capture_reason_1": {
+      "message": "您想切换到视频捕获模式吗？"
+   },
+   "capture_reason_2": {
+      "message": "未找到视频索引。\u003Cbr>您想切换到视频捕获模式吗？"
+   },
+   "capture_reason_3": {
+      "message": "您想像之前一样使用捕获模式吗？"
+   },
+   "disableAdblockMessage": {
+      "message": "广告拦截器也可能导致下载错误！\u003Cbr>为了支持我们的进一步开发，您能否禁用您的广告拦截器？"
+   },
+   "drm_detected": {
+      "message": "该视频可能受到DRM（数字版权管理）技术的保护。"
+   },
+   "error_403": {
+      "message": "访问被拒绝。"
+   },
+   "error_404": {
+      "message": "未找到文件。"
+   },
+   "error_408": {
+      "message": "超时。"
+   },
+   "error_fetch": {
+      "message": "获取文件失败。"
+   },
+   "error_label": {
+      "message": "错误。"
+   },
+   "error_no_audio": {
+      "message": "没有音频。"
+   },
+   "error_no_downloadable": {
+      "message": "在索引文件中未找到可下载的视频。"
+   },
+   "error_no_index": {
+      "message": "获取索引文件时发生错误。"
+   },
+   "error_no_video": {
+      "message": "没有视频。"
+   },
+   "error_quality_select": {
+      "message": "检查视频质量时发生错误。"
+   },
+   "error_try_capture": {
+      "message": "如有必要，请尝试\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">捕获模式\u003C/a>。"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "您可以下载并保存以 HLS / m3u8 格式的直播视频。"
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "已取消"
+   },
+   "message_completed": {
+      "message": "已完成"
+   },
+   "message_error_network": {
+      "message": "网络错误"
+   },
+   "message_failed": {
+      "message": "下载失败"
+   },
+   "message_fatal": {
+      "message": "发生严重错误。很遗憾，无法继续下载。请重新尝试。"
+   },
+   "message_resume": {
+      "message": "已恢复下载"
+   },
+   "quality": {
+      "message": "质量"
+   },
+   "quality_custom": {
+      "message": "自定义"
+   },
+   "quality_high": {
+      "message": "高"
+   },
+   "quality_low": {
+      "message": "低"
+   },
+   "refer_troubleshoot": {
+      "message": "请详细参考\u003Ca href=\"#troubleshoot\">故障排除\u003C/a>。"
+   },
+   "subtitle": {
+      "message": "字幕"
+   },
+   "title_completed": {
+      "message": "已完成"
+   },
+   "title_loading": {
+      "message": "正在加载"
+   },
+   "title_recording": {
+      "message": "正在录制"
+   },
+   "warn_chapter_has_changed": {
+      "message": "流的章节已更改，但录制继续。"
+   },
+   "warn_chunksize_excess": {
+      "message": "流中的片段数超过NUM_CHUNKS。请立即保存此视频并再次尝试录制，因为可能无法进一步处理。"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "流的一部分丢失，但录制继续。"
+   },
+   "webm_detected": {
+      "message": "当前不支持WebM格式。"
+   }
+}

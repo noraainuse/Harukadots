@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animacinės temos"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animuotos temos yra prieinamos tik abonentams."
+   },
+   "Background": {
+      "message": "Fonas"
+   },
+   "ChangeProfileTheme": {
+      "message": "Keisti profilio temą"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Žemiau pasirinkite foną."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Spustelėkite elementą, kad jį išmontuotumėte."
+   },
+   "CloseOffer": {
+      "message": "Uždaryti pasiūlymus"
+   },
+   "CloseProfileThemes": {
+      "message": "Uždaryti profilio temas"
+   },
+   "Comments": {
+      "message": "Komentarai"
+   },
+   "CreateOffer": {
+      "message": "Sukurti pasiūlymą"
+   },
+   "CurrentlyWearing": {
+      "message": "Šiuo metu dėvi"
+   },
+   "CustomThemes": {
+      "message": "Pasirinktinės temos"
+   },
+   "FastestServers": {
+      "message": "Greičiausi serveriai"
+   },
+   "MaxPlayers": {
+      "message": "„Max Players“"
+   },
+   "MoreFilters": {
+      "message": "Daugiau filtrų"
+   },
+   "MyOutfits": {
+      "message": "Mano apranga"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Pavadinkite ir išsaugokite savo aprangą."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Kol kas nėra komentarų ... Būkite pirmas, parašęs!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Nėra jokių šios prekės prekybos pasiūlymų ... Būkite pirmas paskelbęs!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Kiti „RoPro“ vartotojai pamatys jūsų temą apsilankę jūsų profilyje."
+   },
+   "OutfitCost": {
+      "message": "Aprangos kaina:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Apsvarstykite galimybę palikti mums apžvalgą!"
+   },
+   "PostComment": {
+      "message": "Paskelbti komentarą"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Norėdami pateikti aprangos pavadinimą, paspauskite klavišą „Enter“."
+   },
+   "RandomGame": {
+      "message": "Atsitiktinis žaidimas"
+   },
+   "RemoveTheme": {
+      "message": "Pašalinti temą"
+   },
+   "Reputation": {
+      "message": "Reputacija"
+   },
+   "Review": {
+      "message": "Apžvalga"
+   },
+   "RoProProfileThemes": {
+      "message": "„RoPro“ profilio temos"
+   },
+   "SaveTheme": {
+      "message": "Išsaugoti temą"
+   },
+   "SeeMore": {
+      "message": "Žiūrėti daugiau"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Sėkmingai sukurta apranga."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Norėdami pateikti pasirinktinę temą tvirtinti, prisijunkite prie „RoPro“ nesantaikos serverio:"
+   },
+   "TradeOffers": {
+      "message": "Prekybos pasiūlymai"
+   },
+   "Upgrade": {
+      "message": "Patobulinti"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Atnaujinkite, kad išsaugotumėte savo aprangą!"
+   },
+   "WriteAComment": {
+      "message": "Parašykite komentarą!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Paskyros saugos funkcijos"
+   },
+   "activateSubscription": {
+      "message": "Suaktyvinti prenumeratą"
+   },
+   "dealsNotifier": {
+      "message": "Pasiūlymų pranešėjas"
+   },
+   "description": {
+      "message": "Puikus įrankis žaidėjams ir prekybininkams.„RoPro“ prideda dešimtis naudingų „Roblox“ funkcijų."
+   },
+   "disclaimer1": {
+      "message": "„RoPro“ nėra susijęs su „Roblox.com“ ar „Rolimons.com“"
+   },
+   "disclaimer2": {
+      "message": "Pagaminta Dice.Susisiekite su manimi: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Bendrosios savybės"
+   },
+   "groupFeatures": {
+      "message": "Grupės ypatybės"
+   },
+   "help": {
+      "message": "Pagalba"
+   },
+   "manageSubscription": {
+      "message": "Tvarkyti prenumeratą"
+   },
+   "name": {
+      "message": "RoPro - patobulinkite savo Roblox patirtį"
+   },
+   "privacyPolicy": {
+      "message": "Privatumo politika"
+   },
+   "settings": {
+      "message": "Nustatymai"
+   },
+   "subscription": {
+      "message": "Prenumerata"
+   },
+   "support": {
+      "message": "Parama"
+   },
+   "termsOfService": {
+      "message": "Paslaugų teikimo sąlygos"
+   },
+   "tradingFeatures": {
+      "message": "Prekybos ypatybės"
+   }
+}

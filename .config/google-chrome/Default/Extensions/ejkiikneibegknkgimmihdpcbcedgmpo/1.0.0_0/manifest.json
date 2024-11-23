@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "sound.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Volume Booster"
+   },
+   "background": {
+      "service_worker": "service-worker.js"
+   },
+   "description": "Chrome Extension for Boosting Volume Past Max Settings",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "sound.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm92vIuPv/aX7TXSG6J+ITQ/owqpxdb2xWE8tuVRBIzd1QvKnaUGb7mwKnjlV9sZV5x4nDwTruqD5YjFiPH9QEG6bdTI+ru6C3jKaESPlwz6IZtxVHw3diUL7KhF7I9AiCTM3Dai+AbUeejhSF7xXowtHpQInYlHLyuNPKVazMMCm23qSAxuDLbQT8f6Dum0X1iQ+oJy8DmlbHzOJf6xuGPuWUqb7yU5vEiub6T6TyXO3Zw3Ka6kFWjXsa1Z2bK6xK8EcPGqE9JYj6rbkgwUssLC7ZwsTmhe8ZEnKm40KIUYNQBIgzwbMa6hfkBn2If6+WmDteiJzrODZ25mHCH+YKwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "116",
+   "name": "Volume Booster",
+   "permissions": [ "tabCapture", "activeTab", "offscreen" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

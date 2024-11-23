@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Kinukuha... ]"
+   },
+   "action_button_enable": {
+      "message": "Natagpuan ang stream\n[ I-click para i-download ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Marahil ay maaaring i-download\n[ I-click para subukan ]"
+   },
+   "action_button_loader": {
+      "message": "Naglo-load..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ I-click para subukang kunin ang video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Nais mo bang lumipat sa mode ng pagkuha ng video?"
+   },
+   "capture_reason_2": {
+      "message": "Walang nahanap na index ng video.\u003Cbr>Nais mo bang lumipat sa mode ng pagkuha ng video?"
+   },
+   "capture_reason_3": {
+      "message": "Nais mo bang gamitin ang mode ng pagkuha tulad ng dati?"
+   },
+   "disableAdblockMessage": {
+      "message": "Maaaring magdulot din ng mga error sa pag-download ang ad-blocker!\u003Cbr>Maaari mo bang i-disable ang iyong ad-blocker upang suportahan kami sa karagdagang pag-develop ng aming serbisyo?"
+   },
+   "drm_detected": {
+      "message": "Maaaring protektado ng DRM (Digital Rights Management) ang video."
+   },
+   "error_403": {
+      "message": "Access denied."
+   },
+   "error_404": {
+      "message": "Hindi makita ang file."
+   },
+   "error_408": {
+      "message": "Na-time out."
+   },
+   "error_fetch": {
+      "message": "Nabigo ang pagkuha ng file."
+   },
+   "error_label": {
+      "message": "Error."
+   },
+   "error_no_audio": {
+      "message": "Walang audio."
+   },
+   "error_no_downloadable": {
+      "message": "Walang mahanap na downloadable na video sa index file."
+   },
+   "error_no_index": {
+      "message": "Nagkaroon ng error habang kinukuha ang index file."
+   },
+   "error_no_video": {
+      "message": "Walang video."
+   },
+   "error_quality_select": {
+      "message": "Nagkaroon ng error habang sinusuri ang kalidad ng video."
+   },
+   "error_try_capture": {
+      "message": "Subukan ang \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Capture Mode\u003C/a> kung kinakailangan."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Maaari kang mag-download at mag-save ng live streaming video sa format na HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Nakansela"
+   },
+   "message_completed": {
+      "message": "Nakumpleto"
+   },
+   "message_error_network": {
+      "message": "Error sa network"
+   },
+   "message_failed": {
+      "message": "Nabigo ang pag-download"
+   },
+   "message_fatal": {
+      "message": "Malubhang error. Sa kasamaang palad, hindi maipagpatuloy ang pag-download. Pakisubukang muli."
+   },
+   "message_resume": {
+      "message": "Ipinagpatuloy ang pag-download"
+   },
+   "quality": {
+      "message": "Kalidad"
+   },
+   "quality_custom": {
+      "message": "Pasadya"
+   },
+   "quality_high": {
+      "message": "Mataas"
+   },
+   "quality_low": {
+      "message": "Mababa"
+   },
+   "refer_troubleshoot": {
+      "message": "Pakitingnan ang \u003Ca href=\"#troubleshoot\">Pag-troubleshoot\u003C/a> para sa detalye."
+   },
+   "subtitle": {
+      "message": "Subtitulo"
+   },
+   "title_completed": {
+      "message": "Nakumpleto"
+   },
+   "title_loading": {
+      "message": "Naglo-load"
+   },
+   "title_recording": {
+      "message": "Nagre-record"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Nagbago ang kabanata ng stream, ngunit nagpapatuloy ang pagre-record."
+   },
+   "warn_chunksize_excess": {
+      "message": "Ang bilang ng mga fragment sa stream ay higit sa NUM_CHUNKS. Mangyaring agad na i-save ang video na ito at subukang mag-record muli, dahil maaaring hindi na ito maproseso pa."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Bahagi ng stream ay nawawala, ngunit nagpapatuloy ang pagre-record."
+   },
+   "webm_detected": {
+      "message": "Kasalukuyang hindi suportado ang WebM."
+   }
+}

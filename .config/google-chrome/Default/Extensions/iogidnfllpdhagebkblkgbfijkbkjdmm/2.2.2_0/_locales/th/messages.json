@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ กำลังจับภาพ... ]"
+   },
+   "action_button_enable": {
+      "message": "พบสตรีม\n[ คลิกเพื่อดาวน์โหลด ]"
+   },
+   "action_button_enable_weak": {
+      "message": "อาจดาวน์โหลดได้\n[ คลิกเพื่อลอง ]"
+   },
+   "action_button_loader": {
+      "message": "กำลังโหลด..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ คลิกเพื่อลองจับภาพวิดีโอ ]"
+   },
+   "audio": {
+      "message": "เสียง"
+   },
+   "capture_reason_1": {
+      "message": "คุณต้องการเปลี่ยนไปใช้โหมดจับภาพวิดีโอหรือไม่?"
+   },
+   "capture_reason_2": {
+      "message": "ไม่พบดัชนีวิดีโอ\u003Cbr>คุณต้องการเปลี่ยนไปใช้โหมดจับภาพวิดีโอหรือไม่?"
+   },
+   "capture_reason_3": {
+      "message": "คุณต้องการใช้โหมดจับภาพเหมือนครั้งก่อนหรือไม่?"
+   },
+   "disableAdblockMessage": {
+      "message": "การใช้งาน Ad-blocker อาจทำให้เกิดข้อผิดพลาดในการดาวน์โหลด!\u003Cbr>กรุณาปิดการใช้งาน Ad-blocker เพื่อสนับสนุนการพัฒนาบริการของเราต่อไป"
+   },
+   "drm_detected": {
+      "message": "วิดีโออาจถูกป้องกันด้วยเทคโนโลยี DRM"
+   },
+   "error_403": {
+      "message": "การเข้าถึงถูกปฏิเสธ"
+   },
+   "error_404": {
+      "message": "ไม่พบไฟล์"
+   },
+   "error_408": {
+      "message": "หมดเวลา"
+   },
+   "error_fetch": {
+      "message": "การดึงไฟล์ล้มเหลว"
+   },
+   "error_label": {
+      "message": "เกิดข้อผิดพลาด"
+   },
+   "error_no_audio": {
+      "message": "ไม่มีเสียง"
+   },
+   "error_no_downloadable": {
+      "message": "ไม่พบวิดีโอที่สามารถดาวน์โหลดได้ในไฟล์ดัชนี"
+   },
+   "error_no_index": {
+      "message": "เกิดข้อผิดพลาดขณะดึงไฟล์ดัชนี"
+   },
+   "error_no_video": {
+      "message": "ไม่มีวิดีโอ"
+   },
+   "error_quality_select": {
+      "message": "เกิดข้อผิดพลาดขณะตรวจสอบคุณภาพวิดีโอ"
+   },
+   "error_try_capture": {
+      "message": "ลอง \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">โหมดจับภาพ\u003C/a> หากจำเป็น"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "คุณสามารถดาวน์โหลดและบันทึกวิดีโอสตรีมสดในรูปแบบ HLS / m3u8 ได้"
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "ยกเลิก"
+   },
+   "message_completed": {
+      "message": "เสร็จสิ้น"
+   },
+   "message_error_network": {
+      "message": "เกิดข้อผิดพลาดเครือข่าย"
+   },
+   "message_failed": {
+      "message": "ดาวน์โหลดไม่สำเร็จ"
+   },
+   "message_fatal": {
+      "message": "เกิดข้อผิดพลาดร้ายแรง ขออภัยไม่สามารถดำเนินการต่อได้ กรุณาลองใหม่"
+   },
+   "message_resume": {
+      "message": "ดำเนินการดาวน์โหลดต่อ"
+   },
+   "quality": {
+      "message": "คุณภาพ"
+   },
+   "quality_custom": {
+      "message": "กำหนดเอง"
+   },
+   "quality_high": {
+      "message": "สูง"
+   },
+   "quality_low": {
+      "message": "ต่ำ"
+   },
+   "refer_troubleshoot": {
+      "message": "โปรดดูรายละเอียดที่ \u003Ca href=\"#troubleshoot\">การแก้ไขปัญหา\u003C/a>"
+   },
+   "subtitle": {
+      "message": "คำบรรยาย"
+   },
+   "title_completed": {
+      "message": "เสร็จสิ้น"
+   },
+   "title_loading": {
+      "message": "กำลังโหลด"
+   },
+   "title_recording": {
+      "message": "กำลังบันทึก"
+   },
+   "warn_chapter_has_changed": {
+      "message": "บทของสตรีมมีการเปลี่ยนแปลง แต่การบันทึกยังคงดำเนินต่อไป"
+   },
+   "warn_chunksize_excess": {
+      "message": "จำนวนส่วนของสตรีมเกิน NUM_CHUNKS โปรดบันทึกวิดีโอนี้ทันทีและลองบันทึกอีกครั้ง เนื่องจากอาจไม่สามารถดำเนินการต่อได้"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "พบว่าส่วนหนึ่งของสตรีมหายไป แต่การบันทึกยังคงดำเนินต่อไป"
+   },
+   "webm_detected": {
+      "message": "ไม่รองรับรูปแบบ WebM ในขณะนี้"
+   }
+}

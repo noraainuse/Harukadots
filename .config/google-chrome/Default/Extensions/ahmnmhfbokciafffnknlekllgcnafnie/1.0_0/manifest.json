@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "images/icon16.png",
+         "24": "images/icon24.png",
+         "32": "images/icon32.png"
+      },
+      "default_popup": "app.html",
+      "default_title": "Get cookies.txt Clean"
+   },
+   "background": {
+      "service_worker": "js/app.js"
+   },
+   "content_scripts": [ {
+      "js": [ "js/contentScript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Effortlessly transfer your cookies to the Netscape cookie file format, aka cookies.txt. Compatible with wget, curl, yt-dlp, etc.",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjD1XXPB9+J3gnMgbStNccBCY5nOUgZEzqUW9+o4rKXHTrpSFNL0uxqr57A0PZaDQjVndfcT7GX61smvcsdh1xQLMWBeb0fnGvu3pemCYmQxpFNErk7zPoU9+MkZUHX8xOmyRJMTq5B6ibTLa6sOsnEYnYBPs/tdMk5j0DdpU77/xnkuFdb4sYdpR3LBXRaVmgPfclh/Qci2dMxCFGuo81O+ynsYW14cn1DXuAw08bmlXwm0B0z136fVPMkk0JvjWE/e4CLKO5nLWbGEm9h2BQCP9kWxaqV+6IQutwT10M0bCLQvW15G5w2XMi49bzxwGTHLlJCgzGEDbYE+bEd+oUQIDAQAB",
+   "manifest_version": 3,
+   "name": "Get cookies.txt Clean",
+   "permissions": [ "cookies", "tabs", "webNavigation", "downloads", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

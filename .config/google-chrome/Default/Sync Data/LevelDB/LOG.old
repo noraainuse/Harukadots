@@ -1,0 +1,6 @@
+2024/11/23-18:54:01.571 498 Reusing MANIFEST /home/noraa/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/23-18:54:01.572 498 Recovering log #104
+2024/11/23-18:54:01.576 498 Reusing old log /home/noraa/.config/google-chrome/Default/Sync Data/LevelDB/000104.log 
+2024/11/23-19:13:22.513 4a6 Level-0 table #109: started
+2024/11/23-19:13:22.517 4a6 Level-0 table #109: 143308 bytes OK
+2024/11/23-19:13:22.519 4a6 Delete type=0 #104

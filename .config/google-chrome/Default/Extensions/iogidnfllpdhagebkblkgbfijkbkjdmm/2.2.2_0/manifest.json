@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": {
+         "64": "images/icon_normal_64.png"
+      },
+      "default_title": "__MSG_manifest_browser_action__"
+   },
+   "author": "loadmonkey.inquiry@gmail.com",
+   "background": {
+      "service_worker": "bg.js"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "exclude_matches": [ "https://www.hlsloader.com/*record.html*" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "js/loader.js" ],
+      "matches": [ "https://www.hlsloader.com/*record.html*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_manifest_description__",
+   "homepage_url": "https://www.hlsloader.com/",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "64": "images/icon_normal_64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh3hm5gC4vIXa2MneB+sAzS6u/+tNzxM8dn+GXS/oeZ7V5EHaJVvpwL/5svY+ecUQ2rjoreYK6gMdBAAYcVYIbo7gxcEhEVibZv+0CKYkBc4TM8auLZrfx17GMjq4uifFbMM5GhTKW3yVq7oT0VGq07JhVprGbmqFA5tsc+sKo14cTDvjxnfJnvD0iAZnevoaBbwV5yVWNea566JBY429TLa385qwN8D+BBJhLs/siPBX3NN9tOQqMuIJ4rrOkTd0zpeJejg51Id0T4+UGOjWvbSJVXLstIhvEvQN+QcnJdF5JKaiazm+Tqa030Y56jq6V9wO8e/DhZJfYYdjU0KSNQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_manifest_name__",
+   "permissions": [ "webRequest", "declarativeNetRequest", "webNavigation", "tabs", "scripting", "offscreen", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.2"
+}

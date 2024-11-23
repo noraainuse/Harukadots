@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Capturando... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream encontrado\n[ Clique para baixar ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Provavelmente pode ser baixado\n[ Clique para tentar ]"
+   },
+   "action_button_loader": {
+      "message": "Carregando..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Clique para tentar capturar o vídeo ]"
+   },
+   "audio": {
+      "message": "Áudio"
+   },
+   "capture_reason_1": {
+      "message": "Você deseja mudar para o modo de captura de vídeo?"
+   },
+   "capture_reason_2": {
+      "message": "Índice de vídeo não encontrado.\u003Cbr>Você deseja mudar para o modo de captura de vídeo?"
+   },
+   "capture_reason_3": {
+      "message": "Você deseja usar o modo de captura como antes?"
+   },
+   "disableAdblockMessage": {
+      "message": "Erros de download também podem ser causados por bloqueadores de anúncios!\u003Cbr>Você poderia desativar seu bloqueador de anúncios para nos apoiar no desenvolvimento contínuo do nosso serviço?"
+   },
+   "drm_detected": {
+      "message": "O vídeo pode estar protegido por tecnologias DRM (Gerenciamento de Direitos Digitais)."
+   },
+   "error_403": {
+      "message": "Acesso negado."
+   },
+   "error_404": {
+      "message": "Arquivo não encontrado."
+   },
+   "error_408": {
+      "message": "Tempo esgotado."
+   },
+   "error_fetch": {
+      "message": "Falha ao buscar o arquivo."
+   },
+   "error_label": {
+      "message": "Erro."
+   },
+   "error_no_audio": {
+      "message": "Sem áudio."
+   },
+   "error_no_downloadable": {
+      "message": "Um vídeo que pode ser baixado não foi encontrado no arquivo de índice."
+   },
+   "error_no_index": {
+      "message": "Ocorreu um erro ao buscar o arquivo de índice."
+   },
+   "error_no_video": {
+      "message": "Sem vídeo."
+   },
+   "error_quality_select": {
+      "message": "Ocorreu um erro ao verificar a qualidade do vídeo."
+   },
+   "error_try_capture": {
+      "message": "Tente \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Modo de Captura\u003C/a> se necessário."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Você pode baixar e salvar vídeos de streaming ao vivo no formato HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Cancelado"
+   },
+   "message_completed": {
+      "message": "Concluído"
+   },
+   "message_error_network": {
+      "message": "Erro de rede"
+   },
+   "message_failed": {
+      "message": "Falha no download"
+   },
+   "message_fatal": {
+      "message": "Erro fatal. Infelizmente, o download não pode ser retomado. Por favor, tente novamente."
+   },
+   "message_resume": {
+      "message": "Download retomado"
+   },
+   "quality": {
+      "message": "Qualidade"
+   },
+   "quality_custom": {
+      "message": "Personalizada"
+   },
+   "quality_high": {
+      "message": "Alta"
+   },
+   "quality_low": {
+      "message": "Baixa"
+   },
+   "refer_troubleshoot": {
+      "message": "Por favor, consulte \u003Ca href=\"#troubleshoot\">Solução de Problemas\u003C/a> em detalhes."
+   },
+   "subtitle": {
+      "message": "Legenda"
+   },
+   "title_completed": {
+      "message": "Concluído"
+   },
+   "title_loading": {
+      "message": "Carregando"
+   },
+   "title_recording": {
+      "message": "Gravando"
+   },
+   "warn_chapter_has_changed": {
+      "message": "O capítulo do stream mudou, mas a gravação continua."
+   },
+   "warn_chunksize_excess": {
+      "message": "O número de fragmentos no stream está acima de NUM_CHUNKS. Por favor, salve imediatamente este vídeo e tente gravar novamente, pois pode não ser possível processar mais."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Parte do stream está faltando, mas a gravação continua."
+   },
+   "webm_detected": {
+      "message": "WebM atualmente não é suportado."
+   }
+}

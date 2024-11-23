@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Püüdmine... ]"
+   },
+   "action_button_enable": {
+      "message": "Voog leitud\n[ Klõpsake allalaadimiseks ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Tõenäoliselt allalaaditav\n[ Proovige klõpsates ]"
+   },
+   "action_button_loader": {
+      "message": "Laadimine..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klõpsake video püüdmiseks ]"
+   },
+   "audio": {
+      "message": "Heli"
+   },
+   "capture_reason_1": {
+      "message": "Kas soovite vahetada video püüdmisrežiimi?"
+   },
+   "capture_reason_2": {
+      "message": "Videoindeksit ei leitud.\u003Cbr>Kas soovite vahetada video püüdmisrežiimi?"
+   },
+   "capture_reason_3": {
+      "message": "Kas soovite kasutada püüdmisrežiimi nagu varem?"
+   },
+   "disableAdblockMessage": {
+      "message": "Allalaadimisvead võivad olla põhjustatud reklaamiblokeerijast!\u003Cbr>Kas oleksite nii kena ja keelaksite oma reklaamiblokeerija, et toetada meid edasises arendustegevuses?"
+   },
+   "drm_detected": {
+      "message": "Videot võib kaitsta DRM (Digitaalõiguste haldus) tehnoloogiatega."
+   },
+   "error_403": {
+      "message": "Juurdepääs keelatud."
+   },
+   "error_404": {
+      "message": "Faili ei leitud."
+   },
+   "error_408": {
+      "message": "Aegumine."
+   },
+   "error_fetch": {
+      "message": "Faili hankimine ebaõnnestus."
+   },
+   "error_label": {
+      "message": "Viga."
+   },
+   "error_no_audio": {
+      "message": "Heli puudub."
+   },
+   "error_no_downloadable": {
+      "message": "Indeksifailis ei leitud allalaaditavat videot."
+   },
+   "error_no_index": {
+      "message": "Indeksifaili hankimisel ilmnes viga."
+   },
+   "error_no_video": {
+      "message": "Videot ei ole."
+   },
+   "error_quality_select": {
+      "message": "Video kvaliteedi kontrollimisel ilmnes viga."
+   },
+   "error_try_capture": {
+      "message": "Proovige vajadusel \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Püüdmisrežiimi\u003C/a>."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Saate alla laadida ja salvestada otseülekande videot HLS / m3u8 formaadis."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Tühistatud"
+   },
+   "message_completed": {
+      "message": "Lõpetatud"
+   },
+   "message_error_network": {
+      "message": "Võrguviga"
+   },
+   "message_failed": {
+      "message": "Allalaadimine ebaõnnestus"
+   },
+   "message_fatal": {
+      "message": "Saatuslik viga. Kahjuks ei saa allalaadimist jätkata. Palun proovige uuesti."
+   },
+   "message_resume": {
+      "message": "Allalaadimine jätkatud"
+   },
+   "quality": {
+      "message": "Kvaliteet"
+   },
+   "quality_custom": {
+      "message": "Kohandatud"
+   },
+   "quality_high": {
+      "message": "Kõrge"
+   },
+   "quality_low": {
+      "message": "Madal"
+   },
+   "refer_troubleshoot": {
+      "message": "Palun vaadake üksikasjalikult \u003Ca href=\"#troubleshoot\">Tõrkeotsingu\u003C/a> juhendit."
+   },
+   "subtitle": {
+      "message": "Subtiiter"
+   },
+   "title_completed": {
+      "message": "Valmis"
+   },
+   "title_loading": {
+      "message": "Laadimine"
+   },
+   "title_recording": {
+      "message": "Salvestamine"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Voogude peatükk on muutunud, kuid salvestamine jätkub."
+   },
+   "warn_chunksize_excess": {
+      "message": "Voo fragmentide arv ületab NUM_CHUNKS. Palun salvestage see video kohe ja proovige uuesti salvestada, kuna seda ei pruugita enam töödelda."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Osa voost puudub, kuid salvestamine jätkub."
+   },
+   "webm_detected": {
+      "message": "WebM-i formaati praegu ei toetata."
+   }
+}

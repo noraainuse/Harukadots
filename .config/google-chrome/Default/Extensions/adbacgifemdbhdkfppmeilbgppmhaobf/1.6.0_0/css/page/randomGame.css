@@ -1,0 +1,81 @@
+.random-game-iframe{
+	border:0px;
+	border-radius:25px;
+	transform:scale(0.5,0.5);
+	width:800px;
+	height:0px;
+	margin-right:-200px;
+	display:none;
+	transition:1s;
+}
+
+.random-game-iframe-open{
+	width:800px;
+	height:800px;
+	margin-top:-200px;
+	transition:1s;
+}
+
+.dark-theme .reorder-div {
+	background-color: #191B1D!important;
+}
+
+.light-theme .reorder-div {
+	background-color: #ffffff!important;
+}
+
+.dark-theme .sort-button:hover .sort-image{
+	filter: brightness(10);
+}
+
+.save-order {
+	background-color: #0082DB!important;
+}
+
+.save-order:hover {
+	background-color: #0097FF!important;
+}
+
+.reset-order {
+	background-color: #D5D5D5!important;
+}
+
+.reset-order:hover {
+	background-color: #FFFFFF!important;
+}
+
+.sort-button {
+	cursor: move;
+}
+
+.dark-theme .sort-button {
+	background-color:#232527
+}
+
+[draggable=true] {
+	cursor: move;
+  }
+
+#randomGameButton:hover .random-game-icon-darkmode {
+	filter:invert(1)!important;
+}
+
+#randomGameButton:hover .random-game-icon-lightmode {
+	filter:invert(0)!important;
+}
+
+.reorder-button .reorder-active {
+	display: none!important;
+}
+
+.reorder-button .reorder-inactive {
+	display: block!important;
+}
+
+.reorder-button:hover .reorder-active {
+	display: block!important;
+}
+
+.reorder-button:hover .reorder-inactive {
+	display: none!important;
+}

@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Capturant... ]"
+   },
+   "action_button_enable": {
+      "message": "S'ha trobat el flux\n[ Cliqueu per descarregar ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Probablement descarregable\n[ Cliqueu per provar ]"
+   },
+   "action_button_loader": {
+      "message": "Carregant..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Cliqueu per provar de capturar el vídeo ]"
+   },
+   "audio": {
+      "message": "Àudio"
+   },
+   "capture_reason_1": {
+      "message": "Vols canviar al mode de captura de vídeo?"
+   },
+   "capture_reason_2": {
+      "message": "No s'ha trobat l'índex de vídeo.\u003Cbr>Vols canviar al mode de captura de vídeo?"
+   },
+   "capture_reason_3": {
+      "message": "Vols utilitzar el mode de captura com abans?"
+   },
+   "disableAdblockMessage": {
+      "message": "Els errors de descàrrega també poden ser causats per l'ad-blocker!\u003Cbr>T'agradaria desactivar el teu ad-blocker per donar-nos suport en el desenvolupament continu del nostre servei?"
+   },
+   "drm_detected": {
+      "message": "El vídeo pot estar protegit per tecnologies DRM."
+   },
+   "error_403": {
+      "message": "Accés denegat."
+   },
+   "error_404": {
+      "message": "Fitxer no trobat."
+   },
+   "error_408": {
+      "message": "Temps d'espera exhaurit."
+   },
+   "error_fetch": {
+      "message": "Error en obtenir el fitxer."
+   },
+   "error_label": {
+      "message": "Error."
+   },
+   "error_no_audio": {
+      "message": "Sense àudio."
+   },
+   "error_no_downloadable": {
+      "message": "No s'ha trobat cap vídeo descarregable en el fitxer d'índex."
+   },
+   "error_no_index": {
+      "message": "S'ha produït un error en obtenir el fitxer d'índex."
+   },
+   "error_no_video": {
+      "message": "Sense vídeo."
+   },
+   "error_quality_select": {
+      "message": "S'ha produït un error en comprovar la qualitat del vídeo."
+   },
+   "error_try_capture": {
+      "message": "Proveu el \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Mode de Captura\u003C/a> si és necessari."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Podeu descarregar i desar vídeos en directe en format HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Cancel·lat"
+   },
+   "message_completed": {
+      "message": "Completat"
+   },
+   "message_error_network": {
+      "message": "Error de xarxa"
+   },
+   "message_failed": {
+      "message": "La descàrrega ha fallat"
+   },
+   "message_fatal": {
+      "message": "Error fatal. Desafortunadament, la descàrrega no pot ser reanudada. Si us plau, intenta-ho de nou."
+   },
+   "message_resume": {
+      "message": "Descàrrega reanudada"
+   },
+   "quality": {
+      "message": "Qualitat"
+   },
+   "quality_custom": {
+      "message": "Personalitzada"
+   },
+   "quality_high": {
+      "message": "Alta"
+   },
+   "quality_low": {
+      "message": "Baixa"
+   },
+   "refer_troubleshoot": {
+      "message": "Si us plau, consulta \u003Ca href=\"#troubleshoot\">Solució de problemes\u003C/a> per a més detalls."
+   },
+   "subtitle": {
+      "message": "Subtítol"
+   },
+   "title_completed": {
+      "message": "Completat"
+   },
+   "title_loading": {
+      "message": "Carregant"
+   },
+   "title_recording": {
+      "message": "Enregistrant"
+   },
+   "warn_chapter_has_changed": {
+      "message": "El capítol del flux ha canviat, però l'enregistrament continua."
+   },
+   "warn_chunksize_excess": {
+      "message": "El nombre de fragments en el flux és superior a NUM_CHUNKS. Si us plau, guardeu immediatament aquest vídeo i torneu a provar d'enregistrar, ja que pot ser que no es pugui processar més."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Part del flux falta, però l'enregistrament continua."
+   },
+   "webm_detected": {
+      "message": "Actualment no es dóna suport a WebM."
+   }
+}

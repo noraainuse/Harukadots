@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Menangkap... ]"
+   },
+   "action_button_enable": {
+      "message": "Aliran ditemui\n[ Klik untuk memuat turun ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Mungkin boleh dimuat turun\n[ Klik untuk mencuba ]"
+   },
+   "action_button_loader": {
+      "message": "Memuat..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klik untuk mencuba menangkap video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Adakah anda mahu beralih ke mod tangkapan video?"
+   },
+   "capture_reason_2": {
+      "message": "Tiada indeks video dijumpai.\u003Cbr>Adakah anda mahu beralih ke mod tangkapan video?"
+   },
+   "capture_reason_3": {
+      "message": "Adakah anda mahu menggunakan mod tangkapan seperti sebelumnya?"
+   },
+   "disableAdblockMessage": {
+      "message": "Ralat muat turun juga boleh disebabkan oleh pemblokir iklan!\u003Cbr>Bolehkah anda mematikan pemblokir iklan anda untuk menyokong kami dalam mengembangkan perkhidmatan kami?"
+   },
+   "drm_detected": {
+      "message": "Video mungkin dilindungi oleh teknologi DRM (Pengurusan Hak Digital)."
+   },
+   "error_403": {
+      "message": "Akses ditolak."
+   },
+   "error_404": {
+      "message": "Fail tidak ditemui."
+   },
+   "error_408": {
+      "message": "Had masa tamat."
+   },
+   "error_fetch": {
+      "message": "Gagal mengambil fail."
+   },
+   "error_label": {
+      "message": "Ralat."
+   },
+   "error_no_audio": {
+      "message": "Tiada audio."
+   },
+   "error_no_downloadable": {
+      "message": "Video yang boleh dimuat turun tidak ditemui dalam fail indeks."
+   },
+   "error_no_index": {
+      "message": "Ralat berlaku semasa mengambil fail indeks."
+   },
+   "error_no_video": {
+      "message": "Tiada video."
+   },
+   "error_quality_select": {
+      "message": "Ralat berlaku semasa memeriksa kualiti video."
+   },
+   "error_try_capture": {
+      "message": "Cuba \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Mod Tangkap\u003C/a> jika perlu."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Anda boleh memuat turun dan menyimpan video penstriman langsung dalam format HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Dibatalkan"
+   },
+   "message_completed": {
+      "message": "Selesai"
+   },
+   "message_error_network": {
+      "message": "Ralat rangkaian"
+   },
+   "message_failed": {
+      "message": "Muat turun gagal"
+   },
+   "message_fatal": {
+      "message": "Ralat fatal. Malangnya muat turun tidak dapat disambung semula. Sila cuba lagi."
+   },
+   "message_resume": {
+      "message": "Muat turun disambung semula"
+   },
+   "quality": {
+      "message": "Kualiti"
+   },
+   "quality_custom": {
+      "message": "Khusus"
+   },
+   "quality_high": {
+      "message": "Tinggi"
+   },
+   "quality_low": {
+      "message": "Rendah"
+   },
+   "refer_troubleshoot": {
+      "message": "Sila rujuk \u003Ca href=\"#troubleshoot\">Penyelesaian Masalah\u003C/a> secara terperinci."
+   },
+   "subtitle": {
+      "message": "Sarikata"
+   },
+   "title_completed": {
+      "message": "Selesai"
+   },
+   "title_loading": {
+      "message": "Memuat"
+   },
+   "title_recording": {
+      "message": "Merakam"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Bab aliran telah berubah, tetapi rakaman diteruskan."
+   },
+   "warn_chunksize_excess": {
+      "message": "Bilangan fragmen dalam aliran melebihi NUM_CHUNKS. Sila simpan video ini segera dan cuba merakam lagi, kerana mungkin tidak dapat diproses lebih lanjut."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Sebahagian daripada aliran hilang, tetapi rakaman diteruskan."
+   },
+   "webm_detected": {
+      "message": "WebM pada masa ini tidak disokong."
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ תופס... ]"
+   },
+   "action_button_enable": {
+      "message": "נמצא זרם\n[ לחץ להורדה ]"
+   },
+   "action_button_enable_weak": {
+      "message": "כנראה ניתן להוריד\n[ לחץ לניסיון ]"
+   },
+   "action_button_loader": {
+      "message": "טוען..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ לחץ לניסיון תפיסת הווידאו ]"
+   },
+   "audio": {
+      "message": "אודיו"
+   },
+   "capture_reason_1": {
+      "message": "האם ברצונך לעבור למצב תפיסת וידאו?"
+   },
+   "capture_reason_2": {
+      "message": "לא נמצא אינדקס וידאו.\u003Cbr>האם ברצונך לעבור למצב תפיסת וידאו?"
+   },
+   "capture_reason_3": {
+      "message": "האם ברצונך להשתמש במצב תפיסה כמו בעבר?"
+   },
+   "disableAdblockMessage": {
+      "message": "שגיאות הורדה יכולות גם להיגרם על ידי חוסם פרסומות!\u003Cbr>האם תוכל לבטל את חוסם הפרסומות כדי לתמוך בנו בפיתוח השירות שלנו?"
+   },
+   "drm_detected": {
+      "message": "יתכן שהווידאו מוגן על ידי DRM."
+   },
+   "error_403": {
+      "message": "הגישה נדחתה."
+   },
+   "error_404": {
+      "message": "הקובץ לא נמצא."
+   },
+   "error_408": {
+      "message": "זמן ההמתנה חלף."
+   },
+   "error_fetch": {
+      "message": "כשל באחזור הקובץ."
+   },
+   "error_label": {
+      "message": "שגיאה."
+   },
+   "error_no_audio": {
+      "message": "אין אודיו."
+   },
+   "error_no_downloadable": {
+      "message": "לא נמצא וידאו שניתן להורדה בקובץ האינדקס."
+   },
+   "error_no_index": {
+      "message": "אירעה שגיאה בעת אחזור קובץ האינדקס."
+   },
+   "error_no_video": {
+      "message": "אין וידאו."
+   },
+   "error_quality_select": {
+      "message": "אירעה שגיאה בעת בדיקת איכות הווידאו."
+   },
+   "error_try_capture": {
+      "message": "נסה \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">מצב תפיסה\u003C/a> אם נחוץ."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "אתה יכול להוריד ולשמור סרטוני סטרימינג חיים בפורמט HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "בוטל"
+   },
+   "message_completed": {
+      "message": "הושלם"
+   },
+   "message_error_network": {
+      "message": "שגיאת רשת"
+   },
+   "message_failed": {
+      "message": "ההורדה נכשלה"
+   },
+   "message_fatal": {
+      "message": "אירעה שגיאה חמורה. לצערנו ההורדה לא יכולה להימשך. אנא נסה שנית."
+   },
+   "message_resume": {
+      "message": "ההורדה הושבה"
+   },
+   "quality": {
+      "message": "איכות"
+   },
+   "quality_custom": {
+      "message": "מותאם אישית"
+   },
+   "quality_high": {
+      "message": "גבוהה"
+   },
+   "quality_low": {
+      "message": "נמוכה"
+   },
+   "refer_troubleshoot": {
+      "message": "אנא עיין ב\u003Ca href=\"#troubleshoot\">פתרון בעיות\u003C/a> לפרטים נוספים."
+   },
+   "subtitle": {
+      "message": "כתוביות"
+   },
+   "title_completed": {
+      "message": "הושלם"
+   },
+   "title_loading": {
+      "message": "טוען"
+   },
+   "title_recording": {
+      "message": "מקליט"
+   },
+   "warn_chapter_has_changed": {
+      "message": "הפרק בזרם השתנה, אך ההקלטה ממשיכה."
+   },
+   "warn_chunksize_excess": {
+      "message": "מספר הפרגמנטים בזרם חורג מ-NUM_CHUNKS. אנא שמור מיד את הווידאו ונסה להקליט שוב, כי ייתכן שלא ניתן יהיה לעבדו יותר."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "חלק מהזרם חסר, אך ההקלטה ממשיכה."
+   },
+   "webm_detected": {
+      "message": "פורמט WebM אינו נתמך כרגע."
+   }
+}

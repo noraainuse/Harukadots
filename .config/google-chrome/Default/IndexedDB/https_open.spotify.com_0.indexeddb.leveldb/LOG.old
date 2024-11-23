@@ -1,0 +1,6 @@
+2024/11/22-22:05:29.514 452e Reusing MANIFEST /home/noraa/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/22-22:05:29.514 452e Recovering log #3
+2024/11/22-22:05:29.519 452e Reusing old log /home/noraa/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2024/11/22-22:05:32.121 4530 Level-0 table #5: started
+2024/11/22-22:05:32.135 4530 Level-0 table #5: 1020100 bytes OK
+2024/11/22-22:05:32.139 4530 Delete type=0 #3

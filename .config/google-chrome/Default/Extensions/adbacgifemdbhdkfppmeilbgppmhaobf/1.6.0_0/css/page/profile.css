@@ -1,0 +1,111 @@
+.ropro-featured-badge {
+	cursor: pointer;
+	width: auto!important;
+}
+
+.ropro-featured-badge img {
+	float:right;
+}
+
+.ropro-featured-badge .ropro-featured-badge-info {
+	width: 0px!important;
+	overflow: hidden;
+	transition: width 0.2s;
+}
+
+.ropro-featured-badge:hover .ropro-featured-badge-info {
+	width: 165px!important;
+	transition: width 0.2s;
+}
+
+.rolilike:hover{
+	content: url(chrome-extension://__MSG_@@extension_id__/images/like2.png);
+}
+.ropro-user-info:hover .ropro-info-card{
+	display:block!important;
+}
+
+.ropro-offline .icon-offline-outer {
+	transition: all 0.25s;
+}
+
+.ropro-offline .ropro-offline-text {
+	width: 0px!important;
+	opacity: 0;
+	transition: all 0.2s;
+}
+
+.ropro-offline:hover .icon-offline-outer {
+	width: 150px!important;
+	transition: all 0.25s;
+	margin-right: -50px!important;
+}
+
+.ropro-offline:hover .icon-offline-inner {
+	width: 133.5px!important;
+	transform: scaleY(1.5) scaleX(1.05);
+	transition: all 0.25s;
+}
+
+.ropro-offline:hover .ropro-offline-text {
+	width: 133px!important;
+	text-align: center;
+	opacity: 1;
+	transition: all 0.25s;
+}
+
+.ropro-egg-collection-li:hover .ropro-animated-icon1 {
+	animation:shake1 0.3s ease-out;
+}
+
+.ropro-egg-collection-li:hover .ropro-animated-icon2 {
+	animation:jump1 0.4s ease-out;
+}
+
+@keyframes shake1 {
+	0% {
+		transform:rotate(0deg);
+	}
+	33% {
+		transform:rotate(15deg);
+	}
+	66% {
+		transform:rotate(-15deg);
+	}
+	100% {
+		transform:rotate(0deg);
+	}
+}
+
+@keyframes shake2 {
+	0% {
+		transform:rotate(0deg);
+	}
+	33% {
+		transform:rotate(-15deg);
+	}
+	66% {
+		transform:rotate(15deg);
+	}
+	100% {
+		transform:rotate(0deg);
+	}
+}
+
+@keyframes jump1 {
+	0% {
+		transform:translateY(0px);
+	}
+	25% {
+		transform:translateY(-30px);
+	}
+	50% {
+		transform:translateY(0px);
+	}
+	75% {
+		transform:translateY(-20px);
+	}
+	100% {
+		transform:translateY(0px);
+	}
+}

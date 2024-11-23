@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Capturing... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream found\n[ Click to download ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Probably downloadable\n[ Click to try ]"
+   },
+   "action_button_loader": {
+      "message": "Loading..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Click to try capturing the video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Do you want to switch to the video capture mode?"
+   },
+   "capture_reason_2": {
+      "message": "No video index found.\u003Cbr>Do you want to switch to the video capture mode?"
+   },
+   "capture_reason_3": {
+      "message": "Do you want to use capture mode as before?"
+   },
+   "disableAdblockMessage": {
+      "message": "Download errors can also be caused by ad-blocker!\u003Cbr>Would you please disable your ad-blocker to support us in further developing our service?"
+   },
+   "drm_detected": {
+      "message": "The video may be protected by DRM (Digital Rights Management) technologies."
+   },
+   "error_403": {
+      "message": "Access denied."
+   },
+   "error_404": {
+      "message": "File not found."
+   },
+   "error_408": {
+      "message": "Timeout."
+   },
+   "error_fetch": {
+      "message": "Failed fetching the file."
+   },
+   "error_label": {
+      "message": "Error."
+   },
+   "error_no_audio": {
+      "message": "No audio."
+   },
+   "error_no_downloadable": {
+      "message": "A downloadable video was not found in the index file."
+   },
+   "error_no_index": {
+      "message": "An error occurred while fetching the index file."
+   },
+   "error_no_video": {
+      "message": "No video."
+   },
+   "error_quality_select": {
+      "message": "An error occurred when checking the video quality."
+   },
+   "error_try_capture": {
+      "message": "Try \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Capture Mode\u003C/a> if necessary."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "You can download and save live streaming video in HLS / m3u8 format."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Canceled"
+   },
+   "message_completed": {
+      "message": "Completed"
+   },
+   "message_error_network": {
+      "message": "Network error"
+   },
+   "message_failed": {
+      "message": "Download failed"
+   },
+   "message_fatal": {
+      "message": "Fatal error. Unfortunately the download cannot be resumed. Please try again."
+   },
+   "message_resume": {
+      "message": "Download resumed"
+   },
+   "quality": {
+      "message": "Quality"
+   },
+   "quality_custom": {
+      "message": "Custom"
+   },
+   "quality_high": {
+      "message": "High"
+   },
+   "quality_low": {
+      "message": "Low"
+   },
+   "refer_troubleshoot": {
+      "message": "Please refer to \u003Ca href=\"#troubleshoot\">Troubleshooting\u003C/a> in detail."
+   },
+   "subtitle": {
+      "message": "Subtitle"
+   },
+   "title_completed": {
+      "message": "Completed"
+   },
+   "title_loading": {
+      "message": "Loading"
+   },
+   "title_recording": {
+      "message": "Recording"
+   },
+   "warn_chapter_has_changed": {
+      "message": "The chapter of the stream has changed, but the recording continues."
+   },
+   "warn_chunksize_excess": {
+      "message": "The number of fragments in the stream is over NUM_CHUNKS. Please immediately save this video and try recording again, as it may not be able to be processed any further."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Part of the stream is missing, but the recording continues."
+   },
+   "webm_detected": {
+      "message": "WebM is currently not supported."
+   }
+}

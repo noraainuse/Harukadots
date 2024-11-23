@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Bezig met vastleggen... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream gevonden\n[ Klik om te downloaden ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Waarschijnlijk downloadbaar\n[ Klik om te proberen ]"
+   },
+   "action_button_loader": {
+      "message": "Laden..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klik om de video te proberen vast te leggen ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Wilt u overschakelen naar de videovangstmodus?"
+   },
+   "capture_reason_2": {
+      "message": "Geen video-index gevonden.\u003Cbr>Wilt u overschakelen naar de videovangstmodus?"
+   },
+   "capture_reason_3": {
+      "message": "Wilt u de vangstmodus gebruiken zoals voorheen?"
+   },
+   "disableAdblockMessage": {
+      "message": "Downloadfouten kunnen ook worden veroorzaakt door een ad-blocker!\u003Cbr>Zou u uw ad-blocker willen uitschakelen om ons te ondersteunen bij het verder ontwikkelen van onze dienst?"
+   },
+   "drm_detected": {
+      "message": "De video is mogelijk beschermd door DRM (Digital Rights Management) technologieën."
+   },
+   "error_403": {
+      "message": "Toegang geweigerd."
+   },
+   "error_404": {
+      "message": "Bestand niet gevonden."
+   },
+   "error_408": {
+      "message": "Time-out."
+   },
+   "error_fetch": {
+      "message": "Het ophalen van het bestand is mislukt."
+   },
+   "error_label": {
+      "message": "Fout."
+   },
+   "error_no_audio": {
+      "message": "Geen audio."
+   },
+   "error_no_downloadable": {
+      "message": "Er is geen downloadbare video gevonden in het indexbestand."
+   },
+   "error_no_index": {
+      "message": "Er is een fout opgetreden bij het ophalen van het indexbestand."
+   },
+   "error_no_video": {
+      "message": "Geen video."
+   },
+   "error_quality_select": {
+      "message": "Er is een fout opgetreden bij het controleren van de videokwaliteit."
+   },
+   "error_try_capture": {
+      "message": "Probeer \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Opname Modus\u003C/a> indien nodig."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "U kunt live streamingvideo in HLS / m3u8-formaat downloaden en opslaan."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Geannuleerd"
+   },
+   "message_completed": {
+      "message": "Voltooid"
+   },
+   "message_error_network": {
+      "message": "Netwerkfout"
+   },
+   "message_failed": {
+      "message": "Download mislukt"
+   },
+   "message_fatal": {
+      "message": "Fatale fout. Helaas kan de download niet worden hervat. Probeer het opnieuw."
+   },
+   "message_resume": {
+      "message": "Download hervat"
+   },
+   "quality": {
+      "message": "Kwaliteit"
+   },
+   "quality_custom": {
+      "message": "Aangepast"
+   },
+   "quality_high": {
+      "message": "Hoog"
+   },
+   "quality_low": {
+      "message": "Laag"
+   },
+   "refer_troubleshoot": {
+      "message": "Raadpleeg \u003Ca href=\"#troubleshoot\">Probleemoplossing\u003C/a> voor meer informatie."
+   },
+   "subtitle": {
+      "message": "Ondertitel"
+   },
+   "title_completed": {
+      "message": "Voltooid"
+   },
+   "title_loading": {
+      "message": "Laden"
+   },
+   "title_recording": {
+      "message": "Opnemen"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Het hoofdstuk van de stream is veranderd, maar de opname gaat door."
+   },
+   "warn_chunksize_excess": {
+      "message": "Het aantal fragmenten in de stream is meer dan NUM_CHUNKS. Sla deze video onmiddellijk op en probeer opnieuw op te nemen, aangezien het mogelijk niet verder verwerkt kan worden."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Een deel van de stream ontbreekt, maar de opname gaat door."
+   },
+   "webm_detected": {
+      "message": "WebM wordt momenteel niet ondersteund."
+   }
+}

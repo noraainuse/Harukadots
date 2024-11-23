@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Đang chụp... ]"
+   },
+   "action_button_enable": {
+      "message": "Đã tìm thấy luồng\n[ Nhấn để tải xuống ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Có thể tải xuống\n[ Nhấn để thử ]"
+   },
+   "action_button_loader": {
+      "message": "Đang tải..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Nhấn để thử chụp video ]"
+   },
+   "audio": {
+      "message": "Âm thanh"
+   },
+   "capture_reason_1": {
+      "message": "Bạn có muốn chuyển sang chế độ chụp video không?"
+   },
+   "capture_reason_2": {
+      "message": "Không tìm thấy chỉ mục video.\u003Cbr>Bạn có muốn chuyển sang chế độ chụp video không?"
+   },
+   "capture_reason_3": {
+      "message": "Bạn có muốn sử dụng chế độ chụp như trước không?"
+   },
+   "disableAdblockMessage": {
+      "message": "Lỗi tải xuống cũng có thể do trình chặn quảng cáo!\u003Cbr>Vui lòng vô hiệu hóa trình chặn quảng cáo của bạn để hỗ trợ chúng tôi phát triển dịch vụ."
+   },
+   "drm_detected": {
+      "message": "Video có thể được bảo vệ bởi công nghệ DRM."
+   },
+   "error_403": {
+      "message": "Truy cập bị từ chối."
+   },
+   "error_404": {
+      "message": "Không tìm thấy tệp."
+   },
+   "error_408": {
+      "message": "Hết thời gian chờ."
+   },
+   "error_fetch": {
+      "message": "Lỗi khi tải tệp."
+   },
+   "error_label": {
+      "message": "Lỗi."
+   },
+   "error_no_audio": {
+      "message": "Không có âm thanh."
+   },
+   "error_no_downloadable": {
+      "message": "Không tìm thấy video có thể tải xuống trong tệp chỉ mục."
+   },
+   "error_no_index": {
+      "message": "Lỗi xảy ra khi tải tệp chỉ mục."
+   },
+   "error_no_video": {
+      "message": "Không có video."
+   },
+   "error_quality_select": {
+      "message": "Lỗi xảy ra khi kiểm tra chất lượng video."
+   },
+   "error_try_capture": {
+      "message": "Thử \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Chế độ Chụp\u003C/a> nếu cần thiết."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Bạn có thể tải xuống và lưu video trực tiếp theo định dạng HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Đã hủy"
+   },
+   "message_completed": {
+      "message": "Hoàn thành"
+   },
+   "message_error_network": {
+      "message": "Lỗi mạng"
+   },
+   "message_failed": {
+      "message": "Tải xuống thất bại"
+   },
+   "message_fatal": {
+      "message": "Lỗi nghiêm trọng. Thật không may, không thể tiếp tục tải xuống. Vui lòng thử lại từ đầu."
+   },
+   "message_resume": {
+      "message": "Tiếp tục tải xuống"
+   },
+   "quality": {
+      "message": "Chất lượng"
+   },
+   "quality_custom": {
+      "message": "Tùy chỉnh"
+   },
+   "quality_high": {
+      "message": "Cao"
+   },
+   "quality_low": {
+      "message": "Thấp"
+   },
+   "refer_troubleshoot": {
+      "message": "Vui lòng tham khảo \u003Ca href=\"#troubleshoot\">Xử lý sự cố\u003C/a> để biết chi tiết."
+   },
+   "subtitle": {
+      "message": "Phụ đề"
+   },
+   "title_completed": {
+      "message": "Hoàn thành"
+   },
+   "title_loading": {
+      "message": "Đang tải"
+   },
+   "title_recording": {
+      "message": "Đang ghi"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Chương của luồng đã thay đổi, nhưng việc ghi vẫn tiếp tục."
+   },
+   "warn_chunksize_excess": {
+      "message": "Số lượng đoạn trong luồng vượt quá NUM_CHUNKS. Vui lòng lưu video này ngay lập tức và thử ghi lại, vì có thể không xử lý được nữa."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Một phần của luồng bị thiếu, nhưng việc ghi vẫn tiếp tục."
+   },
+   "webm_detected": {
+      "message": "Định dạng WebM hiện không được hỗ trợ."
+   }
+}

@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "አኒሜሽን ገጽታዎች"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "የታነሙ ገጽታዎች ለተመዝጋቢዎች ብቻ ይገኛሉ።"
+   },
+   "Background": {
+      "message": "ዳራ"
+   },
+   "ChangeProfileTheme": {
+      "message": "ለውጥ የመገለጫ ጭብጥ"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "ከዚህ በታች አንድ ዳራ ይምረጡ።"
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "አንድን ንጥል ለማውጣት ጠቅ ያድርጉ።"
+   },
+   "CloseOffer": {
+      "message": "ቅርብ"
+   },
+   "CloseProfileThemes": {
+      "message": "የመገለጫ ገጽታዎችን ዝጋ"
+   },
+   "Comments": {
+      "message": "አስተያየቶች"
+   },
+   "CreateOffer": {
+      "message": "የንግድ ቅናሽ ፍጠር"
+   },
+   "CurrentlyWearing": {
+      "message": "በአሁኑ ጊዜ መልበስ"
+   },
+   "CustomThemes": {
+      "message": "ብጁ ገጽታዎች"
+   },
+   "FastestServers": {
+      "message": "ፈጣኑ አገልጋዮች"
+   },
+   "MaxPlayers": {
+      "message": "ማክስ ተጫዋቾች"
+   },
+   "MoreFilters": {
+      "message": "ተጨማሪ ማጣሪያዎች"
+   },
+   "MyOutfits": {
+      "message": "የእኔ አለባበሶች"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "ልብስዎን ይሰይሙ እና ያስቀምጡ ፡፡"
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "እስካሁን አስተያየቶች የሉም ... አንዱን ለመጻፍ የመጀመሪያ ይሁኑ!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "ምንም ንግድ ቅናሾች ለዚህ ንጥል ... አንድ ለመለጠፍ የመጀመሪያው ይሁኑ!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "እነርሱ መገለጫዎን ሲጎበኙ ሌሎች RoPro ተጠቃሚዎች የእርስዎን ገጽታ ያያሉ."
+   },
+   "OutfitCost": {
+      "message": "የልብስ ዋጋ"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "እባክዎን ግምገማ ለእኛ ለመተው ያስቡ!"
+   },
+   "PostComment": {
+      "message": "አስተያየት ለጥፍ"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "ይጫኑ የለበስኩት ስም ለማስገባት ቁልፍ ያስገቡ."
+   },
+   "RandomGame": {
+      "message": "የዘፈቀደ ጨዋታ"
+   },
+   "RemoveTheme": {
+      "message": "አስወግድ ጭብጥ"
+   },
+   "Reputation": {
+      "message": "ዝና"
+   },
+   "Review": {
+      "message": "ግምገማ"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro መገለጫ ገጽታዎች"
+   },
+   "SaveTheme": {
+      "message": "አስቀምጥ ጭብጥ"
+   },
+   "SeeMore": {
+      "message": "ተጨማሪ ይመልከቱ"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "በተሳካ ሁኔታ አልባሳት ተፈጠረ።"
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "ለማጽደቅ ብጁ ገጽታ ለማስገባት የ RoPro አገልጋይን ይቀላቀሉ"
+   },
+   "TradeOffers": {
+      "message": "የንግድ ቅናሾች"
+   },
+   "Upgrade": {
+      "message": "አሻሽል"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "ልብሶችዎን ለማስቀመጥ ያሻሽሉ!"
+   },
+   "WriteAComment": {
+      "message": "አስተያየት ይጻፉ!"
+   },
+   "accountSecurityFeatures": {
+      "message": "የመለያ ደህንነት ባህሪዎች"
+   },
+   "activateSubscription": {
+      "message": "ምዝገባን ያግብሩ"
+   },
+   "dealsNotifier": {
+      "message": "ቅናሾች አሳዋቂ"
+   },
+   "description": {
+      "message": "ለተጫዋቾች እና ለነጋዴዎች ፍጹም መሣሪያ። ሮፕሮ በደርዘን የሚቆጠሩ ጠቃሚ ባህሪያትን ወደ ሮብሎክስ ያክላል ፡፡"
+   },
+   "disclaimer1": {
+      "message": "RoPro ከ Roblox.com ወይም Rolimons.com ጋር የተቆራኘ አይደለም"
+   },
+   "disclaimer2": {
+      "message": "በ Dice የተሰራ ፡፡ እኔን ያነጋግሩ: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "አጠቃላይ ባህሪዎች"
+   },
+   "groupFeatures": {
+      "message": "የቡድን ባህሪዎች"
+   },
+   "help": {
+      "message": "እገዛ"
+   },
+   "manageSubscription": {
+      "message": "ምዝገባን ያቀናብሩ"
+   },
+   "name": {
+      "message": "RoPro - ተሞክሮዎን ያሻሽሉ Roblox"
+   },
+   "privacyPolicy": {
+      "message": "የ ግል የሆነ"
+   },
+   "settings": {
+      "message": "ቅንብሮች"
+   },
+   "subscription": {
+      "message": "የደንበኝነት ምዝገባ"
+   },
+   "support": {
+      "message": "ድጋፍ"
+   },
+   "termsOfService": {
+      "message": "የአገልግሎት ውሎች"
+   },
+   "tradingFeatures": {
+      "message": "ትሬዲንግ ባህሪያት"
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Erfassung... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream gefunden\n[ Klicken zum Herunterladen ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Wahrscheinlich herunterladbar\n[ Versuchen Sie es mit einem Klick ]"
+   },
+   "action_button_loader": {
+      "message": "Lädt..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klicken, um die Videoaufnahme zu versuchen ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Möchten Sie in den Videoaufnahmemodus wechseln?"
+   },
+   "capture_reason_2": {
+      "message": "Kein Videoindex gefunden.\u003Cbr>Möchten Sie in den Videoaufnahmemodus wechseln?"
+   },
+   "capture_reason_3": {
+      "message": "Möchten Sie den Aufnahmemodus wie zuvor verwenden?"
+   },
+   "disableAdblockMessage": {
+      "message": "Downloadfehler können auch durch einen Ad-Blocker verursacht werden!\u003Cbr>Würden Sie bitte Ihren Ad-Blocker deaktivieren, um uns bei der weiteren Entwicklung unseres Dienstes zu unterstützen?"
+   },
+   "drm_detected": {
+      "message": "Das Video könnte durch DRM (Digital Rights Management) geschützt sein."
+   },
+   "error_403": {
+      "message": "Zugriff verweigert."
+   },
+   "error_404": {
+      "message": "Datei nicht gefunden."
+   },
+   "error_408": {
+      "message": "Zeitüberschreitung."
+   },
+   "error_fetch": {
+      "message": "Fehler beim Abrufen der Datei."
+   },
+   "error_label": {
+      "message": "Fehler."
+   },
+   "error_no_audio": {
+      "message": "Kein Audio."
+   },
+   "error_no_downloadable": {
+      "message": "Ein herunterladbares Video wurde in der Indexdatei nicht gefunden."
+   },
+   "error_no_index": {
+      "message": "Ein Fehler ist beim Abrufen der Indexdatei aufgetreten."
+   },
+   "error_no_video": {
+      "message": "Kein Video."
+   },
+   "error_quality_select": {
+      "message": "Ein Fehler ist bei der Überprüfung der Videoqualität aufgetreten."
+   },
+   "error_try_capture": {
+      "message": "Versuchen Sie \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Aufnahmemodus\u003C/a> falls notwendig."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Sie können Live-Streaming-Videos im HLS / m3u8-Format herunterladen und speichern."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Abgebrochen"
+   },
+   "message_completed": {
+      "message": "Abgeschlossen"
+   },
+   "message_error_network": {
+      "message": "Netzwerkfehler"
+   },
+   "message_failed": {
+      "message": "Download fehlgeschlagen"
+   },
+   "message_fatal": {
+      "message": "Schwerwiegender Fehler. Leider kann der Download nicht fortgesetzt werden. Bitte versuchen Sie es erneut."
+   },
+   "message_resume": {
+      "message": "Download fortgesetzt"
+   },
+   "quality": {
+      "message": "Qualität"
+   },
+   "quality_custom": {
+      "message": "Benutzerdefiniert"
+   },
+   "quality_high": {
+      "message": "Hoch"
+   },
+   "quality_low": {
+      "message": "Niedrig"
+   },
+   "refer_troubleshoot": {
+      "message": "Bitte beachten Sie \u003Ca href=\"#troubleshoot\">Fehlerbehebung\u003C/a> im Detail."
+   },
+   "subtitle": {
+      "message": "Untertitel"
+   },
+   "title_completed": {
+      "message": "Abgeschlossen"
+   },
+   "title_loading": {
+      "message": "Lädt"
+   },
+   "title_recording": {
+      "message": "Aufnahme"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Das Kapitel des Streams hat sich geändert, aber die Aufnahme geht weiter."
+   },
+   "warn_chunksize_excess": {
+      "message": "Die Anzahl der Fragmente im Stream überschreitet NUM_CHUNKS. Bitte speichern Sie dieses Video sofort und versuchen Sie erneut aufzunehmen, da es möglicherweise nicht weiter verarbeitet werden kann."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Ein Teil des Streams fehlt, aber die Aufnahme geht weiter."
+   },
+   "webm_detected": {
+      "message": "WebM wird derzeit nicht unterstützt."
+   }
+}

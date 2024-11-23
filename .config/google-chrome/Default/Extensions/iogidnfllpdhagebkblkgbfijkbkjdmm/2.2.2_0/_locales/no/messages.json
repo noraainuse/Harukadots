@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Fanger... ]"
+   },
+   "action_button_enable": {
+      "message": "Strøm funnet\n[ Klikk for å laste ned ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Sannsynligvis nedlastbar\n[ Klikk for å prøve ]"
+   },
+   "action_button_loader": {
+      "message": "Laster..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klikk for å prøve å fange videoen ]"
+   },
+   "audio": {
+      "message": "Lyd"
+   },
+   "capture_reason_1": {
+      "message": "Vil du bytte til videoopptaksmodus?"
+   },
+   "capture_reason_2": {
+      "message": "Ingen videoindeks funnet.\u003Cbr>Vil du bytte til videoopptaksmodus?"
+   },
+   "capture_reason_3": {
+      "message": "Vil du bruke opptaksmodus som før?"
+   },
+   "disableAdblockMessage": {
+      "message": "Nedlastingsfeil kan også skyldes ad-blocker!\u003Cbr>Vil du være så snill å deaktivere ad-blockeren din for å støtte oss i videre utvikling av tjenesten vår?"
+   },
+   "drm_detected": {
+      "message": "Videoen kan være beskyttet av DRM-teknologier."
+   },
+   "error_403": {
+      "message": "Tilgang nektet."
+   },
+   "error_404": {
+      "message": "Filen ble ikke funnet."
+   },
+   "error_408": {
+      "message": "Tidsavbrudd."
+   },
+   "error_fetch": {
+      "message": "Feilet å hente filen."
+   },
+   "error_label": {
+      "message": "Feil."
+   },
+   "error_no_audio": {
+      "message": "Ingen lyd."
+   },
+   "error_no_downloadable": {
+      "message": "En nedlastbar video ble ikke funnet i indeksfilen."
+   },
+   "error_no_index": {
+      "message": "En feil oppstod under henting av indeksfilen."
+   },
+   "error_no_video": {
+      "message": "Ingen video."
+   },
+   "error_quality_select": {
+      "message": "En feil oppstod ved sjekking av videokvalitet."
+   },
+   "error_try_capture": {
+      "message": "Prøv \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Opptaksmodus\u003C/a> om nødvendig."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Du kan laste ned og lagre direktesendte videoer i HLS / m3u8-format."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Avbrutt"
+   },
+   "message_completed": {
+      "message": "Fullført"
+   },
+   "message_error_network": {
+      "message": "Nettverksfeil"
+   },
+   "message_failed": {
+      "message": "Nedlasting mislyktes"
+   },
+   "message_fatal": {
+      "message": "Alvorlig feil. Dessverre kan nedlastingen ikke gjenopptas. Vennligst prøv på nytt."
+   },
+   "message_resume": {
+      "message": "Nedlasting gjenopptatt"
+   },
+   "quality": {
+      "message": "Kvalitet"
+   },
+   "quality_custom": {
+      "message": "Tilpasset"
+   },
+   "quality_high": {
+      "message": "Høy"
+   },
+   "quality_low": {
+      "message": "Lav"
+   },
+   "refer_troubleshoot": {
+      "message": "Vennligst se \u003Ca href=\"#troubleshoot\">Feilsøking\u003C/a> for detaljer."
+   },
+   "subtitle": {
+      "message": "Undertittel"
+   },
+   "title_completed": {
+      "message": "Fullført"
+   },
+   "title_loading": {
+      "message": "Laster"
+   },
+   "title_recording": {
+      "message": "Opptak"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Kapittelet i strømmen har endret seg, men opptaket fortsetter."
+   },
+   "warn_chunksize_excess": {
+      "message": "Antallet fragmenter i strømmen er over NUM_CHUNKS. Vennligst lagre denne videoen umiddelbart og prøv å ta opp igjen, da den kanskje ikke kan behandles videre."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "En del av strømmen mangler, men opptaket fortsetter."
+   },
+   "webm_detected": {
+      "message": "WebM støttes for øyeblikket ikke."
+   }
+}

@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "ثيمات متحركة"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "متاحة للمشتركين فقط مواضيع الرسوم المتحركة."
+   },
+   "Background": {
+      "message": "خلفية"
+   },
+   "ChangeProfileTheme": {
+      "message": "تغيير موضوع الملف الشخصي"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "اختيار خلفية أدناه."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "انقر فوق عنصر لبخلع ذلك."
+   },
+   "CloseOffer": {
+      "message": "إغلاق العروض"
+   },
+   "CloseProfileThemes": {
+      "message": "أغلق سمات الملف الشخصي"
+   },
+   "Comments": {
+      "message": "تعليقات"
+   },
+   "CreateOffer": {
+      "message": "إنشاء عرض"
+   },
+   "CurrentlyWearing": {
+      "message": "يرتدي حاليا"
+   },
+   "CustomThemes": {
+      "message": "ثيمات مخصصة"
+   },
+   "FastestServers": {
+      "message": "أسرع الخوادم"
+   },
+   "MaxPlayers": {
+      "message": "ماكس لاعبين"
+   },
+   "MoreFilters": {
+      "message": "المزيد من المرشحات"
+   },
+   "MyOutfits": {
+      "message": "أزيائي"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "اسم وحفظ الزي الخاص بك."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "لا تعليقات حتى الآن. كن أول من يكتب تعليقا!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "أي عروض التجارة لهذا البند ... كن أول من وظيفة واحدة!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "سيرى مستخدمو RoPro المظهر الخاص بك عندما يزورون ملفك الشخصي."
+   },
+   "OutfitCost": {
+      "message": "تكلفة الزي:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "يرجى النظر في ترك لنا مراجعة!"
+   },
+   "PostComment": {
+      "message": "أضف تعليقا"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "اضغط على مفتاح الدخول لتقديم اسم الزي."
+   },
+   "RandomGame": {
+      "message": "لعبة عشوائية"
+   },
+   "RemoveTheme": {
+      "message": "إزالة المظهر"
+   },
+   "Reputation": {
+      "message": "سمعة"
+   },
+   "Review": {
+      "message": "استعراض"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro سمات الملف الشخصي"
+   },
+   "SaveTheme": {
+      "message": "حفظ السمات"
+   },
+   "SeeMore": {
+      "message": "شاهد المزيد"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "بنجاح إنشاء جماعة."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "لإرسال سمة مخصصة للموافقة عليها ، انضم إلى خادم RoPro Discord:"
+   },
+   "TradeOffers": {
+      "message": "عروض التجارة"
+   },
+   "Upgrade": {
+      "message": "رفع مستوى"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "الترقية إلى حفظ الازياء الخاصة بك!"
+   },
+   "WriteAComment": {
+      "message": "أكتب تعليقا!"
+   },
+   "accountSecurityFeatures": {
+      "message": "ميزات أمان الحساب"
+   },
+   "activateSubscription": {
+      "message": "تفعيل الاشتراك"
+   },
+   "dealsNotifier": {
+      "message": "منبه الصفقات"
+   },
+   "description": {
+      "message": "الأداة المثالية للاعبين والمتداولين. يضيف RoPro العشرات من الميزات المفيدة إلى Roblox."
+   },
+   "disclaimer1": {
+      "message": "لا تتبع RoPro موقع Roblox.com أو Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "التي أدلى بها النرد. الاتصال بي: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "الملامح العامة"
+   },
+   "groupFeatures": {
+      "message": "ميزات المجموعة"
+   },
+   "help": {
+      "message": "مساعدة"
+   },
+   "manageSubscription": {
+      "message": "إدارة الاشتراك"
+   },
+   "name": {
+      "message": "RoPro - عزز تجربة Roblox الخاصة بك"
+   },
+   "privacyPolicy": {
+      "message": "سياسة خاصة"
+   },
+   "settings": {
+      "message": "إعدادات"
+   },
+   "subscription": {
+      "message": "الاشتراك"
+   },
+   "support": {
+      "message": "الدعم"
+   },
+   "termsOfService": {
+      "message": "شروط الخدمة"
+   },
+   "tradingFeatures": {
+      "message": "ميزات التداول"
+   }
+}

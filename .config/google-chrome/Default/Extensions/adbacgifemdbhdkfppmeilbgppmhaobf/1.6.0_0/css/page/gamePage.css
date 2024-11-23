@@ -1,0 +1,554 @@
+#myGlower {
+    background-color: #ccc;
+    border: 1px solid transparent;    
+    -webkit-transition: border 0.1s linear, box-shadow 0.1s linear;
+       -moz-transition: border 0.1s linear, box-shadow 0.1s linear;
+            transition: border 0.1s linear, box-shadow 0.1s linear;
+}
+
+#myGlower.active {
+	box-shadow: inset 0 0 1px 20px #0A88DE;
+}
+
+.max-player-dropdown {
+	display:none;
+}
+
+.max-player-dropdown.active {
+	display:block;
+}
+
+/* The Modal (background) */
+.upgrade-modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .upgrade-modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .upgrade-modal-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .upgrade-modal-close:hover,
+  .upgrade-modal-close:focus {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+/* Modal Header */
+.upgrade-modal-header {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+  }
+  
+  /* Modal Body */
+  .upgrade-modal-body {padding: 2px 16px;}
+  
+  /* Modal Footer */
+  .upgrade-modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+  }
+  
+  /* Modal Content */
+  .upgrade-modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    animation-name: animatetop;
+    animation-duration: 0.4s
+  }
+  
+  /* Add Animation */
+  @keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: -webkit-calc(50% - 250px); opacity: 1}
+  }
+
+  .copied-to-clipboard {
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .copied-to-clipboard.active {
+    display:block!important;
+    opacity: 1;
+    transition: opacity 0.2s;
+  }
+
+  .random-server-button:hover .random-server-tooltip {
+    display: block!important;
+  }
+
+  .light-theme .popover.bottom>.ropro-arrow.arrow, .light-theme .popover.bottom>.ropro-arrow.arrow:after {
+    border-bottom-color: #393B3D;
+  }
+
+  .light-theme #roproServerFiltersMiniButton {
+    background-color: #F2F4F5!important;
+  }
+
+  .light-theme #roproServerFiltersMiniButton img {
+    filter:invert(0.1)!important;
+  }
+
+  .dark-theme #serverFilters {
+    color:white!important;
+  }
+
+  .light-theme #serverFilters {
+    color:#393b3d!important;
+  }
+
+  .light-theme .server-filter-img {
+    filter: invert(0.3)!important;
+  }
+
+  #serverFilters:hover {
+    text-decoration: underline;
+  }
+
+  .light-theme #serverFiltersDropdown:hover .server-filters-icon {
+    filter: invert(0.1)!important;
+  }
+
+  .dark-theme #serverFiltersDropdown .rbx-selection-label {
+    color: hsla(0,0%,100%,.7);
+  }
+
+  .dark-theme #serverFiltersDropdown:hover .rbx-selection-label {
+    color: hsla(0,0%,100%,.9);
+  }
+
+  .server-filter-option {
+    transform:scale(1);
+    width:190px!important;
+    height: 30px!important;
+    margin: 5px!important;
+    margin-left: 5px!important;
+    margin-right: 5px!important;
+    padding-left: 3px!important;
+    padding-right: 3px!important;
+    transition: width 0.2s, height 0.2s, margin-left 0.2s, margin-right 0.2s, padding-left 0.2s, padding-right 0.2s;
+  }
+
+  .dark-theme .server-filter-option:hover p {
+    color:white!important;
+  }
+
+  .light-theme .server-filter-option:hover p {
+    color:black!important;
+  }
+
+  .server-filter-option:hover {
+    cursor:pointer;
+    width:190px!important;
+    margin-left: 5px!important;
+    margin-right: 5px!important;
+    padding-left: 3px!important;
+    padding-right: 3px!important;
+    transition: width 0.2s, margin-left 0.2s, margin-right 0.2s, padding-left 0.2s, padding-right 0.2s;
+  }
+
+  .dark-theme .server-filter-option:hover {
+    color:white!important;
+  }
+
+  .light-theme .server-filter-option:hover {
+    color:black!important;
+  }
+
+  .dark-theme .server-filter-option .server-filter-img {
+    filter: invert(0.8)!important;
+    transform: scale(1);
+    transition: transform 0.2s;
+  }
+
+  .dark-theme .server-filter-option:hover .server-filter-img {
+    filter: invert(1)!important;
+    transform: scale(1.1);
+    transition: transform 0.2s;
+  }
+
+  .light-theme .server-filter-option .server-filter-img {
+    filter: invert(0.2)!important;
+    transform: scale(1);
+    transition: transform 0.2s;
+  }
+
+  .light-theme .server-filter-option:hover .server-filter-img {
+    filter: invert(0)!important;
+    transform: scale(1.1);
+    transition: transform 0.2s;
+  }
+
+  .dark-theme .rbx-game-server-details .server-filter-img {
+    filter:invert(0.8)!important;
+  }
+
+  .light-theme .rbx-game-server-details .server-filter-img {
+    filter:invert(0.3)!important;
+  }
+
+  .dark-theme .rbx-friends-game-server-details .server-filter-img {
+    filter:invert(0.8)!important;
+  }
+
+  .light-theme .rbx-friends-game-server-details .server-filter-img {
+    filter:invert(0.3)!important;
+  }
+
+  .light-theme .ropro-server-info-tooltip .icon-pastname {
+    filter: invert(0.8)!important;
+  }
+
+  .light-theme .filter-tooltip {
+    color: black!important;
+    background-color: #FFFFFF!important;
+  }
+
+  .light-theme .server-filters-icon {
+    filter: invert(0.1)!important;
+  }
+
+  .dark-theme .ropro-server-info-tooltip {
+    background-color: #232527!important;
+  }
+
+  .light-theme .ropro-server-info-tooltip {
+    background-color: #EEEEEE!important;
+  }
+
+  .light-theme .server-filter-option {
+    background-color: #FFFFFF!important;
+  }
+
+  .light-theme .server-filters-dropdown-box {
+    background-color: #dfdfdf!important;
+  }
+
+  .server-filter-option:hover .filter-tooltip {
+    display:block!important;
+  }
+
+  #maxPlayersButton:hover #playerCountSelector {
+    display: block!important;
+  }
+
+  #serverRegionButton:hover #serverRegionSelector {
+    display: block!important;
+  }
+
+  #serverRegionButton:hover #serverRegionSelector {
+    display: block!important;
+  }
+
+  #serverRegionButton.active {
+    border: solid #0084DD 1px;
+    padding-top: 2px!important;
+    padding-bottom: 2px!important;
+  }
+
+  #serverRegionButton.active #serverRegionSelector {
+    display: block!important;
+  }
+
+  #maxPlayersButton.active {
+    border: solid #0084DD 1px;
+    padding-top: 2px!important;
+    padding-bottom: 2px!important;
+  }
+
+  #maxPlayersButton.active #playerCountSelector {
+    display: block!important;
+  }
+
+  #maxPlayersButtonMini:hover #playerCountSelector {
+    display: block!important;
+  }
+
+  #serverRegionButtonMini:hover #serverRegionSelector {
+    display: block!important;
+  }
+
+  #serverRegionButtonMini:hover #serverRegionSelector {
+    display: block!important;
+  }
+
+  #serverRegionButtonMini.active {
+    border: solid #0084DD 1px;
+    padding-top: 2px!important;
+    padding-bottom: 2px!important;
+  }
+
+  #serverRegionButtonMini.active #serverRegionSelector {
+    display: block!important;
+  }
+
+  #maxPlayersButtonMini.active {
+    border: solid #0084DD 1px;
+    padding-top: 2px!important;
+    padding-bottom: 2px!important;
+  }
+
+  #maxPlayersButtonMini.active #playerCountSelector {
+    display: block!important;
+  }
+
+
+#maxPlayersList::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+#maxPlayersList::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+#maxPlayersList::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,1); 
+}
+
+#maxPlayersListMini::-webkit-scrollbar {
+  width: 12px;
+}
+
+#maxPlayersListMini::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+  border-radius: 10px;
+}
+
+#maxPlayersListMini::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,1); 
+}
+
+.dark-theme .max-players-selection {
+  background-color: #232527!important;
+}
+
+.light-theme .max-players-selection {
+  background-color: #FFFFFF!important;
+}
+
+.dark-theme #maxPlayersList {
+  background-color: #393B3D!important;
+}
+
+.light-theme #maxPlayersList {
+  background-color: #dfdfdf!important;
+}
+
+.dark-theme #maxPlayersListMini {
+  background-color: #393B3D!important;
+}
+
+.light-theme #maxPlayersListMini {
+  background-color: #dfdfdf!important;
+}
+
+.dark-theme #playerCountSelector {
+  background-color: #1E2022!important;
+}
+
+.light-theme #playerCountSelector {
+  background-color: #dfdfdf!important;
+}
+
+.dark-theme #serverRegionSelector {
+  background-color: #1E2022!important;
+}
+
+.light-theme #serverRegionSelector {
+  background-color: #dfdfdf!important;
+}
+
+.dark-theme .max-players-selection:hover {
+    border: solid white 2px;
+    padding: 8px!important;
+}
+
+.light-theme .max-players-selection:hover {
+  border: solid black 2px;
+  padding: 8px!important;
+}
+
+.ropro-server-info .ropro-server-info-tooltip {
+  display: none!important;
+}
+
+.ropro-server-info:hover .ropro-server-info-tooltip {
+    display: block!important;
+}
+
+.dark-theme #roproServerFiltersMiniButton:hover {
+  border: solid white 1px;
+  padding: 2px!important;
+}
+
+.light-theme #roproServerFiltersMiniButton:hover {
+  border: solid black 1px;
+  padding: 2px!important;
+}
+
+#loadingBar {
+  margin: 15px!important;
+}
+
+.ropro-voice-servers-info:hover .ropro-voice-servers-info-tooltip {
+  display: block!important;
+}
+
+.ropro-player-icon-list::-webkit-scrollbar {
+  width: 12px;
+}
+
+.ropro-player-icon-list::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+  border-radius: 10px;
+}
+
+.ropro-player-icon-list::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+.ropro-voice-server-card .ropro-voice-server-play-lock {
+  transition: transform 0.3s;
+  transform: scale(1);
+}
+
+.ropro-voice-server-card:hover .ropro-voice-server-play-lock {
+  transition: transform 0.3s;
+  transform: scale(1.2);
+}
+
+.flex-wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.single-chart {
+  width: 33%;
+  justify-content: space-around ;
+}
+
+.circular-chart {
+  display: block;
+  margin: 10px auto;
+  max-width: 80%;
+  max-height: 250px;
+}
+
+.circle-bg {
+  fill: none;
+  stroke: #eee;
+  stroke-width: 3.8;
+}
+
+.circle {
+  fill: none;
+  stroke-width: 2.8;
+  stroke-linecap: round;
+  animation: progress 1s ease-out forwards;
+}
+
+@keyframes progress {
+  0% {
+    stroke-dasharray: 0 100;
+  }
+}
+
+.circular-chart.orange .circle {
+  stroke: #ff9f00;
+}
+
+.circular-chart.green .circle {
+  stroke: #4CC790;
+}
+
+.circular-chart.blue .circle {
+  stroke: #3c9ee5;
+}
+
+.percentage {
+  fill: #666;
+  font-family: sans-serif;
+  font-size: 0.5em;
+  text-anchor: middle;
+}
+
+.ropro-cloud-play-icon-active {
+  display: none;
+}
+
+.ropro-cloud-play-icon-inactive {
+  display: inline-block;
+}
+
+.light-theme .ropro-cloud-play-icon-inactive {
+  filter: invert(0.6)!important;
+}
+
+.ropro-cloud-play-button:hover .ropro-cloud-play-icon-active {
+  display: inline-block;
+}
+
+.light-theme .ropro-cloud-play-button:hover .ropro-cloud-play-icon-active {
+  filter: invert(0.8);
+}
+
+.ropro-cloud-play-button:hover .ropro-cloud-play-icon-inactive {
+  display: none;
+}
+
+.ropro-cloud-play-button.active .ropro-cloud-play-icon-active {
+  display: inline-block;
+}
+
+.light-theme .ropro-cloud-play-button.active .ropro-cloud-play-icon-active {
+  filter: invert(0.8);
+}
+
+.ropro-cloud-play-button.active .ropro-cloud-play-icon-inactive {
+  display: none;
+}
+
+.ropro-cloud-play-container .ropro-cloud-play-tooltip {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.ropro-cloud-play-container:hover .ropro-cloud-play-tooltip {
+  opacity: 1;
+  transition: opacity 0.2s;
+}

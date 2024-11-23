@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Zachycování... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream nalezen\n[ Klikněte pro stažení ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Pravděpodobně stáhnoutelné\n[ Klikněte pro pokus ]"
+   },
+   "action_button_loader": {
+      "message": "Načítání..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klikněte pro pokus o zachycení videa ]"
+   },
+   "audio": {
+      "message": "Zvuk"
+   },
+   "capture_reason_1": {
+      "message": "Chcete přepnout do režimu zachycení videa?"
+   },
+   "capture_reason_2": {
+      "message": "Nebyl nalezen žádný index videa.\u003Cbr>Chcete přepnout do režimu zachycení videa?"
+   },
+   "capture_reason_3": {
+      "message": "Chcete použít režim zachycení jako předtím?"
+   },
+   "disableAdblockMessage": {
+      "message": "Chyby při stahování mohou být způsobeny také ad-blockerem!\u003Cbr>Prosíme, vypněte váš ad-blocker, abyste nás podpořili v dalším vývoji našeho servisu."
+   },
+   "drm_detected": {
+      "message": "Video může být chráněno technologiemi DRM (Digital Rights Management)."
+   },
+   "error_403": {
+      "message": "Přístup byl odepřen."
+   },
+   "error_404": {
+      "message": "Soubor nebyl nalezen."
+   },
+   "error_408": {
+      "message": "Čas vypršel."
+   },
+   "error_fetch": {
+      "message": "Chyba při načítání souboru."
+   },
+   "error_label": {
+      "message": "Chyba."
+   },
+   "error_no_audio": {
+      "message": "Žádný zvuk."
+   },
+   "error_no_downloadable": {
+      "message": "Ve indexovém souboru nebylo nalezeno stáhnoutelné video."
+   },
+   "error_no_index": {
+      "message": "Došlo k chybě při načítání indexového souboru."
+   },
+   "error_no_video": {
+      "message": "Žádné video."
+   },
+   "error_quality_select": {
+      "message": "Došlo k chybě při kontrole kvality videa."
+   },
+   "error_try_capture": {
+      "message": "Pokud je to nutné, zkuste \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Režim zachycení\u003C/a>."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Můžete stahovat a ukládat živé streamované video ve formátu HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Zrušeno"
+   },
+   "message_completed": {
+      "message": "Dokončeno"
+   },
+   "message_error_network": {
+      "message": "Chyba sítě"
+   },
+   "message_failed": {
+      "message": "Stahování selhalo"
+   },
+   "message_fatal": {
+      "message": "Došlo k závažné chybě. Bohužel stahování nelze obnovit. Prosím, zkuste to znovu."
+   },
+   "message_resume": {
+      "message": "Stahování obnoveno"
+   },
+   "quality": {
+      "message": "Kvalita"
+   },
+   "quality_custom": {
+      "message": "Vlastní"
+   },
+   "quality_high": {
+      "message": "Vysoká"
+   },
+   "quality_low": {
+      "message": "Nízká"
+   },
+   "refer_troubleshoot": {
+      "message": "Podrobnosti naleznete v \u003Ca href=\"#troubleshoot\">řešení problémů\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Titulky"
+   },
+   "title_completed": {
+      "message": "Dokončeno"
+   },
+   "title_loading": {
+      "message": "Načítání"
+   },
+   "title_recording": {
+      "message": "Nahrávání"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Kapitola streamu se změnila, ale nahrávání pokračuje."
+   },
+   "warn_chunksize_excess": {
+      "message": "Počet fragmentů ve streamu je přes NUM_CHUNKS. Prosím, okamžitě si video uložte a zkuste nahrávání znovu, protože další zpracování nemusí být možné."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Část streamu chybí, ale nahrávání pokračuje."
+   },
+   "webm_detected": {
+      "message": "WebM momentálně není podporován."
+   }
+}

@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_title": "Open BTRoblox Settings"
+   },
+   "author": "AntiBoomz",
+   "background": {
+      "service_worker": "js/_chrome/serviceWorker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "*://*/userads/*", "*://*/user-sponsorship/*", "*://*/build/upload", "*://*/*/userads/*", "*://*/*/user-sponsorship/*", "*://*/*/build/upload" ],
+      "js": [ "js/rbx/Constants.js", "js/shared/common.js", "js/shared/utility.js", "js/shared/messaging.js", "js/shared/sharedData.js", "js/shared/settings.js", "js/shared/contextmenu.js", "js/shared/serverdetails.js", "js/util/injectJS.js", "js/util/injectCSS.js", "js/util/reactHook.js", "js/util/angularHook.js", "js/util/loadOptionalLibrary.js", "js/feat/themes.js", "js/feat/adblock.js", "js/feat/fastSearch.js", "js/feat/navigation.js", "js/feat/robuxToCash.js", "js/feat/settingsModal.js", "js/rbx/AssetCache.js", "js/rbx/RobloxApi.js", "js/pages/common.js", "js/pages/avatar.js", "js/pages/catalog.js", "js/pages/develop.js", "js/pages/friends.js", "js/pages/gamedetails.js", "js/pages/groups.js", "js/pages/groupadmin.js", "js/pages/home.js", "js/pages/inventory.js", "js/pages/itemdetails.js", "js/pages/messages.js", "js/pages/money.js", "js/pages/profile.js", "js/pages/create.js", "js/pages/marketplace.js", "js/inject.js", "js/main.js" ],
+      "matches": [ "*://www.roblox.com/*", "*://web.roblox.com/*", "*://create.roblox.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Enhance your Roblox experience!",
+   "host_permissions": [ "*://*.roblox.com/", "*://*.rbxcdn.com/" ],
+   "icons": {
+      "128": "res/icon_128.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgbqdwFaCLV0OsqtvKp2eM40BAGYViNsCIu7ZEaGBpbNTsT/V/TpZCiWRbduuI6RL+KTevWuSPPKh7C9KZ6wJpWsmUFX4fHddFMl4R8mGPjoQMKPKMw2oJBBbPnxZ+czVB2nsE844/2oDy3JvCRAbmLMLkR6eOjoaiGr3YPZanu7nhMowptkx3Bmqtl4iEyXNh3REsbJglHp4TWdeknrCJxtzCbAi/E2Yurv/I8HsQJUet/Lhjd7SSS8QJzS9NEWLxbEB9qwd7kKZXy7o+3/OHSWFnSHcmf8QQgURoKtdtTkoosSu0+xsCNFhbg8pqk7HjiJaaGCVE9+ETHpzKSQmpQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "96",
+   "name": "BTRoblox - Making Roblox Better",
+   "permissions": [ "declarativeNetRequestWithHostAccess", "notifications", "contextMenus", "scripting", "storage", "alarms" ],
+   "short_name": "BTRoblox",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.6.11",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.roblox.com/*" ],
+      "resources": [ "/res/*", "/css/*" ]
+   } ]
+}

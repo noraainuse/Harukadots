@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Tema Animasi"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Tema animasi hanya tersedia untuk pelanggan."
+   },
+   "Background": {
+      "message": "Latar belakang"
+   },
+   "ChangeProfileTheme": {
+      "message": "Tukar Tema Profil"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Pilih latar belakang di bawah."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Klik item untuk melengkapkannya."
+   },
+   "CloseOffer": {
+      "message": "Tutup Tawaran"
+   },
+   "CloseProfileThemes": {
+      "message": "Tutup Tema Profil"
+   },
+   "Comments": {
+      "message": "Komen"
+   },
+   "CreateOffer": {
+      "message": "Buat Tawaran"
+   },
+   "CurrentlyWearing": {
+      "message": "Sedang Memakai"
+   },
+   "CustomThemes": {
+      "message": "Tema Tersuai"
+   },
+   "FastestServers": {
+      "message": "Pelayan Terpantas"
+   },
+   "MaxPlayers": {
+      "message": "Pemain Max"
+   },
+   "MoreFilters": {
+      "message": "Lebih banyak Penapis"
+   },
+   "MyOutfits": {
+      "message": "Pakaian Saya"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Namakan dan simpan pakaian anda."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Belum ada komen ... Jadilah orang pertama yang menulis komen!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Tiada tawaran perdagangan untuk item ini ... Jadilah orang pertama yang mengepos item ini!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Pengguna RoPro lain akan melihat tema anda ketika mereka melayari profil anda."
+   },
+   "OutfitCost": {
+      "message": "Kos Pakaian:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Tolong beri kami ulasan"
+   },
+   "PostComment": {
+      "message": "pos komen"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Tekan kekunci enter untuk menghantar nama pakaian."
+   },
+   "RandomGame": {
+      "message": "Permainan Rawak"
+   },
+   "RemoveTheme": {
+      "message": "Buang Tema"
+   },
+   "Reputation": {
+      "message": "Reputasi"
+   },
+   "Review": {
+      "message": "Kaji semula"
+   },
+   "RoProProfileThemes": {
+      "message": "Tema Profil RoPro"
+   },
+   "SaveTheme": {
+      "message": "Simpan Tema"
+   },
+   "SeeMore": {
+      "message": "Lihat lagi"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Pakaian berjaya dibuat."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Untuk menghantar tema khusus untuk kelulusan, sertai pelayan perselisihan RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Tawaran Perdagangan"
+   },
+   "Upgrade": {
+      "message": "Naik taraf"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Naik taraf untuk menyelamatkan pakaian anda!"
+   },
+   "WriteAComment": {
+      "message": "Tulis komen!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Ciri Keselamatan Akaun"
+   },
+   "activateSubscription": {
+      "message": "Aktifkan Langganan"
+   },
+   "dealsNotifier": {
+      "message": "Pemberitahu Tawaran"
+   },
+   "description": {
+      "message": "Alat yang sempurna untuk pemain & peniaga. RoPro menambah puluhan ciri berguna untuk Roblox."
+   },
+   "disclaimer1": {
+      "message": "RoPro tidak berafiliasi dengan Roblox.com atau Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Dibuat oleh Dice.Hubungi saya: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Ciri-ciri umum"
+   },
+   "groupFeatures": {
+      "message": "Ciri Kumpulan"
+   },
+   "help": {
+      "message": "Tolonglah"
+   },
+   "manageSubscription": {
+      "message": "Urus Langganan"
+   },
+   "name": {
+      "message": "RoPro - Tingkatkan Pengalaman Roblox Anda"
+   },
+   "privacyPolicy": {
+      "message": "Dasar Privasi"
+   },
+   "settings": {
+      "message": "Tetapan"
+   },
+   "subscription": {
+      "message": "Langganan"
+   },
+   "support": {
+      "message": "Sokongan"
+   },
+   "termsOfService": {
+      "message": "Syarat Perkhidmatan"
+   },
+   "tradingFeatures": {
+      "message": "Ciri Perdagangan"
+   }
+}

@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animasyonlu Temalar"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animasyonlu temalar yalnızca aboneler tarafından kullanılabilir."
+   },
+   "Background": {
+      "message": "Arka fon"
+   },
+   "ChangeProfileTheme": {
+      "message": "Profil Temasını Değiştir"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Aşağıdan bir arka plan seçin."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Çıkarmak için bir öğeye tıklayın."
+   },
+   "CloseOffer": {
+      "message": "Teklifleri Kapat"
+   },
+   "CloseProfileThemes": {
+      "message": "Profil Temalarını Kapat"
+   },
+   "Comments": {
+      "message": "Yorumlar"
+   },
+   "CreateOffer": {
+      "message": "Teklif Oluşturun"
+   },
+   "CurrentlyWearing": {
+      "message": "Şu anda Giyiyor"
+   },
+   "CustomThemes": {
+      "message": "Özel Temalar"
+   },
+   "FastestServers": {
+      "message": "En Hızlı Sunucular"
+   },
+   "MaxPlayers": {
+      "message": "Maksimum oyuncu"
+   },
+   "MoreFilters": {
+      "message": "Daha Fazla Filtre"
+   },
+   "MyOutfits": {
+      "message": "Kıyafetlerim"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Kıyafetinizi adlandırın ve kaydedin."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Henüz hiç yorum yok, ilk yazan sen ol!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Bu öğe için takas teklifi yok ... İlk gönderen siz olun!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Diğer RoPro kullanıcıları, profilinizi ziyaret ettiklerinde temanızı görecek."
+   },
+   "OutfitCost": {
+      "message": "Kıyafet Maliyeti:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Lütfen bize bir yorum bırakmayı düşünün!"
+   },
+   "PostComment": {
+      "message": "Yorum Gönder"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Kıyafet adını göndermek için enter tuşuna basın."
+   },
+   "RandomGame": {
+      "message": "Rastgele Oyun"
+   },
+   "RemoveTheme": {
+      "message": "Temayı Kaldır"
+   },
+   "Reputation": {
+      "message": "İtibar"
+   },
+   "Review": {
+      "message": "gözden geçirmek"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro Profil Temaları"
+   },
+   "SaveTheme": {
+      "message": "Temayı Kaydet"
+   },
+   "SeeMore": {
+      "message": "Daha fazla gör"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Başarıyla kıyafet oluşturuldu."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Onay için özel bir tema göndermek için RoPro discord sunucusuna katılın:"
+   },
+   "TradeOffers": {
+      "message": "Ticaret Teklifleri"
+   },
+   "Upgrade": {
+      "message": "Yükselt"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Kıyafetlerinizi kurtarmak için yükseltin!"
+   },
+   "WriteAComment": {
+      "message": "Bir yorum Yaz!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Hesap Güvenliği Özellikleri"
+   },
+   "activateSubscription": {
+      "message": "Aboneliği Etkinleştir"
+   },
+   "dealsNotifier": {
+      "message": "Fırsat Bildirici"
+   },
+   "description": {
+      "message": "Oyuncular ve tüccarlar için mükemmel bir araç.RoPro, Roblox'a düzinelerce kullanışlı özellik ekler."
+   },
+   "disclaimer1": {
+      "message": "RoPro, Roblox.com veya Rolimons.com ile bağlantılı değildir"
+   },
+   "disclaimer2": {
+      "message": "Dice tarafından yapılmıştır.Bana ulaşın: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Genel Özellikler"
+   },
+   "groupFeatures": {
+      "message": "Grup Özellikleri"
+   },
+   "help": {
+      "message": "Yardım Edin"
+   },
+   "manageSubscription": {
+      "message": "Aboneliği Yönet"
+   },
+   "name": {
+      "message": "RoPro - Roblox Deneyiminizi Geliştirin"
+   },
+   "privacyPolicy": {
+      "message": "Gizlilik Politikası"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "subscription": {
+      "message": "Abonelik"
+   },
+   "support": {
+      "message": "Destek"
+   },
+   "termsOfService": {
+      "message": "Kullanım Şartları"
+   },
+   "tradingFeatures": {
+      "message": "Ticaret Özellikleri"
+   }
+}

@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Temi animati"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "I temi animati sono disponibili solo per gli abbonati."
+   },
+   "Background": {
+      "message": "sfondo"
+   },
+   "ChangeProfileTheme": {
+      "message": "Cambia tema del profilo"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Scegli uno sfondo di seguito."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Fare clic su un elemento per rimuoverlo."
+   },
+   "CloseOffer": {
+      "message": "Chiudi offerte"
+   },
+   "CloseProfileThemes": {
+      "message": "Chiudi temi profilo"
+   },
+   "Comments": {
+      "message": "Commenti"
+   },
+   "CreateOffer": {
+      "message": "Crea offerta"
+   },
+   "CurrentlyWearing": {
+      "message": "Attualmente indossa"
+   },
+   "CustomThemes": {
+      "message": "Temi personalizzati"
+   },
+   "FastestServers": {
+      "message": "Server più veloci"
+   },
+   "MaxPlayers": {
+      "message": "Giocatori massimi"
+   },
+   "MoreFilters": {
+      "message": "Più filtri"
+   },
+   "MyOutfits": {
+      "message": "I miei abiti"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Assegna un nome e salva il tuo vestito."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Ancora nessun commento ... Sii il primo a scriverne uno!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Nessuna offerta di scambio per questo articolo ... Sii il primo a pubblicarne una!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Gli altri utenti RoPro vedranno il tuo tema quando visiteranno il tuo profilo."
+   },
+   "OutfitCost": {
+      "message": "Costo dell'outfit:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Considera l'idea di lasciarci una recensione!"
+   },
+   "PostComment": {
+      "message": "Posta un commento"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Premere il tasto Invio per inviare il nome dell'outfit."
+   },
+   "RandomGame": {
+      "message": "Gioco casuale"
+   },
+   "RemoveTheme": {
+      "message": "Rimuovi tema"
+   },
+   "Reputation": {
+      "message": "Reputazione"
+   },
+   "Review": {
+      "message": "Revisione"
+   },
+   "RoProProfileThemes": {
+      "message": "Temi del profilo RoPro"
+   },
+   "SaveTheme": {
+      "message": "Salva tema"
+   },
+   "SeeMore": {
+      "message": "Vedi altro"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Vestito creato con successo."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Per inviare un tema personalizzato per l'approvazione, unisciti al server discord di RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Offerte commerciali"
+   },
+   "Upgrade": {
+      "message": "upgrade"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Esegui l'upgrade per salvare i tuoi abiti!"
+   },
+   "WriteAComment": {
+      "message": "Scrivi un commento!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Funzionalità di sicurezza dell'account"
+   },
+   "activateSubscription": {
+      "message": "Attiva l'abbonamento"
+   },
+   "dealsNotifier": {
+      "message": "Notificatore di offerte"
+   },
+   "description": {
+      "message": "Lo strumento perfetto per giocatori e commercianti. RoPro aggiunge dozzine di funzioni utili a Roblox."
+   },
+   "disclaimer1": {
+      "message": "RoPro non è affiliato con Roblox.com o Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Realizzato da Dice.Contattami: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Caratteristiche generali"
+   },
+   "groupFeatures": {
+      "message": "Caratteristiche di gruppo"
+   },
+   "help": {
+      "message": "Aiuto"
+   },
+   "manageSubscription": {
+      "message": "Gestisci abbonamento"
+   },
+   "name": {
+      "message": "RoPro - Migliora la tua esperienza Roblox"
+   },
+   "privacyPolicy": {
+      "message": "politica sulla riservatezza"
+   },
+   "settings": {
+      "message": "Impostazioni"
+   },
+   "subscription": {
+      "message": "Sottoscrizione"
+   },
+   "support": {
+      "message": "Supporto"
+   },
+   "termsOfService": {
+      "message": "Termini di servizio"
+   },
+   "tradingFeatures": {
+      "message": "Caratteristiche di trading"
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Catturando... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream trovato\n[ Clicca per scaricare ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Probabilmente scaricabile\n[ Clicca per provare ]"
+   },
+   "action_button_loader": {
+      "message": "Caricamento..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Clicca per provare a catturare il video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Vuoi passare alla modalità di cattura video?"
+   },
+   "capture_reason_2": {
+      "message": "Indice video non trovato.\u003Cbr>Vuoi passare alla modalità di cattura video?"
+   },
+   "capture_reason_3": {
+      "message": "Vuoi utilizzare la modalità di cattura come in precedenza?"
+   },
+   "disableAdblockMessage": {
+      "message": "Gli errori di download possono essere causati anche da un ad-blocker!\u003Cbr>Per favore, potresti disabilitare il tuo ad-blocker per supportarci nello sviluppo ulteriore del nostro servizio?"
+   },
+   "drm_detected": {
+      "message": "Il video potrebbe essere protetto da tecnologie DRM (Digital Rights Management)."
+   },
+   "error_403": {
+      "message": "Accesso negato."
+   },
+   "error_404": {
+      "message": "File non trovato."
+   },
+   "error_408": {
+      "message": "Timeout."
+   },
+   "error_fetch": {
+      "message": "Errore nel recupero del file."
+   },
+   "error_label": {
+      "message": "Errore."
+   },
+   "error_no_audio": {
+      "message": "Nessun audio."
+   },
+   "error_no_downloadable": {
+      "message": "Nel file di indice non è stato trovato alcun video scaricabile."
+   },
+   "error_no_index": {
+      "message": "Si è verificato un errore durante il recupero del file di indice."
+   },
+   "error_no_video": {
+      "message": "Nessun video."
+   },
+   "error_quality_select": {
+      "message": "Si è verificato un errore durante la verifica della qualità del video."
+   },
+   "error_try_capture": {
+      "message": "Prova la \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Modalità di Cattura\u003C/a> se necessario."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Puoi scaricare e salvare video in streaming dal vivo nel formato HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Annullato"
+   },
+   "message_completed": {
+      "message": "Completato"
+   },
+   "message_error_network": {
+      "message": "Errore di rete"
+   },
+   "message_failed": {
+      "message": "Download fallito"
+   },
+   "message_fatal": {
+      "message": "Errore fatale. Purtroppo il download non può essere ripreso. Si prega di riprovare."
+   },
+   "message_resume": {
+      "message": "Download ripreso"
+   },
+   "quality": {
+      "message": "Qualità"
+   },
+   "quality_custom": {
+      "message": "Personalizzata"
+   },
+   "quality_high": {
+      "message": "Alta"
+   },
+   "quality_low": {
+      "message": "Bassa"
+   },
+   "refer_troubleshoot": {
+      "message": "Si prega di fare riferimento a \u003Ca href=\"#troubleshoot\">Risoluzione dei problemi\u003C/a> per i dettagli."
+   },
+   "subtitle": {
+      "message": "Sottotitolo"
+   },
+   "title_completed": {
+      "message": "Completato"
+   },
+   "title_loading": {
+      "message": "Caricamento"
+   },
+   "title_recording": {
+      "message": "Registrazione"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Il capitolo dello stream è cambiato, ma la registrazione continua."
+   },
+   "warn_chunksize_excess": {
+      "message": "Il numero di frammenti nello stream supera NUM_CHUNKS. Si prega di salvare immediatamente questo video e provare nuovamente la registrazione, poiché potrebbe non essere possibile elaborarlo ulteriormente."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Parte dello stream manca, ma la registrazione continua."
+   },
+   "webm_detected": {
+      "message": "Il formato WebM attualmente non è supportato."
+   }
+}

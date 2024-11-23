@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Zajemanje... ]"
+   },
+   "action_button_enable": {
+      "message": "Tok najden\n[ Kliknite za prenos ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Verjetno prenosljivo\n[ Kliknite za poskus ]"
+   },
+   "action_button_loader": {
+      "message": "Nalaganje..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Kliknite za poskus zajemanja videa ]"
+   },
+   "audio": {
+      "message": "Zvok"
+   },
+   "capture_reason_1": {
+      "message": "Želite preklopiti na način zajemanja videa?"
+   },
+   "capture_reason_2": {
+      "message": "Ni najdenega video indeksa.\u003Cbr>Želite preklopiti na način zajemanja videa?"
+   },
+   "capture_reason_3": {
+      "message": "Želite uporabiti način zajemanja kot prej?"
+   },
+   "disableAdblockMessage": {
+      "message": "Napake pri prenosu lahko povzroči tudi blokiranje oglasov!\u003Cbr>Bi lahko prosim onemogočili vaš ad-blocker, da nas podprete pri nadaljnjem razvoju naše storitve?"
+   },
+   "drm_detected": {
+      "message": "Video je morda zaščiten z DRM (Digital Rights Management) tehnologijami."
+   },
+   "error_403": {
+      "message": "Dostop zavrnjen."
+   },
+   "error_404": {
+      "message": "Datoteka ni najdena."
+   },
+   "error_408": {
+      "message": "Časovna omejitev."
+   },
+   "error_fetch": {
+      "message": "Napaka pri pridobivanju datoteke."
+   },
+   "error_label": {
+      "message": "Napaka."
+   },
+   "error_no_audio": {
+      "message": "Ni zvoka."
+   },
+   "error_no_downloadable": {
+      "message": "V indeksni datoteki ni najdenega prenosljivega videa."
+   },
+   "error_no_index": {
+      "message": "Pri pridobivanju indeksne datoteke je prišlo do napake."
+   },
+   "error_no_video": {
+      "message": "Ni videa."
+   },
+   "error_quality_select": {
+      "message": "Pri preverjanju kakovosti videa je prišlo do napake."
+   },
+   "error_try_capture": {
+      "message": "Če je potrebno, poskusite \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Način zajemanja\u003C/a>."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Lahko prenesete in shranite video v živo v formatu HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Preklicano"
+   },
+   "message_completed": {
+      "message": "Dokončano"
+   },
+   "message_error_network": {
+      "message": "Napaka omrežja"
+   },
+   "message_failed": {
+      "message": "Prenos ni uspel"
+   },
+   "message_fatal": {
+      "message": "Kritična napaka. Na žalost prenosa ni mogoče nadaljevati. Poskusite znova."
+   },
+   "message_resume": {
+      "message": "Nadaljevanje prenosa"
+   },
+   "quality": {
+      "message": "Kakovost"
+   },
+   "quality_custom": {
+      "message": "Po meri"
+   },
+   "quality_high": {
+      "message": "Visoka"
+   },
+   "quality_low": {
+      "message": "Nizka"
+   },
+   "refer_troubleshoot": {
+      "message": "Za več informacij si oglejte \u003Ca href=\"#troubleshoot\">Odpravljanje težav\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Podnapisi"
+   },
+   "title_completed": {
+      "message": "Dokončano"
+   },
+   "title_loading": {
+      "message": "Nalaganje"
+   },
+   "title_recording": {
+      "message": "Snemanje"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Poglavje toka se je spremenilo, vendar snemanje nadaljuje."
+   },
+   "warn_chunksize_excess": {
+      "message": "Število fragmentov v toku presega NUM_CHUNKS. Prosimo, takoj shranite ta video in poskusite znova snemati, saj morda ne bo mogoče nadalje obdelati."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Del toka manjka, vendar snemanje nadaljuje."
+   },
+   "webm_detected": {
+      "message": "WebM trenutno ni podprt."
+   }
+}

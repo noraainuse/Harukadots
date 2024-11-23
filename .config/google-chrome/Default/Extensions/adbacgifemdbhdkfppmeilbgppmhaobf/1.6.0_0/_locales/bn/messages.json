@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "অ্যানিমেটেড থিমস"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "অ্যানিমেটেড থিমগুলি কেবল গ্রাহকদের জন্য উপলব্ধ।"
+   },
+   "Background": {
+      "message": "পটভূমি"
+   },
+   "ChangeProfileTheme": {
+      "message": "প্রোফাইল থিম পরিবর্তন করুন"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "নীচে একটি পটভূমি চয়ন করুন।"
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "একটি আইটেম এটি সন্ধান করতে ক্লিক করুন।"
+   },
+   "CloseOffer": {
+      "message": "অফার বন্ধ করুন"
+   },
+   "CloseProfileThemes": {
+      "message": "প্রোফাইল থিম বন্ধ করুন"
+   },
+   "Comments": {
+      "message": "মন্তব্য"
+   },
+   "CreateOffer": {
+      "message": "অফার তৈরি করুন"
+   },
+   "CurrentlyWearing": {
+      "message": "বর্তমানে পরা"
+   },
+   "CustomThemes": {
+      "message": "কাস্টম থিমস"
+   },
+   "FastestServers": {
+      "message": "দ্রুততম সার্ভারগুলি"
+   },
+   "MaxPlayers": {
+      "message": "সর্বোচ্চ খেলোয়াড়"
+   },
+   "MoreFilters": {
+      "message": "আরও ফিল্টার"
+   },
+   "MyOutfits": {
+      "message": "আমার পোষাক"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "আপনার পোশাকটি নাম দিন এবং সংরক্ষণ করুন।"
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "কোন মন্তব্য নেই এখনও, এক ক্লিক করুন!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "এই আইটেমটির জন্য কোনও বাণিজ্যের অফার নেই ... পোস্ট দেওয়ার ক্ষেত্রে প্রথম হন!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "অন্যান্য RoPro ব্যবহারকারীরা যখন আপনার প্রোফাইলে যান তখন তারা আপনার থিমটি দেখতে পাবে।"
+   },
+   "OutfitCost": {
+      "message": "পোশাক খরচ:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "আমাদের একটি পর্যালোচনা রেখে বিবেচনা করুন!"
+   },
+   "PostComment": {
+      "message": "মন্তব্য প্রকাশ করুন"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "পোশাকে নাম জমা দেওয়ার জন্য enter কী টিপুন।"
+   },
+   "RandomGame": {
+      "message": "র্যান্ডম গেম"
+   },
+   "RemoveTheme": {
+      "message": "থিম সরান"
+   },
+   "Reputation": {
+      "message": "খ্যাতি"
+   },
+   "Review": {
+      "message": "পুনঃমূল্যায়ন"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro প্রোফাইল থিমস"
+   },
+   "SaveTheme": {
+      "message": "থিম সংরক্ষণ করুন"
+   },
+   "SeeMore": {
+      "message": "আরো দেখুন"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "সাফল্যের সাথে সাজসরঞ্জাম তৈরি করা হয়েছে।"
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "অনুমোদনের জন্য একটি কাস্টম থিম জমা দিতে, RoPro ডিসকর্ড সার্ভারে যোগ দিন:"
+   },
+   "TradeOffers": {
+      "message": "বাণিজ্য অফার"
+   },
+   "Upgrade": {
+      "message": "আপগ্রেড"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "আপনার পোশাক সংরক্ষণ করতে আপগ্রেড করুন!"
+   },
+   "WriteAComment": {
+      "message": "একটি মন্তব্য লিখুন!"
+   },
+   "accountSecurityFeatures": {
+      "message": "অ্যাকাউন্ট সুরক্ষা বৈশিষ্ট্য"
+   },
+   "activateSubscription": {
+      "message": "সাবস্ক্রিপশন সক্রিয় করুন"
+   },
+   "dealsNotifier": {
+      "message": "ডিলস নোটিফায়ার"
+   },
+   "description": {
+      "message": "খেলোয়াড় এবং ব্যবসায়ীদের জন্য নিখুঁত সরঞ্জাম।RoPro রবলক্সে কয়েক ডজন দরকারী বৈশিষ্ট্য যুক্ত করেছে।"
+   },
+   "disclaimer1": {
+      "message": "RoPro রবলক্স.কম বা রোলিমনস ডট কমের সাথে অনুমোদিত নয়"
+   },
+   "disclaimer2": {
+      "message": "পাশা দ্বারা তৈরি।আমার সাথে যোগাযোগ করুন: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "সাধারণ বৈশিষ্ট্য"
+   },
+   "groupFeatures": {
+      "message": "গ্রুপ বৈশিষ্ট্য"
+   },
+   "help": {
+      "message": "সহায়তা"
+   },
+   "manageSubscription": {
+      "message": "সাবস্ক্রিপশন পরিচালনা করুন"
+   },
+   "name": {
+      "message": "RoPro - আপনার রবলক্স অভিজ্ঞতা বাড়ান"
+   },
+   "privacyPolicy": {
+      "message": "গোপনীয়তা নীতি"
+   },
+   "settings": {
+      "message": "সেটিংস"
+   },
+   "subscription": {
+      "message": "সাবস্ক্রিপশন"
+   },
+   "support": {
+      "message": "সমর্থন"
+   },
+   "termsOfService": {
+      "message": "সেবা পাবার শর্ত"
+   },
+   "tradingFeatures": {
+      "message": "ট্রেডিং বৈশিষ্ট্য"
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Menangkap... ]"
+   },
+   "action_button_enable": {
+      "message": "Stream ditemukan\n[ Klik untuk mengunduh ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Kemungkinan dapat diunduh\n[ Klik untuk mencoba ]"
+   },
+   "action_button_loader": {
+      "message": "Memuat..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Klik untuk mencoba menangkap video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Apakah Anda ingin beralih ke mode penangkapan video?"
+   },
+   "capture_reason_2": {
+      "message": "Tidak ada indeks video ditemukan.\u003Cbr>Apakah Anda ingin beralih ke mode penangkapan video?"
+   },
+   "capture_reason_3": {
+      "message": "Apakah Anda ingin menggunakan mode penangkapan seperti sebelumnya?"
+   },
+   "disableAdblockMessage": {
+      "message": "Kesalahan download juga bisa disebabkan oleh ad-blocker!\u003Cbr>Apakah Anda bisa menonaktifkan ad-blocker Anda untuk mendukung kami dalam mengembangkan layanan kami lebih lanjut?"
+   },
+   "drm_detected": {
+      "message": "Video mungkin dilindungi oleh teknologi DRM (Digital Rights Management)."
+   },
+   "error_403": {
+      "message": "Akses ditolak."
+   },
+   "error_404": {
+      "message": "File tidak ditemukan."
+   },
+   "error_408": {
+      "message": "Waktu habis."
+   },
+   "error_fetch": {
+      "message": "Gagal mengambil file."
+   },
+   "error_label": {
+      "message": "Kesalahan."
+   },
+   "error_no_audio": {
+      "message": "Tidak ada audio."
+   },
+   "error_no_downloadable": {
+      "message": "Video yang dapat diunduh tidak ditemukan dalam file indeks."
+   },
+   "error_no_index": {
+      "message": "Terjadi kesalahan saat mengambil file indeks."
+   },
+   "error_no_video": {
+      "message": "Tidak ada video."
+   },
+   "error_quality_select": {
+      "message": "Terjadi kesalahan saat memeriksa kualitas video."
+   },
+   "error_try_capture": {
+      "message": "Coba \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Mode Tangkap\u003C/a> jika perlu."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Anda dapat mengunduh dan menyimpan video streaming langsung dalam format HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Dibatalkan"
+   },
+   "message_completed": {
+      "message": "Selesai"
+   },
+   "message_error_network": {
+      "message": "Kesalahan jaringan"
+   },
+   "message_failed": {
+      "message": "Download gagal"
+   },
+   "message_fatal": {
+      "message": "Kesalahan fatal. Sayangnya download tidak dapat dilanjutkan. Silakan coba lagi."
+   },
+   "message_resume": {
+      "message": "Download dilanjutkan"
+   },
+   "quality": {
+      "message": "Kualitas"
+   },
+   "quality_custom": {
+      "message": "Kustom"
+   },
+   "quality_high": {
+      "message": "Tinggi"
+   },
+   "quality_low": {
+      "message": "Rendah"
+   },
+   "refer_troubleshoot": {
+      "message": "Silakan merujuk ke \u003Ca href=\"#troubleshoot\">Pemecahan Masalah\u003C/a> secara detail."
+   },
+   "subtitle": {
+      "message": "Subjudul"
+   },
+   "title_completed": {
+      "message": "Selesai"
+   },
+   "title_loading": {
+      "message": "Memuat"
+   },
+   "title_recording": {
+      "message": "Merekam"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Bab dari stream telah berubah, tetapi perekaman terus berlanjut."
+   },
+   "warn_chunksize_excess": {
+      "message": "Jumlah fragmen dalam stream lebih dari NUM_CHUNKS. Silakan segera simpan video ini dan coba rekam lagi, karena mungkin tidak dapat diproses lebih lanjut."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Sebagian dari stream hilang, tetapi perekaman terus berlanjut."
+   },
+   "webm_detected": {
+      "message": "Format WebM saat ini tidak didukung."
+   }
+}

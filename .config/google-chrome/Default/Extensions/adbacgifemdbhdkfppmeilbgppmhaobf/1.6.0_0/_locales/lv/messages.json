@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animētas tēmas"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animētas tēmas ir pieejamas tikai abonentiem."
+   },
+   "Background": {
+      "message": "Priekšvēsture"
+   },
+   "ChangeProfileTheme": {
+      "message": "Mainīt profila tēmu"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Zemāk izvēlieties fonu."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Noklikšķiniet uz vienuma, lai to aprīkotu."
+   },
+   "CloseOffer": {
+      "message": "Aizvērt piedāvājumus"
+   },
+   "CloseProfileThemes": {
+      "message": "Aizvērt profila motīvus"
+   },
+   "Comments": {
+      "message": "Komentāri"
+   },
+   "CreateOffer": {
+      "message": "Izveidot piedāvājumu"
+   },
+   "CurrentlyWearing": {
+      "message": "Pašlaik valkā"
+   },
+   "CustomThemes": {
+      "message": "Pielāgotas tēmas"
+   },
+   "FastestServers": {
+      "message": "Ātrākie serveri"
+   },
+   "MaxPlayers": {
+      "message": "Maksimālais spēlētāju skaits"
+   },
+   "MoreFilters": {
+      "message": "Vairāk filtru"
+   },
+   "MyOutfits": {
+      "message": "Mani tērpi"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Nosauciet un saglabājiet savu apģērbu."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Pagaidām nav komentāru ... Esi pirmais, kurš to uzraksta!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Šai precei nav tirdzniecības piedāvājumu ... Esiet pirmais, kurš to ievietojis!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Citi RoPro lietotāji redzēs jūsu motīvu, apmeklējot jūsu profilu."
+   },
+   "OutfitCost": {
+      "message": "Apģērba izmaksas:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Lūdzu, apsveriet iespēju atstāt mums atsauksmi!"
+   },
+   "PostComment": {
+      "message": "publicēt komentāru"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Nospiediet ievadīšanas taustiņu, lai iesniegtu apģērba nosaukumu."
+   },
+   "RandomGame": {
+      "message": "Izlases spēle"
+   },
+   "RemoveTheme": {
+      "message": "Noņemt motīvu"
+   },
+   "Reputation": {
+      "message": "Reputācija"
+   },
+   "Review": {
+      "message": "Pārskatīšana"
+   },
+   "RoProProfileThemes": {
+      "message": "RoPro profilu tēmas"
+   },
+   "SaveTheme": {
+      "message": "Saglabāt motīvu"
+   },
+   "SeeMore": {
+      "message": "Redzēt vairāk"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Veiksmīgi izveidots apģērbs."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Lai iesniegtu apstiprināšanai pielāgotu motīvu, pievienojieties RoPro nesaskaņu serverim:"
+   },
+   "TradeOffers": {
+      "message": "Tirdzniecības piedāvājumi"
+   },
+   "Upgrade": {
+      "message": "Jaunināt"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Jauniniet, lai saglabātu savus tērpus!"
+   },
+   "WriteAComment": {
+      "message": "Uzraksti komentāru!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Konta drošības funkcijas"
+   },
+   "activateSubscription": {
+      "message": "Aktivizēt abonementu"
+   },
+   "dealsNotifier": {
+      "message": "Darījumu paziņotājs"
+   },
+   "description": {
+      "message": "Ideāls rīks spēlētājiem un tirgotājiem.RoPro pievieno Roblox desmitiem noderīgu funkciju."
+   },
+   "disclaimer1": {
+      "message": "RoPro nav saistīts ar Roblox.com vai Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Izgatavoja Dice.Sazinieties ar mani: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Vispārīgas iezīmes"
+   },
+   "groupFeatures": {
+      "message": "Grupas funkcijas"
+   },
+   "help": {
+      "message": "Palīdzība"
+   },
+   "manageSubscription": {
+      "message": "Pārvaldīt abonementu"
+   },
+   "name": {
+      "message": "RoPro - uzlabojiet savu Roblox pieredzi"
+   },
+   "privacyPolicy": {
+      "message": "Privātuma politika"
+   },
+   "settings": {
+      "message": "Iestatījumi"
+   },
+   "subscription": {
+      "message": "Abonēšana"
+   },
+   "support": {
+      "message": "Atbalsts"
+   },
+   "termsOfService": {
+      "message": "Pakalpojuma noteikumi"
+   },
+   "tradingFeatures": {
+      "message": "Tirdzniecības funkcijas"
+   }
+}

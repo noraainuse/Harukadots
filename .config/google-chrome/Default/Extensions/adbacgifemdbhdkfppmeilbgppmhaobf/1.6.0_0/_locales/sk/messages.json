@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animované témy"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animované témy sú k dispozícii iba pre predplatiteľov."
+   },
+   "Background": {
+      "message": "Pozadie"
+   },
+   "ChangeProfileTheme": {
+      "message": "Zmeniť tému profilu"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Zvoľte pozadie nižšie."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Kliknutím položku rozbalíte."
+   },
+   "CloseOffer": {
+      "message": "Zatvorte ponuky"
+   },
+   "CloseProfileThemes": {
+      "message": "Zatvorte profilové témy"
+   },
+   "Comments": {
+      "message": "Pripomienky"
+   },
+   "CreateOffer": {
+      "message": "Vytvoriť ponuku"
+   },
+   "CurrentlyWearing": {
+      "message": "Momentálne na sebe"
+   },
+   "CustomThemes": {
+      "message": "Vlastné motívy"
+   },
+   "FastestServers": {
+      "message": "Najrýchlejšie servery"
+   },
+   "MaxPlayers": {
+      "message": "Maximálny počet hráčov"
+   },
+   "MoreFilters": {
+      "message": "Ďalšie filtre"
+   },
+   "MyOutfits": {
+      "message": "Moje oblečenie"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Pomenujte a uložte si outfit."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Zatiaľ žiadne komentáre ... Buďte prvý, kto napíše jeden!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Pre túto položku nie sú k dispozícii žiadne obchodné ponuky ... Jednu uverejnite ako prvú!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Ostatní používatelia RoPro uvidia vašu tému pri návšteve vášho profilu."
+   },
+   "OutfitCost": {
+      "message": "Náklady na oblečenie:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Zvážte, prosím, nechať nám recenziu!"
+   },
+   "PostComment": {
+      "message": "Uverejniť komentár"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Stlačením klávesu Enter zadajte názov oblečenia."
+   },
+   "RandomGame": {
+      "message": "Náhodná hra"
+   },
+   "RemoveTheme": {
+      "message": "Odstrániť tému"
+   },
+   "Reputation": {
+      "message": "Reputácia"
+   },
+   "Review": {
+      "message": "Preskúmanie"
+   },
+   "RoProProfileThemes": {
+      "message": "Profily profilu RoPro"
+   },
+   "SaveTheme": {
+      "message": "Uložiť tému"
+   },
+   "SeeMore": {
+      "message": "Pozrieť viac"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Úspešne vytvorený outfit."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Ak chcete odoslať vlastnú tému na schválenie, pripojte sa k serveru nesúladu RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Obchodné ponuky"
+   },
+   "Upgrade": {
+      "message": "Inovovať"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Inovujte si a uložte si oblečenie!"
+   },
+   "WriteAComment": {
+      "message": "Napísať komentár!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Funkcie zabezpečenia účtu"
+   },
+   "activateSubscription": {
+      "message": "Aktivovať predplatné"
+   },
+   "dealsNotifier": {
+      "message": "Oznámiteľ ponúk"
+   },
+   "description": {
+      "message": "Perfektný nástroj pre hráčov a obchodníkov. RoPro pridáva Roblox desiatky užitočných funkcií."
+   },
+   "disclaimer1": {
+      "message": "RoPro nie je prepojený s Roblox.com alebo Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Vyrobené kockami.Kontaktujte ma: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Všeobecné vlastnosti"
+   },
+   "groupFeatures": {
+      "message": "Skupinové funkcie"
+   },
+   "help": {
+      "message": "Pomoc"
+   },
+   "manageSubscription": {
+      "message": "Spravovať predplatné"
+   },
+   "name": {
+      "message": "RoPro - vylepšite svoj zážitok z Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Zásady ochrany osobných údajov"
+   },
+   "settings": {
+      "message": "nastavenie"
+   },
+   "subscription": {
+      "message": "Predplatné"
+   },
+   "support": {
+      "message": "podpora"
+   },
+   "termsOfService": {
+      "message": "Podmienky služby"
+   },
+   "tradingFeatures": {
+      "message": "Funkcie obchodovania"
+   }
+}

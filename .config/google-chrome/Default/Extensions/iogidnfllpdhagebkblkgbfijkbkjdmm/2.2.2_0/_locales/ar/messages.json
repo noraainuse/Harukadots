@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ جاري التقاط... ]"
+   },
+   "action_button_enable": {
+      "message": "تم العثور على البث\n[ انقر للتحميل ]"
+   },
+   "action_button_enable_weak": {
+      "message": "ربما يمكن تحميله\n[ انقر للمحاولة ]"
+   },
+   "action_button_loader": {
+      "message": "جاري التحميل..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ انقر لمحاولة التقاط الفيديو ]"
+   },
+   "audio": {
+      "message": "الصوت"
+   },
+   "capture_reason_1": {
+      "message": "هل ترغب في التحول إلى وضع التقاط الفيديو؟"
+   },
+   "capture_reason_2": {
+      "message": "لم يتم العثور على فهرس الفيديو.\u003Cbr>هل ترغب في التحول إلى وضع التقاط الفيديو؟"
+   },
+   "capture_reason_3": {
+      "message": "هل ترغب في استخدام وضع التقاط كما في المرة السابقة؟"
+   },
+   "disableAdblockMessage": {
+      "message": "يمكن أن تسبب أدوات حجب الإعلانات أخطاء في التحميل!\u003Cbr>هل يمكنك تعطيل حاجب الإعلانات لدعمنا في تطوير خدمتنا أكثر؟"
+   },
+   "drm_detected": {
+      "message": "قد يكون الفيديو محميًا بتقنيات إدارة الحقوق الرقمية (DRM)."
+   },
+   "error_403": {
+      "message": "تم رفض الوصول."
+   },
+   "error_404": {
+      "message": "لم يتم العثور على الملف."
+   },
+   "error_408": {
+      "message": "انتهى الوقت."
+   },
+   "error_fetch": {
+      "message": "فشل في جلب الملف."
+   },
+   "error_label": {
+      "message": "خطأ."
+   },
+   "error_no_audio": {
+      "message": "لا يوجد صوت."
+   },
+   "error_no_downloadable": {
+      "message": "لم يتم العثور على فيديو قابل للتحميل في ملف الفهرس."
+   },
+   "error_no_index": {
+      "message": "حدث خطأ أثناء جلب ملف الفهرس."
+   },
+   "error_no_video": {
+      "message": "لا يوجد فيديو."
+   },
+   "error_quality_select": {
+      "message": "حدث خطأ عند التحقق من جودة الفيديو."
+   },
+   "error_try_capture": {
+      "message": "جرب \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">وضع التقاط\u003C/a> إذا لزم الأمر."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "يمكنك تنزيل وحفظ الفيديو المباشر بتنسيق HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "تم الإلغاء"
+   },
+   "message_completed": {
+      "message": "اكتمل"
+   },
+   "message_error_network": {
+      "message": "خطأ في الشبكة"
+   },
+   "message_failed": {
+      "message": "فشل التحميل"
+   },
+   "message_fatal": {
+      "message": "خطأ فادح. للأسف، لا يمكن استئناف التحميل. يرجى المحاولة مرة أخرى."
+   },
+   "message_resume": {
+      "message": "تم استئناف التحميل"
+   },
+   "quality": {
+      "message": "الجودة"
+   },
+   "quality_custom": {
+      "message": "مخصص"
+   },
+   "quality_high": {
+      "message": "عالية"
+   },
+   "quality_low": {
+      "message": "منخفضة"
+   },
+   "refer_troubleshoot": {
+      "message": "يرجى الرجوع إلى \u003Ca href=\"#troubleshoot\">استكشاف الأخطاء وإصلاحها\u003C/a> بالتفصيل."
+   },
+   "subtitle": {
+      "message": "الترجمة"
+   },
+   "title_completed": {
+      "message": "اكتمل"
+   },
+   "title_loading": {
+      "message": "جاري التحميل"
+   },
+   "title_recording": {
+      "message": "جاري التسجيل"
+   },
+   "warn_chapter_has_changed": {
+      "message": "تغير الفصل من البث ولكن التسجيل يستمر."
+   },
+   "warn_chunksize_excess": {
+      "message": "عدد الأجزاء في البث تجاوز NUM_CHUNKS. يرجى حفظ هذا الفيديو فورًا ومحاولة التسجيل مرة أخرى، حيث قد لا يمكن معالجته بعد الآن."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "جزء من البث مفقود، ولكن التسجيل يستمر."
+   },
+   "webm_detected": {
+      "message": "صيغة WebM غير مدعومة حاليًا."
+   }
+}

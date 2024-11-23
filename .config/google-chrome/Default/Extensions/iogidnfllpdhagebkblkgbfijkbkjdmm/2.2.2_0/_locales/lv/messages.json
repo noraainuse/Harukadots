@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Notiek uztveršana... ]"
+   },
+   "action_button_enable": {
+      "message": "Straume atrasta\n[ Noklikšķiniet, lai lejupielādētu ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Iespējams, lejupielādējams\n[ Noklikšķiniet, lai mēģinātu ]"
+   },
+   "action_button_loader": {
+      "message": "Notiek ielāde..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Noklikšķiniet, lai mēģinātu uztvert video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Vai vēlaties pārslēgties uz video uztveršanas režīmu?"
+   },
+   "capture_reason_2": {
+      "message": "Video indekss nav atrasts.\u003Cbr>Vai vēlaties pārslēgties uz video uztveršanas režīmu?"
+   },
+   "capture_reason_3": {
+      "message": "Vai vēlaties izmantot uztveršanas režīmu kā iepriekš?"
+   },
+   "disableAdblockMessage": {
+      "message": "Lejupielādes kļūdas var izraisīt arī reklāmu bloķētājs!\u003Cbr>Lūdzu, atslēdziet savu reklāmu bloķētāju, lai atbalstītu mūsu pakalpojuma tālāku attīstību."
+   },
+   "drm_detected": {
+      "message": "Video var būt aizsargāts ar DRM (Digitālo tiesību pārvaldības) tehnoloģijām."
+   },
+   "error_403": {
+      "message": "Piekļuve liegta."
+   },
+   "error_404": {
+      "message": "Fails nav atrasts."
+   },
+   "error_408": {
+      "message": "Laika pārsniegšana."
+   },
+   "error_fetch": {
+      "message": "Neizdevās iegūt failu."
+   },
+   "error_label": {
+      "message": "Kļūda."
+   },
+   "error_no_audio": {
+      "message": "Nav audio."
+   },
+   "error_no_downloadable": {
+      "message": "Indeksa failā nav atrasts lejupielādējams video."
+   },
+   "error_no_index": {
+      "message": "Iegūstot indeksa failu, radās kļūda."
+   },
+   "error_no_video": {
+      "message": "Nav video."
+   },
+   "error_quality_select": {
+      "message": "Pārbaudot video kvalitāti, radās kļūda."
+   },
+   "error_try_capture": {
+      "message": "Ja nepieciešams, mēģiniet \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Uztveršanas režīmu\u003C/a>."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Jūs varat lejupielādēt un saglabāt tiešraides straumēšanas video HLS / m3u8 formātā."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Atcelts"
+   },
+   "message_completed": {
+      "message": "Pabeigts"
+   },
+   "message_error_network": {
+      "message": "Tīkla kļūda"
+   },
+   "message_failed": {
+      "message": "Lejupielāde neizdevās"
+   },
+   "message_fatal": {
+      "message": "Kritiska kļūda. Diemžēl lejupielādi nevar atsākt. Lūdzu, mēģiniet vēlreiz."
+   },
+   "message_resume": {
+      "message": "Lejupielāde atsākta"
+   },
+   "quality": {
+      "message": "Kvalitāte"
+   },
+   "quality_custom": {
+      "message": "Pielāgota"
+   },
+   "quality_high": {
+      "message": "Augsta"
+   },
+   "quality_low": {
+      "message": "Zema"
+   },
+   "refer_troubleshoot": {
+      "message": "Lūdzu, skatiet sīkāk \u003Ca href=\"#troubleshoot\">Problēmu novēršanu\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Subtitri"
+   },
+   "title_completed": {
+      "message": "Pabeigts"
+   },
+   "title_loading": {
+      "message": "Notiek ielāde"
+   },
+   "title_recording": {
+      "message": "Notiek ierakstīšana"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Straumes nodaļa ir mainījusies, bet ierakstīšana turpinās."
+   },
+   "warn_chunksize_excess": {
+      "message": "Straumes fragmentu skaits pārsniedz NUM_CHUNKS. Lūdzu, nekavējoties saglabājiet šo video un mēģiniet ierakstīt vēlreiz, jo iespējams, to vairs nevarēs apstrādāt."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Daļa no straumes trūkst, bet ierakstīšana turpinās."
+   },
+   "webm_detected": {
+      "message": "WebM pašlaik netiek atbalstīts."
+   }
+}

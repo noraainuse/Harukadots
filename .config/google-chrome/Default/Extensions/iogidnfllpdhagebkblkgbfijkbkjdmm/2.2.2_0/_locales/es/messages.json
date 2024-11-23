@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Capturando... ]"
+   },
+   "action_button_enable": {
+      "message": "Transmisión encontrada\n[ Haz clic para descargar ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Probablemente descargable\n[ Haz clic para intentar ]"
+   },
+   "action_button_loader": {
+      "message": "Cargando..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Haz clic para intentar capturar el video ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "¿Quieres cambiar al modo de captura de video?"
+   },
+   "capture_reason_2": {
+      "message": "No se encontró índice de video.\u003Cbr>¿Quieres cambiar al modo de captura de video?"
+   },
+   "capture_reason_3": {
+      "message": "¿Quieres usar el modo de captura como antes?"
+   },
+   "disableAdblockMessage": {
+      "message": "¡Los errores de descarga también pueden ser causados por el bloqueador de anuncios!\u003Cbr>¿Podrías desactivar tu bloqueador de anuncios para apoyarnos en el desarrollo continuo de nuestro servicio?"
+   },
+   "drm_detected": {
+      "message": "El video puede estar protegido por tecnologías DRM (Gestión de Derechos Digitales)."
+   },
+   "error_403": {
+      "message": "Acceso denegado."
+   },
+   "error_404": {
+      "message": "Archivo no encontrado."
+   },
+   "error_408": {
+      "message": "Tiempo de espera agotado."
+   },
+   "error_fetch": {
+      "message": "Error al obtener el archivo."
+   },
+   "error_label": {
+      "message": "Error."
+   },
+   "error_no_audio": {
+      "message": "Sin audio."
+   },
+   "error_no_downloadable": {
+      "message": "No se encontró un video descargable en el archivo de índice."
+   },
+   "error_no_index": {
+      "message": "Ocurrió un error al obtener el archivo de índice."
+   },
+   "error_no_video": {
+      "message": "Sin video."
+   },
+   "error_quality_select": {
+      "message": "Ocurrió un error al verificar la calidad del video."
+   },
+   "error_try_capture": {
+      "message": "Intenta el \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Modo de Captura\u003C/a> si es necesario."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Puedes descargar y guardar videos de transmisión en vivo en formato HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Cancelado"
+   },
+   "message_completed": {
+      "message": "Completado"
+   },
+   "message_error_network": {
+      "message": "Error de red"
+   },
+   "message_failed": {
+      "message": "Descarga fallida"
+   },
+   "message_fatal": {
+      "message": "Error fatal. Desafortunadamente, la descarga no puede ser reanudada. Por favor, intenta de nuevo."
+   },
+   "message_resume": {
+      "message": "Descarga reanudada"
+   },
+   "quality": {
+      "message": "Calidad"
+   },
+   "quality_custom": {
+      "message": "Personalizada"
+   },
+   "quality_high": {
+      "message": "Alta"
+   },
+   "quality_low": {
+      "message": "Baja"
+   },
+   "refer_troubleshoot": {
+      "message": "Por favor, consulta \u003Ca href=\"#troubleshoot\">Solución de problemas\u003C/a> en detalle."
+   },
+   "subtitle": {
+      "message": "Subtítulo"
+   },
+   "title_completed": {
+      "message": "Completado"
+   },
+   "title_loading": {
+      "message": "Cargando"
+   },
+   "title_recording": {
+      "message": "Grabando"
+   },
+   "warn_chapter_has_changed": {
+      "message": "El capítulo de la transmisión ha cambiado, pero la grabación continúa."
+   },
+   "warn_chunksize_excess": {
+      "message": "El número de fragmentos en la transmisión supera NUM_CHUNKS. Por favor, guarda inmediatamente este video e intenta grabar de nuevo, ya que puede que no se pueda procesar más."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Parte de la transmisión falta, pero la grabación continúa."
+   },
+   "webm_detected": {
+      "message": "WebM actualmente no es compatible."
+   }
+}

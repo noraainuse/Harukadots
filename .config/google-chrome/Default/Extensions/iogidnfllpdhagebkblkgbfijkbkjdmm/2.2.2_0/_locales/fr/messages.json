@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Capture en cours... ]"
+   },
+   "action_button_enable": {
+      "message": "Flux trouvé\n[ Cliquez pour télécharger ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Probablement téléchargeable\n[ Cliquez pour essayer ]"
+   },
+   "action_button_loader": {
+      "message": "Chargement..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Cliquez pour essayer de capturer la vidéo ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Voulez-vous passer en mode de capture vidéo ?"
+   },
+   "capture_reason_2": {
+      "message": "Aucun index vidéo trouvé.\u003Cbr>Voulez-vous passer en mode de capture vidéo ?"
+   },
+   "capture_reason_3": {
+      "message": "Voulez-vous utiliser le mode de capture comme auparavant ?"
+   },
+   "disableAdblockMessage": {
+      "message": "Les erreurs de téléchargement peuvent également être causées par un bloqueur de publicités !\u003Cbr>Veuillez désactiver votre bloqueur de publicités pour nous soutenir dans le développement futur de notre service ?"
+   },
+   "drm_detected": {
+      "message": "La vidéo peut être protégée par des technologies de Gestion des Droits Numériques (DRM)."
+   },
+   "error_403": {
+      "message": "Accès refusé."
+   },
+   "error_404": {
+      "message": "Fichier non trouvé."
+   },
+   "error_408": {
+      "message": "Temps mort."
+   },
+   "error_fetch": {
+      "message": "Échec de la récupération du fichier."
+   },
+   "error_label": {
+      "message": "Erreur."
+   },
+   "error_no_audio": {
+      "message": "Pas d'audio."
+   },
+   "error_no_downloadable": {
+      "message": "Aucune vidéo téléchargeable n'a été trouvée dans le fichier d'index."
+   },
+   "error_no_index": {
+      "message": "Une erreur s'est produite lors de la récupération du fichier d'index."
+   },
+   "error_no_video": {
+      "message": "Pas de vidéo."
+   },
+   "error_quality_select": {
+      "message": "Une erreur s'est produite lors de la vérification de la qualité vidéo."
+   },
+   "error_try_capture": {
+      "message": "Essayez le \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Mode Capture\u003C/a> si nécessaire."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Vous pouvez télécharger et enregistrer des vidéos en streaming en direct au format HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Annulé"
+   },
+   "message_completed": {
+      "message": "Terminé"
+   },
+   "message_error_network": {
+      "message": "Erreur réseau"
+   },
+   "message_failed": {
+      "message": "Échec du téléchargement"
+   },
+   "message_fatal": {
+      "message": "Erreur fatale. Malheureusement, le téléchargement ne peut pas être repris. Veuillez réessayer."
+   },
+   "message_resume": {
+      "message": "Téléchargement repris"
+   },
+   "quality": {
+      "message": "Qualité"
+   },
+   "quality_custom": {
+      "message": "Personnalisée"
+   },
+   "quality_high": {
+      "message": "Haute"
+   },
+   "quality_low": {
+      "message": "Basse"
+   },
+   "refer_troubleshoot": {
+      "message": "Veuillez vous référer en détail à \u003Ca href=\"#troubleshoot\">Dépannage\u003C/a>."
+   },
+   "subtitle": {
+      "message": "Sous-titre"
+   },
+   "title_completed": {
+      "message": "Terminé"
+   },
+   "title_loading": {
+      "message": "Chargement"
+   },
+   "title_recording": {
+      "message": "Enregistrement"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Le chapitre du flux a changé, mais l'enregistrement continue."
+   },
+   "warn_chunksize_excess": {
+      "message": "Le nombre de fragments dans le flux dépasse NUM_CHUNKS. Veuillez immédiatement sauvegarder cette vidéo et essayer de l'enregistrer à nouveau, car il se peut qu'elle ne puisse plus être traitée."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Une partie du flux manque, mais l'enregistrement continue."
+   },
+   "webm_detected": {
+      "message": "Le format WebM n'est actuellement pas pris en charge."
+   }
+}

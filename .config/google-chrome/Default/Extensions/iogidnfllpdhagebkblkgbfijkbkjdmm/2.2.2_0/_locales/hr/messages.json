@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Hvatanje u tijeku... ]"
+   },
+   "action_button_enable": {
+      "message": "Pronađen stream\n[ Kliknite za preuzimanje ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Vjerojatno preuzimljivo\n[ Kliknite za pokušaj ]"
+   },
+   "action_button_loader": {
+      "message": "Učitavanje..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Kliknite za pokušaj hvatanja videa ]"
+   },
+   "audio": {
+      "message": "Audio"
+   },
+   "capture_reason_1": {
+      "message": "Želite li preći na način hvatanja videa?"
+   },
+   "capture_reason_2": {
+      "message": "Nije pronađen video indeks.\u003Cbr>Želite li preći na način hvatanja videa?"
+   },
+   "capture_reason_3": {
+      "message": "Želite li koristiti način hvatanja kao prije?"
+   },
+   "disableAdblockMessage": {
+      "message": "Greške u preuzimanju također mogu biti uzrokovane blokatorom oglasa!\u003Cbr>Molimo vas da onemogućite svoj blokator oglasa kako biste nas podržali u daljnjem razvoju naše usluge."
+   },
+   "drm_detected": {
+      "message": "Video je možda zaštićen DRM (Digital Rights Management) tehnologijama."
+   },
+   "error_403": {
+      "message": "Pristup odbijen."
+   },
+   "error_404": {
+      "message": "Datoteka nije pronađena."
+   },
+   "error_408": {
+      "message": "Vremensko ograničenje."
+   },
+   "error_fetch": {
+      "message": "Neuspješno dohvaćanje datoteke."
+   },
+   "error_label": {
+      "message": "Greška."
+   },
+   "error_no_audio": {
+      "message": "Nema audio zapisa."
+   },
+   "error_no_downloadable": {
+      "message": "U indeksnoj datoteci nije pronađen preuzimljiv video."
+   },
+   "error_no_index": {
+      "message": "Došlo je do greške prilikom dohvaćanja indeksne datoteke."
+   },
+   "error_no_video": {
+      "message": "Nema videa."
+   },
+   "error_quality_select": {
+      "message": "Došlo je do greške prilikom provjere kvalitete videa."
+   },
+   "error_try_capture": {
+      "message": "Pokušajte \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Način hvatanja\u003C/a> ako je potrebno."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Možete preuzeti i spremiti video prijenos uživo u HLS / m3u8 formatu."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Otkazano"
+   },
+   "message_completed": {
+      "message": "Dovršeno"
+   },
+   "message_error_network": {
+      "message": "Greška u mreži"
+   },
+   "message_failed": {
+      "message": "Preuzimanje nije uspjelo"
+   },
+   "message_fatal": {
+      "message": "Fatalna greška. Nažalost, preuzimanje se ne može nastaviti. Molimo pokušajte ponovno."
+   },
+   "message_resume": {
+      "message": "Preuzimanje nastavljeno"
+   },
+   "quality": {
+      "message": "Kvaliteta"
+   },
+   "quality_custom": {
+      "message": "Prilagođeno"
+   },
+   "quality_high": {
+      "message": "Visoka"
+   },
+   "quality_low": {
+      "message": "Niska"
+   },
+   "refer_troubleshoot": {
+      "message": "Molimo pogledajte \u003Ca href=\"#troubleshoot\">Rješavanje problema\u003C/a> za više informacija."
+   },
+   "subtitle": {
+      "message": "Titlovi"
+   },
+   "title_completed": {
+      "message": "Dovršeno"
+   },
+   "title_loading": {
+      "message": "Učitavanje"
+   },
+   "title_recording": {
+      "message": "Snimanje"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Poglavlje streama se promijenilo, ali snimanje se nastavlja."
+   },
+   "warn_chunksize_excess": {
+      "message": "Broj fragmenata u streamu je preko NUM_CHUNKS. Molimo odmah spremite ovaj video i pokušajte ponovno snimati, jer se možda neće moći dalje obraditi."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Dio streama nedostaje, ali snimanje se nastavlja."
+   },
+   "webm_detected": {
+      "message": "WebM trenutno nije podržan."
+   }
+}

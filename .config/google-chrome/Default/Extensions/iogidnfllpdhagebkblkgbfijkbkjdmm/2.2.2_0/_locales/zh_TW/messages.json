@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ 正在捕捉... ]"
+   },
+   "action_button_enable": {
+      "message": "已偵測到串流\n[ 點擊下載 ]"
+   },
+   "action_button_enable_weak": {
+      "message": "可能可下載\n[ 點擊嘗試 ]"
+   },
+   "action_button_loader": {
+      "message": "正在載入..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ 點擊嘗試捕捉影片 ]"
+   },
+   "audio": {
+      "message": "音訊"
+   },
+   "capture_reason_1": {
+      "message": "您想要切換到影片捕捉模式嗎？"
+   },
+   "capture_reason_2": {
+      "message": "找不到影片索引。\u003Cbr>您想要切換到影片捕捉模式嗎？"
+   },
+   "capture_reason_3": {
+      "message": "您想要像之前一樣使用捕捉模式嗎？"
+   },
+   "disableAdblockMessage": {
+      "message": "啟用廣告攔截可能會導致下載錯誤！\u003Cbr>為了進一步開發我們的服務，您能否請禁用您的廣告攔截器？"
+   },
+   "drm_detected": {
+      "message": "此影片可能受到DRM（數位版權管理）技術保護。"
+   },
+   "error_403": {
+      "message": "存取被拒。"
+   },
+   "error_404": {
+      "message": "找不到檔案。"
+   },
+   "error_408": {
+      "message": "逾時。"
+   },
+   "error_fetch": {
+      "message": "檔案獲取失敗。"
+   },
+   "error_label": {
+      "message": "發生錯誤。"
+   },
+   "error_no_audio": {
+      "message": "無音訊。"
+   },
+   "error_no_downloadable": {
+      "message": "在索引檔中未找到可下載的影片。"
+   },
+   "error_no_index": {
+      "message": "獲取索引檔時發生錯誤。"
+   },
+   "error_no_video": {
+      "message": "無影像。"
+   },
+   "error_quality_select": {
+      "message": "檢查影片品質時發生錯誤。"
+   },
+   "error_try_capture": {
+      "message": "如有必要，請嘗試\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">捕捉模式\u003C/a>。"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "您可以下載並保存 HLS / m3u8 格式的直播串流視頻。"
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "已取消"
+   },
+   "message_completed": {
+      "message": "已完成"
+   },
+   "message_error_network": {
+      "message": "網路錯誤"
+   },
+   "message_failed": {
+      "message": "下載失敗"
+   },
+   "message_fatal": {
+      "message": "發生嚴重錯誤。很遺憾，無法恢復下載。請重新開始。"
+   },
+   "message_resume": {
+      "message": "已恢復下載"
+   },
+   "quality": {
+      "message": "品質"
+   },
+   "quality_custom": {
+      "message": "自訂"
+   },
+   "quality_high": {
+      "message": "高"
+   },
+   "quality_low": {
+      "message": "低"
+   },
+   "refer_troubleshoot": {
+      "message": "請詳細參考\u003Ca href=\"#troubleshoot\">疑難排解\u003C/a>。"
+   },
+   "subtitle": {
+      "message": "字幕"
+   },
+   "title_completed": {
+      "message": "已完成"
+   },
+   "title_loading": {
+      "message": "正在載入"
+   },
+   "title_recording": {
+      "message": "正在錄製"
+   },
+   "warn_chapter_has_changed": {
+      "message": "串流的章節已變更，但錄製仍在繼續。"
+   },
+   "warn_chunksize_excess": {
+      "message": "串流中的片段數超過NUM_CHUNKS。請立即儲存此影片並再次嘗試錄製，因為可能無法進一步處理。"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "串流的一部分遺失，但錄製仍在繼續。"
+   },
+   "webm_detected": {
+      "message": "目前不支援WebM格式。"
+   }
+}

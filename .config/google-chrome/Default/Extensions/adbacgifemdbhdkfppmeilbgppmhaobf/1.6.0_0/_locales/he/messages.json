@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "ערכות נושא מונפשות"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "ערכות נושא מונפשות זמינות למנויים בלבד."
+   },
+   "Background": {
+      "message": "רקע כללי"
+   },
+   "ChangeProfileTheme": {
+      "message": "שנה נושא פרופיל"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "בחר רקע למטה."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "לחץ על פריט כדי לבטל את אבזורו."
+   },
+   "CloseOffer": {
+      "message": "סגור מבצעים"
+   },
+   "CloseProfileThemes": {
+      "message": "סגור ערכות נושא לפרופיל"
+   },
+   "Comments": {
+      "message": "הערות"
+   },
+   "CreateOffer": {
+      "message": "צור הצעה"
+   },
+   "CurrentlyWearing": {
+      "message": "כרגע לובש"
+   },
+   "CustomThemes": {
+      "message": "ערכות נושא מותאמות אישית"
+   },
+   "FastestServers": {
+      "message": "השרתים המהירים ביותר"
+   },
+   "MaxPlayers": {
+      "message": "מקסימום שחקנים"
+   },
+   "MoreFilters": {
+      "message": "עוד פילטרים"
+   },
+   "MyOutfits": {
+      "message": "התלבושות שלי"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "שם ושמור את התלבושת שלך."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "אין תגובות עדיין ... היה הראשון לכתוב תגובה!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "אין הצעות סחר לפריט זה ... היה הראשון לפרסם פרסומת!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "משתמשי RoPro אחרים יראו את הנושא שלך כשיבקרו בפרופיל שלך."
+   },
+   "OutfitCost": {
+      "message": "עלות תלבושת:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "אנא שקול להשאיר לנו ביקורת!"
+   },
+   "PostComment": {
+      "message": "פרסם תגובה"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "לחץ על מקש Enter כדי להגיש את שם התלבושת."
+   },
+   "RandomGame": {
+      "message": "משחק אקראי"
+   },
+   "RemoveTheme": {
+      "message": "הסר נושא"
+   },
+   "Reputation": {
+      "message": "תדמית"
+   },
+   "Review": {
+      "message": "סקירה"
+   },
+   "RoProProfileThemes": {
+      "message": "נושאי פרופיל RoPro"
+   },
+   "SaveTheme": {
+      "message": "שמור נושא"
+   },
+   "SeeMore": {
+      "message": "ראה עוד"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "תלבושת שנוצרה בהצלחה."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "כדי להגיש נושא מותאם אישית לאישור, הצטרף לשרת הדיסקורד RoPro:"
+   },
+   "TradeOffers": {
+      "message": "הצעות סחר"
+   },
+   "Upgrade": {
+      "message": "שדרוג"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "שדרג כדי לשמור את התלבושות שלך!"
+   },
+   "WriteAComment": {
+      "message": "כתוב הערה!"
+   },
+   "accountSecurityFeatures": {
+      "message": "תכונות אבטחת חשבון"
+   },
+   "activateSubscription": {
+      "message": "הפעל מנוי"
+   },
+   "dealsNotifier": {
+      "message": "מודיע על מבצעים"
+   },
+   "description": {
+      "message": "הכלי המושלם לשחקנים ולסוחרים. RoPro מוסיף עשרות תכונות שימושיות לרובלוקס."
+   },
+   "disclaimer1": {
+      "message": "RoPro אינה קשורה ל- Roblox.com או ל- Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "תוצרת קוביות.צרו איתי קשר: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "מאפיינים כלליים"
+   },
+   "groupFeatures": {
+      "message": "תכונות קבוצתיות"
+   },
+   "help": {
+      "message": "עֶזרָה"
+   },
+   "manageSubscription": {
+      "message": "נהל מנוי"
+   },
+   "name": {
+      "message": "RoPro - שפר את חוויית  Roblox שלך"
+   },
+   "privacyPolicy": {
+      "message": "מדיניות פרטיות"
+   },
+   "settings": {
+      "message": "הגדרות"
+   },
+   "subscription": {
+      "message": "מִנוּי"
+   },
+   "support": {
+      "message": "תמיכה"
+   },
+   "termsOfService": {
+      "message": "תנאי השירות"
+   },
+   "tradingFeatures": {
+      "message": "תכונות מסחר"
+   }
+}

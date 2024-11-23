@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ ক্যাপচারিং... ]"
+   },
+   "action_button_enable": {
+      "message": "স্ট্রিম পাওয়া গেছে\n[ ডাউনলোডের জন্য ক্লিক করুন ]"
+   },
+   "action_button_enable_weak": {
+      "message": "সম্ভবত ডাউনলোড করা যাবে\n[ চেষ্টা করতে ক্লিক করুন ]"
+   },
+   "action_button_loader": {
+      "message": "লোড হচ্ছে..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ ভিডিও ক্যাপচার মোডে যেতে ক্লিক করুন ]"
+   },
+   "audio": {
+      "message": "অডিও"
+   },
+   "capture_reason_1": {
+      "message": "আপনি কি ভিডিও ক্যাপচার মোডে স্যুইচ করতে চান?"
+   },
+   "capture_reason_2": {
+      "message": "কোনো ভিডিও ইনডেক্স পাওয়া যায়নি।\u003Cbr>আপনি কি ভিডিও ক্যাপচার মোডে স্যুইচ করতে চান?"
+   },
+   "capture_reason_3": {
+      "message": "আপনি কি আগের মতো ক্যাপচার মোড ব্যবহার করতে চান?"
+   },
+   "disableAdblockMessage": {
+      "message": "অ্যাড-ব্লকারের কারণে ডাউনলোড ত্রুটি ঘটতে পারে!\u003Cbr>আমাদের পরিষেবার আরও উন্নয়নে সহায়তা করতে আপনার অ্যাড-ব্লকার অক্ষম করার অনুরোধ করা হচ্ছে?"
+   },
+   "drm_detected": {
+      "message": "ভিডিওটি DRM (ডিজিটাল রাইটস ম্যানেজমেন্ট) প্রযুক্তিগুলি দ্বারা সুরক্ষিত হতে পারে।"
+   },
+   "error_403": {
+      "message": "অ্যাক্সেস অস্বীকৃত।"
+   },
+   "error_404": {
+      "message": "ফাইল পাওয়া যায়নি।"
+   },
+   "error_408": {
+      "message": "সময়সীমা অতিক্রান্ত।"
+   },
+   "error_fetch": {
+      "message": "ফাইল আনার সময় ত্রুটি হয়েছে।"
+   },
+   "error_label": {
+      "message": "ত্রুটি।"
+   },
+   "error_no_audio": {
+      "message": "কোনো অডিও নেই।"
+   },
+   "error_no_downloadable": {
+      "message": "ইনডেক্স ফাইলে কোনো ডাউনলোডযোগ্য ভিডিও পাওয়া যায়নি।"
+   },
+   "error_no_index": {
+      "message": "ইনডেক্স ফাইল আনার সময় ত্রুটি হয়েছে।"
+   },
+   "error_no_video": {
+      "message": "কোনো ভিডিও নেই।"
+   },
+   "error_quality_select": {
+      "message": "ভিডিওর গুণমান যাচাইকালে ত্রুটি হয়েছে।"
+   },
+   "error_try_capture": {
+      "message": "\u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">ক্যাপচার মোড\u003C/a> প্রয়োজন হলে চেষ্টা করুন।"
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "আপনি HLS / m3u8 ফরম্যাটে লাইভ স্ট্রিমিং ভিডিও ডাউনলোড এবং সংরক্ষণ করতে পারেন।"
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "বাতিল করা হয়েছে"
+   },
+   "message_completed": {
+      "message": "সম্পন্ন হয়েছে"
+   },
+   "message_error_network": {
+      "message": "নেটওয়ার্ক ত্রুটি"
+   },
+   "message_failed": {
+      "message": "ডাউনলোড ব্যর্থ হয়েছে"
+   },
+   "message_fatal": {
+      "message": "গুরুতর ত্রুটি। দুর্ভাগ্যবশত ডাউনলোডটি পুনরায় শুরু করা যাবে না। দয়া করে আবার চেষ্টা করুন।"
+   },
+   "message_resume": {
+      "message": "ডাউনলোড পুনরায় শুরু হয়েছে"
+   },
+   "quality": {
+      "message": "গুণমান"
+   },
+   "quality_custom": {
+      "message": "কাস্টম"
+   },
+   "quality_high": {
+      "message": "উচ্চ"
+   },
+   "quality_low": {
+      "message": "নিম্ন"
+   },
+   "refer_troubleshoot": {
+      "message": "বিস্তারিত \u003Ca href=\"#troubleshoot\">সমস্যা নির্ণয়\u003C/a> দেখুন।"
+   },
+   "subtitle": {
+      "message": "সাবটাইটেল"
+   },
+   "title_completed": {
+      "message": "সম্পন্ন"
+   },
+   "title_loading": {
+      "message": "লোড হচ্ছে"
+   },
+   "title_recording": {
+      "message": "রেকর্ডিং"
+   },
+   "warn_chapter_has_changed": {
+      "message": "স্ট্রিমের অধ্যায় পরিবর্তিত হয়েছে, তবে রেকর্ডিং চালিয়ে যাচ্ছে।"
+   },
+   "warn_chunksize_excess": {
+      "message": "স্ট্রিমের ফ্র্যাগমেন্টের সংখ্যা NUM_CHUNKS এর বেশি। এটি আর প্রক্রিয়া করা সম্ভব নাও হতে পারে, তাই দয়া করে এই ভিডিওটি তাত্ক্ষণিকভাবে সংরক্ষণ করুন এবং আবার রেকর্ডিং চেষ্টা করুন।"
+   },
+   "warn_discontig_fragments_found": {
+      "message": "স্ট্রিমের একটি অংশ অনুপস্থিত, তবে রেকর্ডিং চালিয়ে যাচ্ছে।"
+   },
+   "webm_detected": {
+      "message": "WebM বর্তমানে সমর্থিত নয়।"
+   }
+}

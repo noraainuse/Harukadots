@@ -1,0 +1,134 @@
+{
+   "action_button_capturing": {
+      "message": "Stream Recorder\n[ Αιχμαλωτίζοντας... ]"
+   },
+   "action_button_enable": {
+      "message": "Βρέθηκε Stream\n[ Κλικ για λήψη ]"
+   },
+   "action_button_enable_weak": {
+      "message": "Πιθανώς κατεβάσιμο\n[ Κλικ για δοκιμή ]"
+   },
+   "action_button_loader": {
+      "message": "Φόρτωση..."
+   },
+   "action_button_off": {
+      "message": "Stream Recorder\n[ Κλικ για δοκιμή αιχμαλωτισμού του βίντεο ]"
+   },
+   "audio": {
+      "message": "Ήχος"
+   },
+   "capture_reason_1": {
+      "message": "Θέλετε να μεταβείτε στη λειτουργία αιχμαλωτισμού βίντεο;"
+   },
+   "capture_reason_2": {
+      "message": "Δεν βρέθηκε ευρετήριο βίντεο.\u003Cbr>Θέλετε να μεταβείτε στη λειτουργία αιχμαλωτισμού βίντεο;"
+   },
+   "capture_reason_3": {
+      "message": "Θέλετε να χρησιμοποιήσετε τη λειτουργία αιχμαλωτισμού όπως πριν;"
+   },
+   "disableAdblockMessage": {
+      "message": "Τα σφάλματα κατεβάσματος μπορεί επίσης να προκληθούν από τον αποκλεισμό διαφημίσεων!\u003Cbr>Θα μπορούσατε να απενεργοποιήσετε τον αποκλειστή διαφημίσεων για να μας υποστηρίξετε στην περαιτέρω ανάπτυξη της υπηρεσίας μας;"
+   },
+   "drm_detected": {
+      "message": "Το βίντεο μπορεί να προστατεύεται από τεχνολογίες DRM (Διαχείρισης Ψηφιακών Δικαιωμάτων)."
+   },
+   "error_403": {
+      "message": "Η πρόσβαση απορρίφθηκε."
+   },
+   "error_404": {
+      "message": "Το αρχείο δεν βρέθηκε."
+   },
+   "error_408": {
+      "message": "Χρόνος αναμονής."
+   },
+   "error_fetch": {
+      "message": "Αποτυχία φόρτωσης του αρχείου."
+   },
+   "error_label": {
+      "message": "Σφάλμα."
+   },
+   "error_no_audio": {
+      "message": "Δεν υπάρχει ήχος."
+   },
+   "error_no_downloadable": {
+      "message": "Δεν βρέθηκε κατεβάσιμο βίντεο στο αρχείο ευρετηρίου."
+   },
+   "error_no_index": {
+      "message": "Παρουσιάστηκε σφάλμα κατά τη φόρτωση του αρχείου ευρετηρίου."
+   },
+   "error_no_video": {
+      "message": "Δεν υπάρχει βίντεο."
+   },
+   "error_quality_select": {
+      "message": "Παρουσιάστηκε σφάλμα κατά τον έλεγχο της ποιότητας του βίντεο."
+   },
+   "error_try_capture": {
+      "message": "Δοκιμάστε την \u003Ca href=\"javascript:void(0)\" class=\"tryCapture\">Λειτουργία Αιχμαλωτισμού\u003C/a> αν είναι απαραίτητο."
+   },
+   "manifest_browser_action": {
+      "message": "Stream Recorder"
+   },
+   "manifest_description": {
+      "message": "Μπορείτε να κατεβάσετε και να αποθηκεύσετε ζωντανό βίντεο ροής σε μορφή HLS / m3u8."
+   },
+   "manifest_name": {
+      "message": "Stream Recorder - HLS & m3u8 Video Downloader"
+   },
+   "message_cancelled": {
+      "message": "Ακυρώθηκε"
+   },
+   "message_completed": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "message_error_network": {
+      "message": "Σφάλμα δικτύου"
+   },
+   "message_failed": {
+      "message": "Το κατέβασμα απέτυχε"
+   },
+   "message_fatal": {
+      "message": "Σοβαρό σφάλμα. Δυστυχώς το κατέβασμα δεν μπορεί να συνεχιστεί. Παρακαλώ δοκιμάστε ξανά."
+   },
+   "message_resume": {
+      "message": "Το κατέβασμα συνεχίστηκε"
+   },
+   "quality": {
+      "message": "Ποιότητα"
+   },
+   "quality_custom": {
+      "message": "Προσαρμοσμένη"
+   },
+   "quality_high": {
+      "message": "Υψηλή"
+   },
+   "quality_low": {
+      "message": "Χαμηλή"
+   },
+   "refer_troubleshoot": {
+      "message": "Ανατρέξτε στην ενότητα \u003Ca href=\"#troubleshoot\">Αντιμετώπιση Προβλημάτων\u003C/a> για λεπτομέρειες."
+   },
+   "subtitle": {
+      "message": "Υπότιτλος"
+   },
+   "title_completed": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "title_loading": {
+      "message": "Φόρτωση"
+   },
+   "title_recording": {
+      "message": "Εγγραφή"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Το κεφάλαιο του stream έχει αλλάξει, αλλά η εγγραφή συνεχίζεται."
+   },
+   "warn_chunksize_excess": {
+      "message": "Ο αριθμός των κομματιών στο stream είναι πάνω από NUM_CHUNKS. Παρακαλώ αποθηκεύστε αμέσως αυτό το βίντεο και δοκιμάστε ξανά την εγγραφή, καθώς μπορεί να μην είναι δυνατή η περαιτέρω επεξεργασία."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Ένα μέρος του stream λείπει, αλλά η εγγραφή συνεχίζεται."
+   },
+   "webm_detected": {
+      "message": "Το WebM δεν υποστηρίζεται προς το παρόν."
+   }
+}

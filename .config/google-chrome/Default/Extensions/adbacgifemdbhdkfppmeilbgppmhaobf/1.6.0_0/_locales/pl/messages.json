@@ -1,0 +1,164 @@
+{
+   "AnimatedThemes": {
+      "message": "Animowane motywy"
+   },
+   "AnimatedThemesAreAvailableForSubscribersOnly": {
+      "message": "Animowane motywy są dostępne tylko dla subskrybentów."
+   },
+   "Background": {
+      "message": "tło"
+   },
+   "ChangeProfileTheme": {
+      "message": "Zmień motyw profilu"
+   },
+   "ChooseABackgroundBelow": {
+      "message": "Wybierz tło poniżej."
+   },
+   "ClickAnItemToUnequipIt": {
+      "message": "Kliknij element, aby go zdjąć."
+   },
+   "CloseOffer": {
+      "message": "Zamknij oferty"
+   },
+   "CloseProfileThemes": {
+      "message": "Zamknij motywy profili"
+   },
+   "Comments": {
+      "message": "Komentarze"
+   },
+   "CreateOffer": {
+      "message": "Utwórz ofertę"
+   },
+   "CurrentlyWearing": {
+      "message": "Obecnie nosi"
+   },
+   "CustomThemes": {
+      "message": "Motywy niestandardowe"
+   },
+   "FastestServers": {
+      "message": "Najszybsze serwery"
+   },
+   "MaxPlayers": {
+      "message": "Maksimum graczy"
+   },
+   "MoreFilters": {
+      "message": "Więcej filtrów"
+   },
+   "MyOutfits": {
+      "message": "Moje stroje"
+   },
+   "NameAndSaveYourOutfit": {
+      "message": "Nazwij i zapisz swój strój."
+   },
+   "NoCommentsYetBeTheFirstToWriteOne": {
+      "message": "Brak komentarzy ... Napisz pierwszy!"
+   },
+   "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+      "message": "Brak ofert handlu dla tego przedmiotu ... Opublikuj jako pierwszy!"
+   },
+   "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+      "message": "Inni użytkownicy RoPro zobaczą Twój motyw podczas odwiedzania Twojego profilu."
+   },
+   "OutfitCost": {
+      "message": "Koszt stroju:"
+   },
+   "PleaseConsiderLeavingUsAReview": {
+      "message": "Prosimy o rozważenie pozostawienia nam recenzji!"
+   },
+   "PostComment": {
+      "message": "Wyślij komentarz"
+   },
+   "PressTheEnterKeyToSubmitOutfitName": {
+      "message": "Naciśnij klawisz Enter, aby przesłać nazwę stroju."
+   },
+   "RandomGame": {
+      "message": "Gra losowa"
+   },
+   "RemoveTheme": {
+      "message": "Usuń motyw"
+   },
+   "Reputation": {
+      "message": "Reputacja"
+   },
+   "Review": {
+      "message": "Przejrzeć"
+   },
+   "RoProProfileThemes": {
+      "message": "Motywy profili RoPro"
+   },
+   "SaveTheme": {
+      "message": "Zapisz motyw"
+   },
+   "SeeMore": {
+      "message": "Zobacz więcej"
+   },
+   "SuccessfullyCreatedOutfit": {
+      "message": "Utworzono strój."
+   },
+   "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+      "message": "Aby przesłać niestandardowy motyw do zatwierdzenia, dołącz do serwera Discord RoPro:"
+   },
+   "TradeOffers": {
+      "message": "Oferty handlowe"
+   },
+   "Upgrade": {
+      "message": "Aktualizacja"
+   },
+   "UpgradeToSaveYourOutfits": {
+      "message": "Uaktualnij, aby zapisać swoje stroje!"
+   },
+   "WriteAComment": {
+      "message": "Napisz komentarz!"
+   },
+   "accountSecurityFeatures": {
+      "message": "Funkcje bezpieczeństwa konta"
+   },
+   "activateSubscription": {
+      "message": "Aktywuj subskrypcję"
+   },
+   "dealsNotifier": {
+      "message": "Powiadomienie o okazjach"
+   },
+   "description": {
+      "message": "Idealne narzędzie dla graczy i handlowców. RoPro dodaje dziesiątki przydatnych funkcji do Roblox."
+   },
+   "disclaimer1": {
+      "message": "RoPro nie jest powiązany z Roblox.com ani Rolimons.com"
+   },
+   "disclaimer2": {
+      "message": "Wykonane przez Dice.Skontaktuj się ze mną: dice@ropro.io"
+   },
+   "generalFeatures": {
+      "message": "Główne cechy"
+   },
+   "groupFeatures": {
+      "message": "Funkcje grupowe"
+   },
+   "help": {
+      "message": "Wsparcie"
+   },
+   "manageSubscription": {
+      "message": "Zarządzaj subskrypcją"
+   },
+   "name": {
+      "message": "RoPro - popraw swoje doznanie z Roblox"
+   },
+   "privacyPolicy": {
+      "message": "Polityka prywatności"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "subscription": {
+      "message": "Subskrypcja"
+   },
+   "support": {
+      "message": "Wsparcie"
+   },
+   "termsOfService": {
+      "message": "Warunki usługi"
+   },
+   "tradingFeatures": {
+      "message": "Funkcje handlowe"
+   }
+}

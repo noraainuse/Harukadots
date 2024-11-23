@@ -1,0 +1,21 @@
+2024/11/23-19:45:28.044 4d5 Reusing MANIFEST /home/noraa/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-19:45:28.045 4d5 Recovering log #35
+2024/11/23-19:45:28.061 4d5 Reusing old log /home/noraa/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000035.log 
+2024/11/23-19:45:33.023 4d6 Level-0 table #40: started
+2024/11/23-19:45:33.058 4d6 Level-0 table #40: 1548034 bytes OK
+2024/11/23-19:45:33.067 4d6 Delete type=0 #35
+2024/11/23-19:46:00.757 4e3 Compacting 1@1 + 1@2 files
+2024/11/23-19:46:00.764 4e3 Generated table #41@1: 562 keys, 108494 bytes
+2024/11/23-19:46:00.764 4e3 Compacted 1@1 + 1@2 files => 108494 bytes
+2024/11/23-19:46:00.767 4e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-19:46:00.767 4e3 Delete type=2 #37
+2024/11/23-19:46:00.767 4e3 Delete type=2 #40
+2024/11/23-20:04:19.394 4d6 Level-0 table #43: started
+2024/11/23-20:04:19.415 4d6 Level-0 table #43: 1344194 bytes OK
+2024/11/23-20:04:19.419 4d6 Delete type=0 #39
+2024/11/23-20:08:30.283 4d7 Compacting 1@1 + 1@2 files
+2024/11/23-20:08:30.294 4d7 Generated table #44@1: 571 keys, 50115 bytes
+2024/11/23-20:08:30.294 4d7 Compacted 1@1 + 1@2 files => 50115 bytes
+2024/11/23-20:08:30.296 4d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-20:08:30.297 4d7 Delete type=2 #43
+2024/11/23-20:08:30.297 4d7 Delete type=2 #41

@@ -1,0 +1,39 @@
+html {
+	--btr-header-color: rgb(190, 0, 0);
+	--btr-header-text-color: #fff;
+}
+
+/* Header */
+
+#header,
+.btr-settings .btr-settings-header {
+	background-color: var(--btr-header-color);
+	border-bottom-color: var(--btr-header-color);
+}
+
+/* Flip header text color */
+
+#header,
+.btr-settings .btr-settings-header {
+	color: var(--btr-header-text-color);
+}
+
+#header .text-header {
+	color: var(--btr-header-text-color);
+}
+
+#header .rbx-navbar li:hover {
+	border-bottom-color: var(--btr-header-text-color);
+}
+
+#header span[class^="icon-nav-"],
+#header #nav-robux,
+#header .icon-logo, #header .icon-logo-r {
+	filter: invert(0.5) brightness(10);
+}
+
+#header .btr-nav-notif {
+	background-color: var(--btr-header-text-color) !important;
+	border-color: var(--btr-header-color) !important;
+	color: #000 !important;
+}

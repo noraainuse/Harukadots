@@ -80,4 +80,4 @@ cp -r ./configs/* ~/.config/
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNlaHhyOGVnNGY0a2lqMTk0MHdzZzdnaTMxd25uZWR3YXgzOTZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz5yaaP059xtcYd5lC/giphy.webp">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=300&lines=Thank+you+(+%C2%B4+%E2%96%BD+%60+)%09">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=noraainuse/dotfiles&type=Date)](https://star-history.com/#noraainuse/dotfiles&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=noraainuse/dotfiles&type=Timeline)](https://star-history.com/#noraainuse/dotfiles&Timeline)

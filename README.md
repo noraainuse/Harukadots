@@ -54,11 +54,17 @@ yay -S waybar rofi dunst kitty swaybg swaylock-fancy-git swayidle pamixer light 
 ### Necessary Font 🔑:
 
 - [JetBrains Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/JetBrainsMono.zip)
+  ```zsh
+  yay -S ttf-jetbrains-mono-nerd
+  ```
 
 - [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Iosevka.zip)
+  ```zsh
+  yay -S ttf-iosevka ttf-iosevka-nerd
+  ```
 
 - [Font Awesome](https://archlinux.org/packages/community/any/ttf-font-awesome/)
-  ```
+  ```zsh
   yay -S ttf-font-awesome
   ```
   Once you download them and unpack them, place them into `~/.fonts` or `~/.local/share/fonts.`

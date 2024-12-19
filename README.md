@@ -24,7 +24,17 @@
     - [Oh My Zsh](https://ohmyz.sh/#install)
     - **Plugin Manager**: [Zap](https://www.zapzsh.org/)
     - **🤖 Prompt**: [Powerlevel10k Prompt (˶˃ ᵕ ˂˶)](https://github.com/romkatv/powerlevel10k)
-# Installations 💫:
+# Auto Installation ⭐
+```zsh
+sudo pacman -Sy base-devel
+git clone https://github.com/noraainuse/Harukadots.git
+cd Harukadots
+sudo chmod +x install.sh
+./install.sh
+```
+- Enjoy (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
+
+# Manual Installations 💫:
 - This config need first [Hyprland](https://hyprland.org/) using this [guide](https://wiki.hyprland.org/Getting-Started/Installation/) depend on your Distro:
 
 ### Arch

@@ -144,7 +144,6 @@ install_dotfiles() {
     fi
     
     mkdir -p ~/.config
-    git clone https://github.com/noraainuse/Harukadots.git
     cd Harukadots
     cp -r .config/* ~/.config/
     cd ..

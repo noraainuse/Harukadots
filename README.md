@@ -77,7 +77,7 @@ fc-cache -fv
 ```
 git clone https://github.com/noraainuse/dotfiles
 cd dotfiles
-cp -r .configs/* ~/.config/
+cp -r .config/* ~/.config/
 ```
   > Finally , now you can login with ํYour New Hyprland Rice
 

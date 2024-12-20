@@ -24,7 +24,7 @@
     - [Oh My Zsh](https://ohmyz.sh/#install)
     - **Plugin Manager**: [Zap](https://www.zapzsh.org/)
     - **🤖 Prompt**: [Powerlevel10k Prompt (˶˃ ᵕ ˂˶)](https://github.com/romkatv/powerlevel10k)
-# Auto Installation ⭐
+# Auto Installation ⭐:
 ```zsh
 sudo pacman -Sy base-devel
 git clone https://github.com/noraainuse/Harukadots.git

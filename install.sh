@@ -4,6 +4,7 @@
 GREEN='\033[0;32m'
 BLUE='\033[0;34m'
 RED='\033[0;31m'
+YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # Error handling
@@ -58,29 +59,62 @@ install_yay() {
     fi
 }
 
+# Function to select and install GPU drivers
+install_gpu_drivers() {
+    clear
+    echo -e "${YELLOW}GPU Driver Selection${NC}"
+    echo "Please select your GPU driver:"
+    echo "1) Mesa (Open source - AMD/Intel)"
+    echo "2) Mesa-amber (Experimental Mesa)"
+    echo "3) NVIDIA Utils"
+    
+    while true; do
+        read -p "Enter your choice (1-3): " gpu_choice
+        case $gpu_choice in
+            1)
+                print_status "Installing Mesa drivers..."
+                yay -S --noconfirm mesa
+                break
+                ;;
+            2)
+                print_status "Installing Mesa-amber drivers..."
+                yay -S --noconfirm mesa-amber
+                break
+                ;;
+            3)
+                print_status "Installing NVIDIA utilities..."
+                yay -S --noconfirm nvidia-utils nvidia-settings
+                break
+                ;;
+            *)
+                print_error "Invalid choice. Please select 1, 2, or 3"
+                ;;
+        esac
+    done
+}
+
 # Function to install GRUB theme
 install_grub_theme() {
     print_status "Installing Arknights Endfield GRUB theme..."
-    
-    # Create temporary directory
     local temp_dir=$(mktemp -d)
     cd "$temp_dir"
     
-    # Clone the repository
+    # Clone and install theme files
     git clone https://github.com/Shelton786/Grub-Themes-Arknights_Endfield_Demo.git
     cd Grub-Themes-Arknights_Endfield_Demo/Arknights_Endfield_Demo
-    
-    # Create themes directory if it doesn't exist
     sudo mkdir -p /boot/grub/themes/Arknights_Endfield_Demo
-    
-    # Copy theme files
     sudo cp -r * /boot/grub/themes/Arknights_Endfield_Demo/
     
+    # Backup original grub config
+    sudo cp /etc/default/grub /etc/default/grub.backup
+    
     # Update GRUB configuration
-    if ! grep -q "GRUB_THEME=" /etc/default/grub; then
-        echo 'GRUB_THEME="/boot/grub/themes/Arknights_Endfield_Demo/theme.txt"' | sudo tee -a /etc/default/grub
-    else
+    if grep -q '^GRUB_THEME=' /etc/default/grub; then
+        # Replace existing GRUB_THEME line
         sudo sed -i 's|^GRUB_THEME=.*|GRUB_THEME="/boot/grub/themes/Arknights_Endfield_Demo/theme.txt"|' /etc/default/grub
+    else
+        # Add GRUB_THEME line if it doesn't exist
+        echo 'GRUB_THEME="/boot/grub/themes/Arknights_Endfield_Demo/theme.txt"' | sudo tee -a /etc/default/grub
     fi
     
     # Update GRUB
@@ -89,14 +123,13 @@ install_grub_theme() {
     # Cleanup
     cd
     rm -rf "$temp_dir"
-    
     print_success "GRUB theme installed successfully"
 }
 
 # Function to install Hyprland and dependencies
 install_hyprland() {
     print_status "Installing Hyprland and dependencies..."
-    yay -S --needed hyprland-meta-git
+    yay -S --noconfirm hyprland-meta-git
     
     print_status "Installing additional packages..."
     packages=(
@@ -129,8 +162,6 @@ install_additional_software() {
     )
     
     yay -S --noconfirm "${packages[@]}"
-
-    print_status "Updating font cache..."
     fc-cache -fv
     print_success "Additional software installed successfully"
 }
@@ -144,6 +175,7 @@ install_dotfiles() {
     fi
     
     mkdir -p ~/.config
+    git clone https://github.com/noraainuse/Harukadots.git
     cd Harukadots
     cp -r .config/* ~/.config/
     cd ..
@@ -161,29 +193,19 @@ setup_sddm() {
 
 # Main installation function
 main() {
-    # Clear the screen
     clear
-    
-    # Print banner
     echo -e "${GREEN}"
     echo "╔═══════════════════════════════════════╗"
     echo "║        Harukadots Installer          ║"
     echo "╚═══════════════════════════════════════╝"
     echo -e "${NC}"
     
-    # Check if running as root
     check_root
-    
-    # Confirm installation
-    read -p "Do you want to proceed with the installation? (y/N) " -n 1 -r
-    echo
-    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
-        exit 1
-    fi
     
     print_status "Starting Harukadots installation..."
     
     install_yay
+    install_gpu_drivers
     install_grub_theme
     install_hyprland
     install_additional_software
@@ -191,13 +213,9 @@ main() {
     setup_sddm
     
     print_success "Installation completed successfully!"
-    print_success "Please reboot your system to start using Harukadots"
-    
-    read -p "Would you like to reboot now? (y/N) " -n 1 -r
-    echo
-    if [[ $REPLY =~ ^[Yy]$ ]]; then
-        sudo reboot
-    fi
+    print_success "System will reboot in 10 seconds..."
+    sleep 10
+    sudo reboot
 }
 
 # Run main function
